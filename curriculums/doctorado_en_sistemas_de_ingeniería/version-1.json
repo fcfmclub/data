@@ -1,0 +1,221 @@
+{
+  "name": "Doctorado en Sistemas de Ingeniería",
+  "version": 1,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN78O",
+      "name": "Microeconomía Avanzada",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [
+        "IN3171",
+        "MA34A",
+        "MA3401",
+        "MA34B",
+        "MA3402",
+        "MA3403",
+        "IN3141",
+        "IN41A",
+        "IN2201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1074",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN79O",
+      "name": "Modelos Estocásticos en Sistemas de Ingeniería",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "IN3171",
+        "IN3701",
+        "MA3711",
+        "MA34B",
+        "MA34A",
+        "MA3403",
+        "MA3402",
+        "IN3141"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1075",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN77O",
+      "name": "Modelos y Algoritmos de Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "IN34A",
+        "IN3171",
+        "IN3701",
+        "MA3701",
+        "EL4114",
+        "IN3141",
+        "IN3242",
+        "IN3401",
+        "MA3401",
+        "MA3402",
+        "MA3403",
+        "EL3104",
+        "IN41A",
+        "IN2201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1081",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91A",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91B",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91C",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91D",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan0e3a54b4ef65019725ed9489f4145005",
+      "name": "Ciclo de Especialización Doc Sist Ingeniería",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plan676ad947a62f2e488fa7eb8f3506931b",
+      "name": "ELECTIVOS DOCTORADO EN SISTEMAS DE INGENIERíA",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

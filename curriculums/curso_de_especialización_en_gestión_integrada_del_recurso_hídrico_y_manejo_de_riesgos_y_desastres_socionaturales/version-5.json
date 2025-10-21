@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Gestión Integrada del Recurso Hídrico y Manejo de Riesgos y Desastres Socionaturales",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECGIRH01",
+      "name": "Gestión Integrada del Recurso Hídrico y Manejo de Riesgos y Desastres Socionaturales",
+      "department": null,
+      "students_per_course": 105,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

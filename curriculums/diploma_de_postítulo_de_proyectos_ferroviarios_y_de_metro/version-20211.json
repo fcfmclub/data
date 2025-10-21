@@ -1,0 +1,210 @@
+{
+  "name": "Diploma de Postítulo de Proyectos Ferroviarios y de Metro",
+  "version": 20211,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDICPFM10",
+      "name": "Control de Vibraciones en Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM04",
+      "name": "Energización en Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 32,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM06",
+      "name": "Infraestructura Ferroviaria y de Metro",
+      "department": null,
+      "students_per_course": 32,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM01",
+      "name": "Introducción a los Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 32,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM09",
+      "name": "Mantenimiento de Vías, Trenes e Infraestructura Ferroviaria y de Metro",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM02",
+      "name": "Planificación Pública y Corporativa en Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 32,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM03",
+      "name": "Requisitos Operacionales en Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 32,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM11",
+      "name": "Seminario 1: El rol del usuario en los Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM12",
+      "name": "Seminario 2: Desafíos en los Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM08",
+      "name": "Señalización, Sistemas de Control y Seguridad Ferroviaria y de Metro",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM07",
+      "name": "Trenes y Sistemas en Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICPFM05",
+      "name": "Vías y Catenarias en Proyectos Ferroviarios y de Metro",
+      "department": null,
+      "students_per_course": 32,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

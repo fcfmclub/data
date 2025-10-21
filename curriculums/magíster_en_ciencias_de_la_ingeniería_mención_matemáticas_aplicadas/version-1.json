@@ -1,0 +1,172 @@
+{
+  "name": "Magíster en Ciencias de la Ingeniería, Mención Matemáticas Aplicadas",
+  "version": 1,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "MA4801",
+      "name": "Análisis Funcional",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.87,
+      "purpose": "El curso tiene como propósito que los y las estudiantes profundicen su formación en Análisis\r\nFuncional, cuyos elementos básicos se introducen en el curso de Análisis.\r\n\r\nPara ello, se estudian propiedades de los espacios de Banach y de Hilbert y de sus operadores\r\nlineales acotados, poniendo como ejemplo central los espacios Lp, se desarrolla la teoría de\r\nRiesz-Fredholm para operadores compactos y se estudia su descomposición espectral en el caso Hilbertiano.",
+      "requirements": [
+        "MA3802"
+      ],
+      "equivalences": [
+        "MA48D"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3608",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA609",
+      "name": "Análisis II",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4107",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA796",
+      "name": "Introducción a la Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 4,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA795",
+      "name": "Preparación Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 3,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EP80A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA797",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA798",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 3,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 42,
+      "code": "plan9909caa7289dc020c94b4dea7187685a",
+      "name": "Analisis_no_lineal_optimización_y_control",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 42 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 42,
+      "code": "planaffc365f1b89c7a1f8398d4b9c937394",
+      "name": "Probabilidades_sistemas_dinamicos_automatas",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 42 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

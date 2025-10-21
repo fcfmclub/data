@@ -1,0 +1,125 @@
+{
+  "name": "Curso de Especialización CIO Segmento Operativo",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CECIOSOG101",
+      "name": "LIDERA ENAP Segmento Operativo G1",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOSOG202",
+      "name": "LIDERA ENAP Segmento Operativo G2",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOSOG303",
+      "name": "LIDERA ENAP Segmento Operativo G3",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOSOG404",
+      "name": "LIDERA ENAP Segmento Operativo G4",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOSOG505",
+      "name": "LIDERA ENAP Segmento Táctico 1",
+      "department": null,
+      "students_per_course": 38,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOSOG606",
+      "name": "LIDERA ENAP Segmento Táctico 2",
+      "department": null,
+      "students_per_course": 39,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CECIOSOG707",
+      "name": "LIDERA ENAP Segmento Táctico 3",
+      "department": null,
+      "students_per_course": 26,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

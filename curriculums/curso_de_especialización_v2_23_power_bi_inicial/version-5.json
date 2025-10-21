@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización V2 - 23 Power Bi Inicial",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBV2",
+      "name": "V2 - 23 Power Bi Inicial",
+      "department": null,
+      "students_per_course": 82,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

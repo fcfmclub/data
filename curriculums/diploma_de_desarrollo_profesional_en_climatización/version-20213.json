@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Desarrollo Profesional en Climatización",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 5,
+      "code": "DDPDIMECC02",
+      "name": "Cargas térmicas en sistemas de climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "DDPDIMECC04",
+      "name": "Eficiencia Energética",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "DDPDIMECC05",
+      "name": "Electricidad y Control",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "DDPDIMECC06",
+      "name": "Gestión empresarial - Proyecto final",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "DDPDIMECC01",
+      "name": "Introducción: Fundamentos Térmicos de Climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "DDPDIMECC03",
+      "name": "Sistemas de Climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

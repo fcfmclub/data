@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Extracción de Mineral en Panel Caving",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPEMPC01",
+      "name": "Extracción de Mineral en Panel Caving",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

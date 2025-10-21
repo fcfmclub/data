@@ -1,0 +1,125 @@
+{
+  "name": "Diploma de Extensión en Climatización",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DEDIMCLI02",
+      "name": "Cargas Térmicas en Sistemas de Climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIMCLI04",
+      "name": "Eficiencia Energética y Recuperación de Calor",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIMCLI01",
+      "name": "Fundamentos Térmicos de Climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIMCLI07",
+      "name": "Gestión empresarial - Proyecto final",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIMCLI06",
+      "name": "Operación y Gestión de Sistemas de Climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIMCLI03",
+      "name": "Sistemas de Climatización y Aplicaciones",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIMCLI05",
+      "name": "Sistemas de Fuerza y Control de Climatización",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

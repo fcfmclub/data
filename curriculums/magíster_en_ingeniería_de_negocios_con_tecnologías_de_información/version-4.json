@@ -1,0 +1,191 @@
+{
+  "name": "Magíster en Ingeniería de Negocios con Tecnologías de Información",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN73J",
+      "name": "Arquitectura, Diseño y Construcción de un Negocio con Apoyo TI",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN7562"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN71J",
+      "name": "Diseño de Modelos y Procesos de Negocios con Ti",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN7561"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN80J",
+      "name": "Evaluación de Proyectos Basados en TIC'S",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN75J"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN76J",
+      "name": "Innovación y Gestión de Negocios",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "IN73J"
+      ],
+      "equivalences": [
+        "IN7563"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "IN79J",
+      "name": "Proyecto de Tesis o AFE",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.77,
+      "purpose": null,
+      "requirements": [
+        "IN73J"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan310b0bbfd1a20a9174dc25508c1c351a",
+      "name": "Electivos de Formación Complementaria (MBE)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan2f1799f78a1532d63c4e946d6788e5c5",
+      "name": "Electivos Area Tecnología de la Información (MBE)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plandebff585e6fd51dd688dd2b50f27e258",
+      "name": "Electivos Area Gestión de la Innovación (MBE)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan515b66b0072cfb671df7580b6a17147a",
+      "name": "Electivos Area Gestión (MBE)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

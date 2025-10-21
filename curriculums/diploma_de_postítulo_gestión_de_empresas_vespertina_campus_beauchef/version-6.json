@@ -1,0 +1,176 @@
+{
+  "name": "Diploma de Postítulo Gestión de Empresas Vespertina Campus Beauchef",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB03",
+      "name": "Contabilidad y Control",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB02",
+      "name": "Economía para la Gestión de Negocios-Macroeconomía",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB01",
+      "name": "Economía para la Gestión de Negocios-Microeconomía",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB010",
+      "name": "Gestión Estratégica",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB09",
+      "name": "Gestión Financiera",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB08",
+      "name": "Gestión de Marketing",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB07",
+      "name": "Gestión de Operaciones",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB06",
+      "name": "Gestión de Recursos Humanos",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB04",
+      "name": "Métodos Cuantitativos y Estadísticos Aplicados a la Gestión",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEVCB05",
+      "name": "Taller de Habilidades Directivas",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Diploma de Postítulo en Energías Renovables",
+  "version": 20211,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPCEER02",
+      "name": "Aplicaciones de las ERNC",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPCEER03",
+      "name": "Desafios y oportunidades asociados a las ERNC",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPCEER01",
+      "name": "Introducción a las ERNC",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPCEER04",
+      "name": "Trabajo aplicado - Estudio de casos",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Especialista en Oficial de Seguridad de la Información y Ciberseguridad",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECEOS01",
+      "name": "Especialista en Oficial de Seguridad de la Información y Ciberseguridad",
+      "department": null,
+      "students_per_course": 33,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=188766",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

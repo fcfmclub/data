@@ -1,0 +1,247 @@
+{
+  "name": "Magíster en Ciencias de la Ingeniería, Mención Transporte",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "CI5303",
+      "name": "Microeconomía",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "IN2201",
+        "IN41A"
+      ],
+      "equivalences": [
+        "CI43B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3643",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CI5301",
+      "name": "Optimización de Redes",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "CI4301",
+        "CI43A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3641",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 1,
+      "code": "EP700",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 9,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI7301",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI73N"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI7302",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI73P"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CI5304",
+      "name": "Economía de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.76,
+      "purpose": null,
+      "requirements": [
+        "CI4301",
+        "CI43A",
+        "CI5303S"
+      ],
+      "equivalences": [
+        "CI73H"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3703",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CI5302",
+      "name": "Procesos Estocásticos en Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "CI5301S",
+        "MA3401",
+        "MA3403",
+        "MA34A"
+      ],
+      "equivalences": [
+        "CI43C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3642",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5308",
+      "name": "Demanda de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "CI43B",
+        "CI5304"
+      ],
+      "equivalences": [
+        "CI53I"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3644",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5305",
+      "name": "Redes y Circulación",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "CI5302",
+        "CI5301"
+      ],
+      "equivalences": [
+        "CI53J"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3700",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 36,
+      "code": "planb836f1cfd43a5b9d1413dc95220e571e",
+      "name": "Electivos Magíster Transporte",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 36 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Diploma de Postítulo en Sismología",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDGF00001",
+      "name": "Diploma en Sismología",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

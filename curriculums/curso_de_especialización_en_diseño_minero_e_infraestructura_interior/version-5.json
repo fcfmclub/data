@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Diseño Minero e Infraestructura Interior",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPDMII01",
+      "name": "Diseño Minero e Infraestructura Interior",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

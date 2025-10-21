@@ -1,0 +1,354 @@
+{
+  "name": "Magíster en Ciencias de la Ingeniería, Mención Transporte",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CI43A",
+      "name": "Análisis de Sistemas de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 68,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "CI4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=606",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI53I",
+      "name": "Demanda de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [
+        "CI43B",
+        "MA34B"
+      ],
+      "equivalences": [
+        "CI5308"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI73A",
+      "name": "Demanda de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "CI43B",
+        "MA34B"
+      ],
+      "equivalences": [
+        "CI53I"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=696",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5308",
+      "name": "Demanda de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "CI43B",
+        "CI5304"
+      ],
+      "equivalences": [
+        "CI53I"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3644",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5305",
+      "name": "Redes y Circulación",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "CI5302",
+        "CI5301"
+      ],
+      "equivalences": [
+        "CI53J"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3700",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI73N",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "CI73M"
+      ],
+      "equivalences": [
+        "CI7301"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI7301",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI73N"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI73P",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI7302"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI7302",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI73P"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI53J",
+      "name": "Redes de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "CI43A",
+        "CI43C",
+        "IN3701",
+        "MA3701"
+      ],
+      "equivalences": [
+        "CI5305"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI73B",
+      "name": "Redes de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [
+        "CI43A",
+        "CI43C",
+        "IN3701",
+        "MA3701"
+      ],
+      "equivalences": [
+        "CI53J"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=701",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan0074e04b3dc466b5924c1cf3d1f74010",
+      "name": "Economía de Transporte Opciones",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan3ae29bdc673f8dfaea2b8f72ba1b58a5",
+      "name": "Teoría de Flujos Vehiculares Opciones",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 36,
+      "code": "planb836f1cfd43a5b9d1413dc95220e571e",
+      "name": "Electivos Magíster Transporte",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 36 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "planec9aa7faf56109809950d83e7e8a484b",
+      "name": "Economia Urbana Opciones",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

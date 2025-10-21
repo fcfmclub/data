@@ -1,0 +1,217 @@
+{
+  "name": "Doctorado en Ingeniería de Minas",
+  "version": 1,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "MI8130",
+      "name": "Análisis de Datos en Ingeniería de Minas",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "MA3403",
+        "MA3402"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4442",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91A",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91B",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91C",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91D",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI8131",
+      "name": "Seminario de Tesis de Doctorado",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "MI8130"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4549",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI8133",
+      "name": "Tópicos Especiales en Mineria",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI8130"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4551",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MI8132",
+      "name": "Unidad de Investigación",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "MI8130"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4550",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan441add5e78b14ed5a6692daaced00000",
+      "name": "Electivos Doctorado en Ingeniería de Minas",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan244f16ac2255622da924dc50d38f2755",
+      "name": "Cursos Obligatorios Formativos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Auditor Interno: La búsqueda de evidencias para ISO/IEC 27001:2022",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPAIBC01",
+      "name": "Auditor Interno: La búsqueda de evidencias para ISO/IEC 27001:2022",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

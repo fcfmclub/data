@@ -1,0 +1,322 @@
+{
+  "name": "Magíster en Ciencias de la Ingeniería, Mención Recursos y Medio Ambiente Hídrico",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CI5103",
+      "name": "Análisis de Sistemas Ambientales",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "CI4102"
+      ],
+      "equivalences": [
+        "CI51K",
+        "CI5163"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=32034",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI71A",
+      "name": "Análisis de Sistemas de Recursos Hídricos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "CR240"
+      ],
+      "equivalences": [
+        "CI6112"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=602",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4165",
+      "name": "Calidad de Agua",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.83,
+      "purpose": "Este es un curso obligatorio de la mención Hidráulica, Sanitaria y Ambiental, y tiene como propósito que los y las estudiantes: \r\n\tComprendan los principales mecanismos que determinan la calidad del agua en ambientes acuáticos naturales y en sistemas de tratamiento de agua. \r\n\tIdentifiquen los principales parámetros físicos, químicos y biológicos que se utilizan para caracterizar la calidad del agua.",
+      "requirements": [
+        "CI3261",
+        "CI4102"
+      ],
+      "equivalences": [
+        "CI5102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=91114",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI51I",
+      "name": "Calidad del Agua",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "CI41B"
+      ],
+      "equivalences": [
+        "CI5102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=542",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5102",
+      "name": "Calidad del Agua",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "CI4102"
+      ],
+      "equivalences": [
+        "CI51I",
+        "CI4165"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3697",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI41C",
+      "name": "Hidrología",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [
+        "CI41A",
+        "MA34B"
+      ],
+      "equivalences": [
+        "CI511",
+        "CI5101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=528",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5101",
+      "name": "Hidrología",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "CI4101",
+        "MA3403",
+        "MA3402"
+      ],
+      "equivalences": [
+        "CI41C",
+        "CI4261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5015",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI79A",
+      "name": "Introducción a la Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=61066",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI79B",
+      "name": "Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=61070",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "CI79C",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=61074",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI51J",
+      "name": "Hidráulica de Aguas Subterráneas y su Aprovechamiento",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "CI41B",
+        "CI41C"
+      ],
+      "equivalences": [
+        "CI5105"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=508",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5105",
+      "name": "Hidráulica de Aguas Subterráneas y su Aprovechamiento",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "CI4102S",
+        "CI5101"
+      ],
+      "equivalences": [
+        "CI51J",
+        "CI4262"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3690",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 30,
+      "code": "pland7430ba11a0c624fa026b2801d0557b6",
+      "name": "Electivos Mg en Cs. de la Ingeniería mención Recursos y Medio Ambiente Hidrico",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

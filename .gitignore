@@ -1,0 +1,104 @@
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+*.cache
+.temp/
+temp/
+
+# Archivos de trabajo (no commitear)
+scratch/
+playground/
+test_*.json
+debug_*.json
+_test/
+_debug/
+
+# Scripts de migración temporales (opcional, si no quieres commitear)
+# migrate_*.py
+# convert_*.py
+# check_*.py
+
+# Datos intermedios o temporales
+data_backup/
+data_old/
+*.backup
+*.old
+
+# Archivos grandes (opcional, dependiendo de tu estrategia)
+# Si no quieres commitear los JSONs grandes, descomenta:
+# *.json
+# Pero luego incluye explícitamente los que SÍ quieres:
+# !metadata/*.json
+# !analytics/*.json
+# !semesters/*/metadata.json
+
+# Archivos de configuración local
+.env
+.env.local
+config.local.json
+
+# Jupyter Notebooks (si usas)
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos comprimidos (si generas backups)
+*.zip
+*.tar.gz
+*.rar
+*.7z

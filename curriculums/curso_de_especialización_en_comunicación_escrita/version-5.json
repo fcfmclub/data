@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Comunicación Escrita",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPCOES01",
+      "name": "Comunicación Escrita",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 0.72,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

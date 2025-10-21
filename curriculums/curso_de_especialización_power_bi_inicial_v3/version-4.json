@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Power BI inicial V3",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBII03",
+      "name": "V3-Power Bi Inicial",
+      "department": null,
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

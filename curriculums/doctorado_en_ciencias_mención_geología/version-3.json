@@ -1,0 +1,86 @@
+{
+  "name": "Doctorado en Ciencias, Mención Geología",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 8,
+      "code": "GL71C",
+      "name": "Procesos Geodinámicos en Ambiente de Subducción",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1286",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "GL82B",
+      "name": "Proyecto de Tesis de Doctorado",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "GL91A",
+      "name": "Seminario de Tesis de Grado",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 26,
+      "code": "plan5a17622191d0f988ee790aa7b8e842b4",
+      "name": "Electivos Doctorado en Ciencias Mención Geología",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 26 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

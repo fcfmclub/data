@@ -1,0 +1,57 @@
+{
+  "name": "Diploma de Extensión en Economía Circular",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DEPOSECIR03",
+      "name": "Desarrollo de Proyectos de Economía Circular",
+      "department": null,
+      "students_per_course": 99,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEPOSECIR01",
+      "name": "Introducción a la Economía Circular",
+      "department": null,
+      "students_per_course": 100,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEPOSECIR02",
+      "name": "Metodologías y herramientas para la Economía Circular",
+      "department": null,
+      "students_per_course": 99,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

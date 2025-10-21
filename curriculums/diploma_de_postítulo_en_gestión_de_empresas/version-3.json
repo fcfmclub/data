@@ -1,0 +1,176 @@
+{
+  "name": "Diploma de Postítulo en Gestión de Empresas",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIGDE04",
+      "name": "Contabilidad y Control",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE03",
+      "name": "Economía para la Gestión de Negocios - Macroeconomía",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE02",
+      "name": "Economía para la Gestión de Negocios - Microeconomía",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE09",
+      "name": "Gestión Estratégica",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE08",
+      "name": "Gestión Financiera",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE07",
+      "name": "Gestión de Marketing",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE05",
+      "name": "Gestión de Operaciones",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE06",
+      "name": "Gestión de Recursos Humanos",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE01",
+      "name": "Habilidades Directivas",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGDE010",
+      "name": "Métodos Cuantitativos y Estadísticos Aplicados a la Gestión",
+      "department": null,
+      "students_per_course": 11,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

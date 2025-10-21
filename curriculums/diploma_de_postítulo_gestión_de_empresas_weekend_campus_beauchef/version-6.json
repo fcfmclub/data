@@ -1,0 +1,193 @@
+{
+  "name": "Diploma de Postítulo Gestión de Empresas Weekend Campus Beauchef",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO3",
+      "name": "Contabilidad y Control",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO2",
+      "name": "Economía para la Gestión de Negocios-Macroeconomía",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO1",
+      "name": "Economía para la Gestión de Negocios-Microeconomía",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO10",
+      "name": "Gestión Estratégica",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO6",
+      "name": "Gestión Financiera",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO5",
+      "name": "Gestión de Marketing",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO8",
+      "name": "Gestión de Operaciones",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO7",
+      "name": "Gestión de Recursos Humanos",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO4",
+      "name": "Métodos Cuantitativos Aplicados a la Gestión",
+      "department": null,
+      "students_per_course": 5,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO11",
+      "name": "Métodos Cuantitativos y Estadísticos Aplicados a la Gestión",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIGEWCBO9",
+      "name": "Taller de Habilidades Directivas",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

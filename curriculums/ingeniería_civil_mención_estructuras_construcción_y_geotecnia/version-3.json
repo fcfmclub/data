@@ -1,0 +1,1650 @@
+{
+  "name": "Ingeniería Civil, Mención Estructuras, Construcción y Geotecnia",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CC1001",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC100",
+        "CC10A",
+        "CC151"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3448",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN42A",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "EI19A",
+        "EH09A",
+        "IN41A",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=668",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4204",
+      "name": "Formulación y Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito que los y las estudiantes formulen y evalúen proyectos de inversión públicos y privados en ingeniería eléctrica, con sus respectivas etapas y componentes, integrando a su formulación criterios técnicos, económicos, sociales, ambientales y éticos.\r\n\r\nAsimismo, los y las estudiantes calculan indicadores de rentabilidad de un proyecto en ingeniería eléctrica, desde una perspectiva privada y social, a fin de determinar su viabilidad.\r\n\r\nLa metodología del curso permite que el estudiante construya de manera activa su aprendizaje. Esto incluye un trabajo que une teoría y práctica, aplicable a casos, con ejemplos reales y significativos.",
+      "requirements": [
+        "EL4115"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115630",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1001",
+      "name": "Introducción a la Física Newtoniana",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.88,
+      "purpose": "El estudiante al termino del curso demuestra que:\r\n\r\n1.\tIdentifica las variables, como posición, velocidad y aceleración, que describen el movimiento de sistemas mecánicos simples, a fin describir su evolución temporal. \r\n2.\tIdentifica y utiliza algunas fuerzas simples, como el peso, normal, tensión, fuerza de roce, gravitación, con el fin de describir la mecánica de sistemas físicos. \r\n3.\tUtiliza representaciones gráficas de las variables que describen el movimiento de una partícula para interpretar su comportamiento. \r\n4.\tAplica las Leyes de Newton a sistemas mecánicos simples de una o dos partículas para poder describir su dinámica.\r\n5.\tReconoce el rango de aplicabilidad y/o restricciones de los principios de conservación del momentum y de la energía para describir la dinámica de sistemas mecánicos simples.",
+      "requirements": [],
+      "equivalences": [
+        "FI100",
+        "FI1000"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3491",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI1101",
+      "name": "Introducción a la Ingeniería I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.99,
+      "purpose": "Al término del curso el alumno demuestra que desarrolla proyectos de diseño en ingeniería, ejercita la creatividad, refuerza la motivación por el aprendizaje de las matemáticas y la ciencia mediante la aplicación de los conocimientos básicos a la solución de problemas de ingeniería, reversa y de procesos, en un marco ético. También demuestra poseer habilidades personales e interpersonales",
+      "requirements": [],
+      "equivalences": [
+        "EI110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3445",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI1102",
+      "name": "Introducción a la Ingeniería II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.99,
+      "purpose": "Al término del curso el alumno demuestra que desarrolla proyectos de diseño en ingeniería,\r\nejercita la creatividad, refuerza la motivación por el aprendizaje de las matemáticas y la ciencia\r\nmediante la aplicación de los conocimientos básicos a la solución de problemas de ingeniería,\r\nreversa y de procesos, en un marco ético. También demuestra poseer habilidades personales e\r\ninterpersonales.",
+      "requirements": [],
+      "equivalences": [
+        "EI1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3446",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CM1001",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ciencia de los Materiales",
+        "code": "CM",
+        "id": 306
+      },
+      "students_per_course": 77,
+      "approval_rate": 0.88,
+      "purpose": "Al final del curso el estudiante demuestra que:\r\n Maneja y aplica los conocimientos básicos de la química en problemas\r\nque se le planteen en su especialidad.\r\n Comprende los procesos químicos sobre la base del conocimiento\r\nmicroscópico de la materia.\r\n Descubre la importancia de estos conocimientos en el desarrollo\r\ncientífico y tecnológico del mundo moderno.\r\n Comprende y describe la estructura y propiedades de la materia.\r\n Calcula y resuelve problemas relacionados con las condiciones para la\r\ntransformación de la materia y la velocidad con que ésta ocurre.",
+      "requirements": [],
+      "equivalences": [
+        "CM1A1",
+        "QI21A",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6000",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CI6908",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.8,
+      "purpose": "En Introducción al Trabajo de Título, el/la estudiante logrará definir qué habilidades logrará demostrar con su propuesta de investigación; estas habilidades que debe demostrar estarán asociadas a su perfil de egreso, que se mencionan más adelante.\r\n\r\nDurante el desarrollo del curso CI6908, el/la estudiante deberá definir, con el apoyo de un profesor guía y profesor del curso, el temario de su Trabajo de título y obtener la aprobación de éste por parte de la Comisión de Titulación formada por académicos y docentes el Departamento de Ingeniería Civil. El temario debe ser entendido como una propuesta de un trabajo académico, que se enmarca en el perfil de egreso de la carrera y las competencias de egreso genéricas y específicas desarrolladas durante la carrera. \r\n\r\nAdemás, se espera que el tema propuesto sea factible de desarrollar durante un semestre lectivo, considerando recesos y semanas de examen. El/la profesor guía debe comprometer los recursos necesarios para el correcto desarrollo del tema propuesto.\r\n\r\nEl temario aprobado será desarrollado en el siguiente curso CI6911/CI6930, Trabajo de Titulo o Memoria de Título. \r\n\r\nAl término del curso, el/la estudiante debe demostrar que puede:\r\n\r\n-Buscar y analizar antecedentes bibliográficos, de fuentes válidas en español, en inglés o en otro idioma, sobre la naturaleza de un problema de ingeniería civil propuesto por un o una estudiante o dado por un profesor, considerando el estado del arte acorde a la relevancia del problema a estudiar, como base para su marco teórico de investigación. \r\n-Leer y comprender textos científicos, académicos y profesionales, para construir el marco teórico de su propuesta de investigación, considerando validez de las fuentes bibliográficas seleccionadas.\r\n-Definir los objetivos, alcances y resultados esperados del estudio.\r\n-Planificar actividades, y plasmar esta planificación en una carta Gantt que considere hitos de avance en el trabajo.\r\n-Definir qué herramientas (modelos, experimentos, uso de datos, realización de encuestas) utilizará como base para su investigación y avances, demostrando capacidad y criterio para integrar conocimientos de distintas áreas de la ingeniería.\r\n-Comunicar, en forma oral y en formato de video, su tema de investigación, los objetivos, las metodologías que utilizará y resultados esperados, demostrando el uso de un lenguaje formal y técnico de acuerdo con la audiencia que lo recibe (académicos y pares), así como dominio del tema, capacidad de síntesis para la presentación de los aspectos centrales de la propuesta.\r\n-Comunicar de forma estratégica, clara, sintética y eficaz, los avances sobre su tema de investigación, a través de breves presentaciones donde expone el trabajo con las fuentes o referencias bibliográficas consultadas.\r\n-Redactar, con claridad y coherencia, un informe sobre el marco teórico de su investigación, donde incorpora una justificación de la propuesta, objetivos generales y específicos, la planificación del trabajo, metodología en base a la revisión bibliográfica y los resultados esperados, utilizando un lenguaje técnico preciso.",
+      "requirements": [
+        "CR270"
+      ],
+      "equivalences": [
+        "CI69E",
+        "CI697"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=146338",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1002",
+      "name": "Sistemas Newtonianos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 78,
+      "approval_rate": 0.9,
+      "purpose": "Al final el estudiante demuestra que:\r\n Comprende fenómenos que involucren sólidos, fluidos y medios elásticos. Lo\r\nanterior en el marco de las leyes de Newton extendidas a sistemas más complejos.",
+      "requirements": [
+        "FI1001",
+        "FI100",
+        "CC1001",
+        "CC100",
+        "CC1000",
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "FI1A2",
+        "FI1100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3453",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI2001",
+      "name": "Taller de Proyecto",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": "Al término del curso el alumno demuestra que concibe, diseña, implementa y opera\r\nproyectos de ingeniería, dando respuesta innovadora a una necesidad real en un área\r\nespecífica de aplicación.",
+      "requirements": [
+        "EI1102",
+        "CC10A",
+        "CC10B"
+      ],
+      "equivalences": [
+        "EI2A1",
+        "SD20A",
+        "SD15A",
+        "ME160",
+        "CD1201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3451",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI3201",
+      "name": "Análisis de Estructuras Isostáticas",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 57,
+      "approval_rate": 0.86,
+      "purpose": "Al término del curso el alumno demuestra que analiza estructuras isostáticas sometidas a cargas estáticas y que pueden modelarse por medio de barras.",
+      "requirements": [
+        "FI2001"
+      ],
+      "equivalences": [
+        "CI32B",
+        "ME3130"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3559",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CM2004",
+      "name": "Fisicoquímica",
+      "department": {
+        "name": "Departamento de Ciencia de los Materiales",
+        "code": "CM",
+        "id": 306
+      },
+      "students_per_course": 73,
+      "approval_rate": 0.93,
+      "purpose": "Al final del curso se espera que el estudiante maneje las herramientas físico-matemáticas, que le permitan, comprender y aplicar conceptos de química física para analizar y proponer soluciones en problemas de procesos que los requieran.",
+      "requirements": [
+        "CM1001",
+        "MA2001",
+        "FI2001S"
+      ],
+      "equivalences": [
+        "CM2A4",
+        "FI2004",
+        "IQ2212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3449",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3403",
+      "name": "Probabilidades y Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.84,
+      "purpose": "El propósito de este curso es que el/la estudiante aplique los conceptos fundamentales de la\r\nteoría de probabilidades en la modelación y solución de problemas concretos que involucran\r\nfenómenos aleatorios. También que enuncie leyes clásicas de probabilidad discretas y continuas, que calcule con ellas y que las asocie a situaciones específicas de modelación. Además que aplique la Ley de Grandes Números y del Teorema Central del Límite.\r\nOtra parte del propósito de este curso es que el/la estudiante conozca los conceptos\r\nfundamentales de la Inferencia Estadística y de los modelos lineales, y los aplique junto a los\r\nconceptos de probabilidad. Junto a esto, que conozca lo que es un muestreo aleatorio y la\r\nimportancia de la distribución Normal y su rol en el Teorema Central del Límite, que estime\r\nparámetros de una distribución y reconozca sus propiedades, y que conozca el Lema de Neyman Pearson y su aplicación en la toma de decisiones con un test de hipótesis. Adicionalmente, que aplique un modelo de regresión lineal y evalúe sus resultados. Finalmente, que aplique la teoría de tests en casos clásicos como son: la comparación de dos poblaciones, la comprobación que un conjunto de valores muestrales siguen una determinada distribución, el test de independencia en una tabla de contingencia.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3754",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2004",
+      "name": "Termodinámica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 78,
+      "approval_rate": 0.89,
+      "purpose": "El curso de Termodinámica establece los conceptos fundamentales, a nivel macroscópico, de los fenómenos en que intervienen transferencias de energía. \r\nSe muestra que la termodinámica impone restricciones, lo que limita el rendimiento de máquinas y dispositivos, así como la factibilidad de que ocurran ciertos procesos. Se muestra que la solución de problemas de ingeniería y ciencias en el marco del desarrollo sostenible está limitada no solo por la finitud de recursos sino también por las leyes físicas.",
+      "requirements": [
+        "IQ2211",
+        "CM1001",
+        "MA2001",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI2A4",
+        "FI22A",
+        "FI212",
+        "CM2004",
+        "IQ2212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3492",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4301",
+      "name": "Análisis de Sistemas de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 56,
+      "approval_rate": 0.9,
+      "purpose": "Al término del curso el alumno demuestra que maneja los fundamentos del análisis de\r\nSistemas de Transporte. Comprende el funcionamiento de sistemas de transporte y evalúa el efecto de modificaciones en sistemas sencillos.",
+      "requirements": [
+        "MA2002",
+        "IN2201"
+      ],
+      "equivalences": [
+        "CI43A",
+        "CI3141"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3554",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3301",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.9,
+      "purpose": "El curso se encuentra en el VI semestre de la carrera. Este curso de  tiene como propósito que los y las estudiantes puedan calcular el valor de un proyecto de inversión, a partir del análisis y uso de datos reales, de su estructuración en estados financieros contables (Balance, Estado de Resultados, Flujo de Caja), del diseño de estrategias financieras derivadas del diagnóstico y del uso de herramientas matemáticas financieras, desde una perspectiva tanto privada, de evaluación de negocios, como social en el caso de proyectos públicos de inversión. \r\n\r\nEl curso trabaja con una metodología activo - participativa, donde los y las estudiantes construyen su aprendizaje, en pro de desarrollar herramientas tanto de carácter económico- financiero como de trabajo en equipo. Lo anterior, incluye manejo de teoría, análisis de casos prácticos, con ejemplos de la vida cotidiana. El o la docente guía las discusiones, generando espacios de reflexión acerca del marco teórico y su aplicación, con una retroalimentación constante a los estudiantes.",
+      "requirements": [
+        "IN2201",
+        "IN3141",
+        "MA3403",
+        "MA3401"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3480",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL3101",
+      "name": "Geología General",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 38,
+      "approval_rate": 0.93,
+      "purpose": "El curso Geología general tiene como propósito que los y las estudiantes adquieran y utilicen los fundamentos básicos de las ciencias de la tierra para comprender como los principales procesos físicos y químicos actúan en el sistema Tierra y modifican el paisaje terrestre, generan recursos naturales y peligros; lo anterior es posible de alcanzar a través de una observación sistemática, toma de datos en terreno o trabajo con datos, con su respectivo análisis e interpretación. \r\n\r\nEste curso se ubica en el V semestre del plan de formación, al inicio del ciclo de especialidad (licenciatura); introduce a los y las estudiantes a las diversas disciplinas que componen la geología. Al final de este curso, el/la estudiante aplican sus conocimientos adquiridos para plantear soluciones a problemas geológicos simples relacionados con las distintas áreas de la geología, considerando como estos afectan e interactúan con la actividad humana.",
+      "requirements": [
+        "MA2002",
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "GL31A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3578",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI3501",
+      "name": "Materiales de Construcción",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "FI2003",
+        "CI3201",
+        "FI2004",
+        "CM2004"
+      ],
+      "equivalences": [
+        "CI34A",
+        "ME3601",
+        "CI4112"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3556",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI3101",
+      "name": "Mecánica de Fluidos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 67,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [
+        "MA2002",
+        "MA2601",
+        "FI2003",
+        "FI2004",
+        "CM2004"
+      ],
+      "equivalences": [
+        "CI31A",
+        "CI3162"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3691",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI3202",
+      "name": "Mecánica de Sólidos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 63,
+      "approval_rate": 0.74,
+      "purpose": "Al finalizar el curso el estudiante demuestra:\r\n Manejo del análisis de tensiones y deformaciones de estructuras planas formadas por elementos uniaxiales\r\n Manejo de las bases del análisis de sistemas indeterminados.",
+      "requirements": [
+        "CI3201",
+        "MA2601"
+      ],
+      "equivalences": [
+        "CI32C",
+        "ME3202",
+        "CI3111"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3557",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI3502",
+      "name": "Topografía",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA2002",
+        "FI2003"
+      ],
+      "equivalences": [
+        "CI35A",
+        "CI3252"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3555",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4202",
+      "name": "Análisis Estructural",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 38,
+      "approval_rate": 0.81,
+      "purpose": "Al término del curso se espera que el estudiante:\r\n Maneje las herramientas para determinar esfuerzos en estructuras planas, información básica en el proceso de diseño de estructuras.\r\n Analice estructuras planas hiperestáticas que pueden modelarse por medio de barras y sometidas a cargas estáticas.",
+      "requirements": [
+        "CI3202"
+      ],
+      "equivalences": [
+        "CI42A",
+        "CI3211"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3595",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4401",
+      "name": "Geotecnia",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.87,
+      "purpose": "Al término del curso el estudiante demuestra que:\r\n Reconoce y clasifica los suelos a través del lenguaje geotécnico.\r\n Evalúa las tensiones geostáticas en una masa de suelo y sus variaciones por\r\ncargas adicionales, así como la importancia de las tensiones efectivas y cómo\r\ndeterminarlas cuando existe flujo de aguas en los suelos.\r\n Demuestra conocimiento del tema de consolidación permitiéndole evaluar los\r\nasentamientos producidos por deformación de suelos finos saturados en el\r\ntiempo.",
+      "requirements": [
+        "GL3101",
+        "CI3202"
+      ],
+      "equivalences": [
+        "CI44A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3596",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4101",
+      "name": "Hidráulica",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.77,
+      "purpose": null,
+      "requirements": [
+        "CI3101"
+      ],
+      "equivalences": [
+        "CI41A",
+        "CI3262"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3633",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4201",
+      "name": "Hormigón Estructural",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 53,
+      "approval_rate": 0.89,
+      "purpose": "Al término de este curso se espera que el estudiante:\r\n Maneje la mecánica del material sobre el análisis y diseño de elementos de hormigón\r\narmado.",
+      "requirements": [
+        "CI3202",
+        "CI3501"
+      ],
+      "equivalences": [
+        "CI42B",
+        "CI4212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3558",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4102",
+      "name": "Ingeniería Ambiental",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "CI3101",
+        "ME3301",
+        "IQ3202",
+        "MI3010"
+      ],
+      "equivalences": [
+        "CI41B",
+        "CI3261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=32401",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5501",
+      "name": "Métodos Constructivos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 44,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI3501",
+        "MA3403",
+        "CI4301"
+      ],
+      "equivalences": [
+        "CI52A",
+        "CI4231"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=61046",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CI4901",
+      "name": "Práctica de Topografía",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 72,
+      "approval_rate": 1.0,
+      "purpose": "Al finalizar la Practica I se espera que el estudiante:\r\n- Aplique conocimientos y técnicas aprendidas en sus primeros años de estudio, bajo\r\nsupervisión.",
+      "requirements": [
+        "CI3502"
+      ],
+      "equivalences": [
+        "CI39A",
+        "CI4151"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3658",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5503",
+      "name": "Tecnología del Hormigón",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "MA3403",
+        "CI3501"
+      ],
+      "equivalences": [
+        "CI52C",
+        "CI5135"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=32046",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4203",
+      "name": "Dinámica de Estructuras",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.78,
+      "purpose": "Al finalizar el curso se espera que el estudiante:\r\n Conoce los conceptos básicos del comportamiento dinámico de las estructuras para\r\ningenieros estructurales y de construcción. En particular, los fundamentos de la dinámica\r\nestructural para el diseño sísmico de estructuras.\r\n Conoce conceptos de Dinámica Estructural básica para Ingeniería Civil Estructural.",
+      "requirements": [
+        "CI4202"
+      ],
+      "equivalences": [
+        "CI42G",
+        "CI4111"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3634",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5202",
+      "name": "Estructuras de Acero",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 32,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "CI3501",
+        "CI4202"
+      ],
+      "equivalences": [
+        "CI52R",
+        "CI5122"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3652",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI4402",
+      "name": "Geomecánica",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 39,
+      "approval_rate": 0.74,
+      "purpose": "Al término del curso se espera que el estudiante:\r\n Evalúe las propiedades de ingeniería de los suelos\r\n Diseñe soluciones para estabilizar masas de suelo.\r\n Comprenda el comportamiento mecánico de los suelos y de las leyes que rigen el\r\ncomportamiento mecánico de medios particulados y competencia en el diseño de\r\nmuros de contención, análisis de estabilidad de taludes y programación de una eficiente exploración geotécnica.",
+      "requirements": [
+        "CI4401"
+      ],
+      "equivalences": [
+        "CI44B",
+        "CI4121"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3561",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5502",
+      "name": "Planificación y Control de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "CI5501",
+        "IN3301",
+        "IN3701",
+        "MA3701"
+      ],
+      "equivalences": [
+        "CI52B",
+        "CI4251"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=32337",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CI5901",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI4901",
+        "CI4102",
+        "CI4301",
+        "CI4201"
+      ],
+      "equivalences": [
+        "CI59A",
+        "CI5151"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3692",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5201",
+      "name": "Diseño Sísmico de Estructuras",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CI4201",
+        "CI4203",
+        "CI5202S"
+      ],
+      "equivalences": [
+        "CI4211"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=31734",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5401",
+      "name": "Fundaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "CI4201",
+        "CI4402"
+      ],
+      "equivalences": [
+        "CI52Q",
+        "CI5121"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3653",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CI6901",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI5901",
+        "CI4102"
+      ],
+      "equivalences": [
+        "CI69A",
+        "CI6161"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3710",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI6501",
+      "name": "Proyecto de Construcción de Edificios",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "CI41B",
+        "CI4102",
+        "CI52B",
+        "CI5502",
+        "CI5503S"
+      ],
+      "equivalences": [
+        "CI62B",
+        "CI5131"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=32082",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI6502",
+      "name": "Proyecto de Construcción de Obras Civiles",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 13,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CI4102",
+        "CI52B",
+        "CI5502"
+      ],
+      "equivalences": [
+        "CI62C",
+        "CI5131"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16150",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI6201",
+      "name": "Proyecto de Estructuras de Acero",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI4102",
+        "CI5202",
+        "CI52R"
+      ],
+      "equivalences": [
+        "CI62A",
+        "CI5322"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=32070",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI5206",
+      "name": "Proyecto de Hormigón Armado",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI5401",
+        "CI5201"
+      ],
+      "equivalences": [
+        "CI52G",
+        "CI5123"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=117262",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 21,
+      "code": "CI6910",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [
+        "CI6901S",
+        "CI6908",
+        "EI2090",
+        "EI4205"
+      ],
+      "equivalences": [
+        "CI69H"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 21,
+      "code": "CI6909",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "CI6901S",
+        "CI6908",
+        "EI2090",
+        "EI4205"
+      ],
+      "equivalences": [
+        "CI69F",
+        "CI698"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan234cf9022e69c0c031bdf590098047f7",
+      "name": "Ingenieria Electivos Estructura",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan445d771dadac8433263c6f3e52fc669a",
+      "name": "Ingenieria Integral Estructura",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plan5c57a8d0201748629a16b337f1e6a577",
+      "name": "Licenciatura Electivos Civil",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan049c417ab9c446dd308108f7210c783f",
+      "name": "Formación Integral Licenciatura",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "plan2c9b32e0c0707f6b10993b1254aa3a93",
+      "name": "Formación Integral FG/EH",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 9 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

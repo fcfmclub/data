@@ -1,0 +1,1630 @@
+{
+  "name": "Ingeniería Civil, Mención Estructuras, Construcción y Geotecnia",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CI42G",
+      "name": "Dinámica de Estructuras",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 36,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "CI42A"
+      ],
+      "equivalences": [
+        "CI4203",
+        "CI52E"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI52S",
+      "name": "Diseño Sísmico de Estructuras",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 35,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "CI52E",
+        "CI42G",
+        "CI42B",
+        "CI52M"
+      ],
+      "equivalences": [
+        "CI5201",
+        "CI52F"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=518",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI52R",
+      "name": "Estructuras de Acero",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "CI34A",
+        "CI42C",
+        "CI42F"
+      ],
+      "equivalences": [
+        "CI5202",
+        "CI42D"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=517",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI29A",
+      "name": "Examen de Suficiencia II en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 107,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI19A"
+      ],
+      "equivalences": [
+        "EI2090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI52Q",
+      "name": "Fundaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 39,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "CI42B",
+        "CI44B"
+      ],
+      "equivalences": [
+        "CI5401",
+        "CI52D"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=543",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI41B",
+      "name": "Ingeniería Ambiental",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 57,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MI42B",
+        "GL54B",
+        "GL53B",
+        "MI42C",
+        "CI41A"
+      ],
+      "equivalences": [
+        "CI520",
+        "CI4102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=549",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CI69E",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "EH050",
+        "EH052",
+        "EH09A",
+        "EI21A",
+        "EI004",
+        "EI20A",
+        "EI005",
+        "CR288"
+      ],
+      "equivalences": [
+        "CI6908"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=537",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI42F",
+      "name": "Mecánica de Sólidos II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "CI42A",
+        "CI4202"
+      ],
+      "equivalences": [
+        "CI5212",
+        "CI42C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=530",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI52A",
+      "name": "Métodos Constructivos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 51,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "CI34A",
+        "CI43A",
+        "ME46A",
+        "MA34B",
+        "MA340"
+      ],
+      "equivalences": [
+        "CI451",
+        "CI550",
+        "CI5501"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=574",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CI59A",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 40,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "CI39A",
+        "CI4901",
+        "FI34A",
+        "FI35A",
+        "CI41C",
+        "CI43C",
+        "CI42G"
+      ],
+      "equivalences": [
+        "CI499",
+        "OC499",
+        "CI5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=519",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CI69A",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 44,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "CI59A",
+        "CI41B",
+        "CI4102"
+      ],
+      "equivalences": [
+        "CI599",
+        "OC599",
+        "CI6901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=522",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI52B",
+      "name": "Programación y Control de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 48,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "CI52A",
+        "CI5501",
+        "IN3701",
+        "MA3701",
+        "IN42A",
+        "IN3301"
+      ],
+      "equivalences": [
+        "CI650",
+        "CI652",
+        "CI5502"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=509",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI62C",
+      "name": "Proyecto de Construcción de Edificios",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "CI4102",
+        "CI52B",
+        "CI5503S"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=693",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI62B",
+      "name": "Proyecto de Construcción de Obras Civiles",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI4102",
+        "CI52B"
+      ],
+      "equivalences": [
+        "CI6501"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=692",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI62A",
+      "name": "Proyecto de Estructuras de Acero",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CI41B",
+        "CI4102",
+        "CI52M",
+        "CI52R",
+        "CI5202"
+      ],
+      "equivalences": [
+        "CI644",
+        "CI6201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=687",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI52G",
+      "name": "Proyecto de Hormigón Armado",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "CI52Q",
+        "CI52S",
+        "CI5201"
+      ],
+      "equivalences": [
+        "CI643",
+        "CI5206"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=514",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "CI52C",
+      "name": "Tecnología del Hormigón",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MA34B",
+        "CI34A",
+        "ID55A"
+      ],
+      "equivalences": [
+        "CI552",
+        "CI5503"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=510",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 22,
+      "code": "CI69H",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "CI69E",
+        "EH09A",
+        "CI6901"
+      ],
+      "equivalences": [
+        "CI6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 22,
+      "code": "CI69F",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "CI69E",
+        "EH09A",
+        "EI20A",
+        "EI29A",
+        "CR320"
+      ],
+      "equivalences": [
+        "CI6909"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA11A",
+      "name": "Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 113,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA111",
+        "MA112",
+        "MA11B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=19",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA12A",
+      "name": "Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 116,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA120",
+        "MA121",
+        "MA12B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=21",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "CC10A",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 108,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC151",
+        "MA151",
+        "CC10B",
+        "CC1001",
+        "CC100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=14",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "FI10A",
+      "name": "Introducción a la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI101",
+        "FI111",
+        "FI10B",
+        "FI1001",
+        "FI100",
+        "FI1002",
+        "FI1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2668",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA22A",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA022",
+        "MA122",
+        "MA123",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1681",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26A",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6010",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI19A",
+      "name": "Examen de Suficiencia I en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 124,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI1090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI25A",
+      "name": "Laboratorio de Física I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI121",
+        "FI214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2691",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI21A",
+      "name": "Química Moderna",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 72,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "QI112",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1544",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA33A",
+      "name": "Cálculo Numérico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI3104",
+        "MA360",
+        "MA467",
+        "MA536",
+        "MA537",
+        "MA231",
+        "MA262",
+        "MA263",
+        "MA331",
+        "MA332",
+        "MA369"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1752",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26B",
+      "name": "Matemáticas Aplicadas",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2763",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21A",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI122",
+        "FI123",
+        "FI215",
+        "FI2A1"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2677",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34A",
+      "name": "Probabilidades y Procesos Estocásticos",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "MA22A"
+      ],
+      "equivalences": [
+        "MA343"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6019",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI32B",
+      "name": "Análisis de Estructuras Isostáticas",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 59,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A"
+      ],
+      "equivalences": [
+        "CI3201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=548",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34B",
+      "name": "Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA34A"
+      ],
+      "equivalences": [
+        "MA344",
+        "MA444",
+        "MA340",
+        "MA3402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=59",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI22A",
+      "name": "Física Estadística",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A"
+      ],
+      "equivalences": [
+        "FI212",
+        "FI2A4",
+        "FI2004",
+        "CM2004",
+        "CM2A4"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2684",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "SD20A",
+      "name": "Seminario de Diseño",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "FI25A",
+        "MA22A",
+        "MA26A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "ME104",
+        "ME160",
+        "SD15A",
+        "EI2A1",
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21B",
+      "name": "Sistemas Dinámicos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 95,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI216",
+        "FI313",
+        "FI316",
+        "FI3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2675",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI35A",
+      "name": "Topografía I",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 26,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA33A"
+      ],
+      "equivalences": [
+        "GD219",
+        "GD311",
+        "GD312",
+        "GF311",
+        "GF312",
+        "CI3502"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI33A",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA26A",
+        "MA26B"
+      ],
+      "equivalences": [
+        "FI022",
+        "FI222",
+        "FI224",
+        "FI303",
+        "FI302",
+        "FI2A2",
+        "FI2002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2688",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI34A",
+      "name": "Materiales de Construcción",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "CI32A",
+        "CI32B",
+        "ME46A"
+      ],
+      "equivalences": [
+        "CI450",
+        "CI3501"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=604",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI31A",
+      "name": "Mecánica de Fluidos",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA26A",
+        "MA26B",
+        "MA33A"
+      ],
+      "equivalences": [
+        "CI310",
+        "CI311"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=152",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI32C",
+      "name": "Mecánica de Sólidos I",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 59,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "CI32B"
+      ],
+      "equivalences": [
+        "CI3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5008",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN34A",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "SD20A"
+      ],
+      "equivalences": [
+        "MA441",
+        "MA473",
+        "IN340",
+        "IN341",
+        "IN343",
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=624",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CI39A",
+      "name": "Práctica de Topografía (Civil)",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 70,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CI35A"
+      ],
+      "equivalences": [
+        "CI4901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=605",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI42A",
+      "name": "Análisis Estructural",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 58,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [
+        "CI32A",
+        "CI32C"
+      ],
+      "equivalences": [
+        "CI440",
+        "CI4202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=663",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI34A",
+      "name": "Física Contemporánea",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "CM2004",
+        "QI21A",
+        "FI21B",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI314",
+        "FI336",
+        "FI322",
+        "FI3102",
+        "FI312"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2689",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI44A",
+      "name": "Geotecnia",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 50,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CI32A",
+        "GL55B",
+        "MI532"
+      ],
+      "equivalences": [
+        "CI400",
+        "GL105",
+        "CI4401"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=553",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI35A",
+      "name": "Laboratorio de Física II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 26,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI25A",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI011",
+        "FI211",
+        "FI304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2690",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN41A",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "EH09A",
+        "EI19A",
+        "MA33A",
+        "FI34A"
+      ],
+      "equivalences": [
+        "IN302",
+        "IN303",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=637",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI44B",
+      "name": "Geomecánica",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 35,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "CI44A"
+      ],
+      "equivalences": [
+        "CI500",
+        "CI4402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=554",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI41A",
+      "name": "Hidráulica",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [
+        "CI31A",
+        "FI33A",
+        "FI2002",
+        "MA33A",
+        "FI35A"
+      ],
+      "equivalences": [
+        "CI411",
+        "CI4101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=660",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI42B",
+      "name": "Hormigón Estructural",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "CI34A",
+        "CI42A"
+      ],
+      "equivalences": [
+        "CI441",
+        "CI4201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CI43A",
+      "name": "Análisis de Sistemas de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Civil",
+        "code": "DIC",
+        "id": 6
+      },
+      "students_per_course": 68,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "CI4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=606",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN42A",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "EI19A",
+        "EH09A",
+        "IN41A",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=668",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 26,
+      "code": "plan443aac72c77fe187a720593a196ba38a",
+      "name": "Ingeniería Civil, Mención Estructuras-Construcción-Geotecnia Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 26 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan533fc10f9558b961839c30d9ea050ff9",
+      "name": "Licenciatura en Ciencias de la Ingeniería, Mención  Civil Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "planb5a56ab054c2e84675b20b318382666c",
+      "name": "Ingeniería Civil, Mención Estructuras-Construcción-Geotecnia: UDs Libres",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 5 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan3f5e943bf5fce9a9288ef49887f59444",
+      "name": "Inglés Licenciatura CI",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 11,
+      "code": "planebf42b9dbb82e0fd03e8c7835aeb4212",
+      "name": "Humanistas y Formación General",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 11 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

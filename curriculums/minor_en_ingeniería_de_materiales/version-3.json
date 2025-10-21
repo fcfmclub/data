@@ -1,0 +1,80 @@
+{
+  "name": "Minor en Ingeniería de Materiales",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CM3201",
+      "name": "Ciencia de los Materiales I",
+      "department": {
+        "name": "Departamento de Ciencia de los Materiales",
+        "code": "CM",
+        "id": 306
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI2001",
+        "MA2001",
+        "FI2004",
+        "CM2004"
+      ],
+      "equivalences": [
+        "ME3201",
+        "ME32A",
+        "IQ3215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5047",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CM4201",
+      "name": "Materiales de Ingeniería",
+      "department": {
+        "name": "Departamento de Ciencia de los Materiales",
+        "code": "CM",
+        "id": 306
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "CM3201",
+        "IQ3215",
+        "ME3110"
+      ],
+      "equivalences": [
+        "ID55B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6645",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan0e6008534804a02fdb4a3a9267ed8f2d",
+      "name": "Electivos Minor en Ingeniería de Materiales (AS-GF-FI-BT-CC-CI-GL-IN-IQ-MA-ME)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

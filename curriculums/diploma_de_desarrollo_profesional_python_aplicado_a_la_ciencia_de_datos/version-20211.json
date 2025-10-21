@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Desarrollo Profesional Python Aplicado a la Ciencia de Datos",
+  "version": 20211,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DEDCCPYAC05",
+      "name": "Análisis de Datos con Python",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDCCPYAC03",
+      "name": "Manejo de Bases de Datos en Python",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDCCPYAC02",
+      "name": "Manejo y Extracción de Datos en Python",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDCCPYAC01",
+      "name": "Programación y Estructuras en Python",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDCCPYAC06",
+      "name": "Taller de Proyecto de Datos",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDCCPYAC04",
+      "name": "Visualizaciones en Python",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

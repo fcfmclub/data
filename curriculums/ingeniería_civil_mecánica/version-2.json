@@ -1,0 +1,1506 @@
+{
+  "name": "Ingeniería Civil Mecánica",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 12,
+      "code": "MA11A",
+      "name": "Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 113,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA111",
+        "MA112",
+        "MA11B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=19",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA12A",
+      "name": "Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 116,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA120",
+        "MA121",
+        "MA12B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=21",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "CC10A",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 108,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC151",
+        "MA151",
+        "CC10B",
+        "CC1001",
+        "CC100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=14",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "ME69E",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "EH050",
+        "EH052",
+        "EH09A",
+        "EI004",
+        "EI20A",
+        "EI005",
+        "EI21A",
+        "CR288"
+      ],
+      "equivalences": [
+        "ME6908"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1320",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "FI10A",
+      "name": "Introducción a la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI101",
+        "FI111",
+        "FI10B",
+        "FI1001",
+        "FI100",
+        "FI1002",
+        "FI1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2668",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA22A",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA022",
+        "MA122",
+        "MA123",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1681",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26A",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6010",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI19A",
+      "name": "Examen de Suficiencia I en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 124,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI1090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI25A",
+      "name": "Laboratorio de Física I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI121",
+        "FI214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2691",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI21A",
+      "name": "Química Moderna",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 72,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "QI112",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1544",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 22,
+      "code": "ME69H",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 1,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "ME69E",
+        "EH09A"
+      ],
+      "equivalences": [
+        "ME6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA33A",
+      "name": "Cálculo Numérico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI3104",
+        "MA360",
+        "MA467",
+        "MA536",
+        "MA537",
+        "MA231",
+        "MA262",
+        "MA263",
+        "MA331",
+        "MA332",
+        "MA369"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1752",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI29A",
+      "name": "Examen de Suficiencia II en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 107,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI19A"
+      ],
+      "equivalences": [
+        "EI2090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26B",
+      "name": "Matemáticas Aplicadas",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2763",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21A",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI122",
+        "FI123",
+        "FI215",
+        "FI2A1"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2677",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34A",
+      "name": "Probabilidades y Procesos Estocásticos",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "MA22A"
+      ],
+      "equivalences": [
+        "MA343"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6019",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34B",
+      "name": "Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA34A"
+      ],
+      "equivalences": [
+        "MA344",
+        "MA444",
+        "MA340",
+        "MA3402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=59",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI22A",
+      "name": "Física Estadística",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A"
+      ],
+      "equivalences": [
+        "FI212",
+        "FI2A4",
+        "FI2004",
+        "CM2004",
+        "CM2A4"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2684",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "SD20A",
+      "name": "Seminario de Diseño",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "FI25A",
+        "MA22A",
+        "MA26A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "ME104",
+        "ME160",
+        "SD15A",
+        "EI2A1",
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21B",
+      "name": "Sistemas Dinámicos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 95,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI216",
+        "FI313",
+        "FI316",
+        "FI3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2675",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 22,
+      "code": "ME69F",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "ME69E",
+        "EH09A",
+        "EI20A",
+        "EI29A",
+        "CR320"
+      ],
+      "equivalences": [
+        "ME6909"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1321",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME36A",
+      "name": "Cinemática y Dinámica de Mecanismos",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA33A"
+      ],
+      "equivalences": [
+        "ME563"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1300",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI33A",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA26A",
+        "MA26B"
+      ],
+      "equivalences": [
+        "FI022",
+        "FI222",
+        "FI224",
+        "FI303",
+        "FI302",
+        "FI2A2",
+        "FI2002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2688",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME33A",
+      "name": "Mecánica de Fluidos",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "FI21B"
+      ],
+      "equivalences": [
+        "ME330",
+        "ME430"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1299",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN34A",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "SD20A"
+      ],
+      "equivalences": [
+        "MA441",
+        "MA473",
+        "IN340",
+        "IN341",
+        "IN343",
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=624",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME46A",
+      "name": "Resistencia de Materiales",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 60,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "FI21B"
+      ],
+      "equivalences": [
+        "CI340",
+        "CI341",
+        "IQ468",
+        "ME100",
+        "ME101",
+        "ME110",
+        "ME370",
+        "ME460",
+        "OC340",
+        "ME3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 2,
+      "code": "ME38A",
+      "name": "Tecnología Mecánica",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "SD20A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1301",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME43A",
+      "name": "Termotecnia",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "FI22A"
+      ],
+      "equivalences": [
+        "ME201",
+        "ME431"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1304",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME46B",
+      "name": "Dibujo de Máquinas",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "ME112",
+        "ME463"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1307",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL40E",
+      "name": "Electrotecnia y Electrónica",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 76,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI33A",
+        "FI2002"
+      ],
+      "equivalences": [
+        "EL408"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1848",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 4,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI34A",
+      "name": "Física Contemporánea",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "CM2004",
+        "QI21A",
+        "FI21B",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI314",
+        "FI336",
+        "FI322",
+        "FI3102",
+        "FI312"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2689",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME55A",
+      "name": "Fundamentos de Control de Sistemas",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "ME36A"
+      ],
+      "equivalences": [
+        "ME4501"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1311",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI35A",
+      "name": "Laboratorio de Física II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 26,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI25A",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI011",
+        "FI211",
+        "FI304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2690",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "ME49A",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "ME38A"
+      ],
+      "equivalences": [
+        "ME399"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1308",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME43B",
+      "name": "Transferencia de Calor",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "ME33A",
+        "ME43A"
+      ],
+      "equivalences": [
+        "ME534",
+        "ME535",
+        "ME541"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1305",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME32A",
+      "name": "Ciencia de los Materiales",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 43,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "FI34A"
+      ],
+      "equivalences": [
+        "ID32A",
+        "ME3201",
+        "CM3201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1296",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME56A",
+      "name": "Diseño de Elementos de Máquinas",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "ME36A",
+        "ME46A",
+        "ME46B"
+      ],
+      "equivalences": [
+        "ME106",
+        "ME560",
+        "ME5600"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1312",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN41A",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "EH09A",
+        "EI19A",
+        "MA33A",
+        "FI34A"
+      ],
+      "equivalences": [
+        "IN302",
+        "IN303",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=637",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 8,
+      "code": "ME53A",
+      "name": "Máquinas",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "ME43B"
+      ],
+      "equivalences": [
+        "ME530",
+        "ME531",
+        "ME5300"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1309",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN42A",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "EI19A",
+        "EH09A",
+        "IN41A",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=668",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 4,
+      "code": "ME53B",
+      "name": "Laboratorio de Máquinas",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "ME532",
+        "ME533",
+        "ME5301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1310",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME57A",
+      "name": "Mantención de Maquinaria",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "ME53A"
+      ],
+      "equivalences": [
+        "ME662",
+        "ME5702"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1314",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME42A",
+      "name": "Metalurgia General",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "FI33A",
+        "FI35A",
+        "ME32A",
+        "ID32A"
+      ],
+      "equivalences": [
+        "ME423",
+        "ME424",
+        "ME521",
+        "ME522",
+        "ME425",
+        "ME3601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1302",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "ME59A",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "ME49A"
+      ],
+      "equivalences": [
+        "ME499",
+        "ME5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1317",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN47A",
+      "name": "Gestión de Operaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 66,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "ME53A",
+        "IQ36A",
+        "MI31A",
+        "MA340",
+        "MA34B",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4703",
+        "IN75N"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=725",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME42B",
+      "name": "Metalurgia Mecánica",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "ME42A"
+      ],
+      "equivalences": [
+        "ME4601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1303",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME56B",
+      "name": "Taller de Diseño Mecánico",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "ME56A"
+      ],
+      "equivalences": [
+        "ME108",
+        "ME523",
+        "ME539",
+        "ME561"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1313",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME58B",
+      "name": "Fundición y Soldadura",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "ME42B",
+        "ID42A",
+        "ME4601"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1316",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "ME69A",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "ME59A",
+        "ME56B"
+      ],
+      "equivalences": [
+        "ME599",
+        "ME6901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1319",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME58A",
+      "name": "Procesos de Manufactura",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "ID42A",
+        "ME38A",
+        "ME42B"
+      ],
+      "equivalences": [
+        "ME462",
+        "ME520"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1315",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME66A",
+      "name": "Taller de Proyecto Mecánico",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "ME56B"
+      ],
+      "equivalences": [
+        "ME620",
+        "ME630",
+        "ME660",
+        "ME6600"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1318",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "plan7d262c06ce02f2e1a76c447b43bfd91b",
+      "name": "Licenciatura  en Ciencias de la Ingeniería, Mención Ingeniería Mecánica Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 15 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 38,
+      "code": "planc9c56972022097205df457a1975cea1b",
+      "name": "Ingeniería Civil Mecánica Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 38 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "plan1b92ef24fc0a33f56a9c6f6da18ef66f",
+      "name": "Electivos Libres",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 5 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 11,
+      "code": "planebf42b9dbb82e0fd03e8c7835aeb4212",
+      "name": "Humanistas y Formación General",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 11 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

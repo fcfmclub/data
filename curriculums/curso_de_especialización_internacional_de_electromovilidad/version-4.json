@@ -1,0 +1,193 @@
+{
+  "name": "Curso de Especialización Internacional de Electromovilidad",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEOBIELEC01",
+      "name": "Curso Internacional de Electromovilidad",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC04",
+      "name": "Infraestructura eléctrica y gestión de carga",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC01",
+      "name": "Introducción a la movilidad eléctrica",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC08",
+      "name": "Modelos de negocios y aspectos legales",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC05",
+      "name": "Operación de sistemas de transporte",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC07",
+      "name": "Perspectiva de genero en sistemas masivos de transporte",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC06",
+      "name": "Planeación de Rutas",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC10",
+      "name": "Proyecto de Electromovilidad. Elaboración de Hoja de Ruta.",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC09",
+      "name": "Riesgos y Tendencias a futuro",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC02",
+      "name": "Tecnologías y configuraciones de los vehículos eléctricos. Parte A.",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMECIELEC03",
+      "name": "Tecnologías y configuraciones de los vehículos eléctricos. Parte B.",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

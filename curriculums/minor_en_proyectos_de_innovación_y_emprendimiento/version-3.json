@@ -1,0 +1,69 @@
+{
+  "name": "Minor en Proyectos de Innovación y Emprendimiento",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "EI3001",
+      "name": "Proyecto I: Desarrollo de Proyectos",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "EI2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5896",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "EI4001",
+      "name": "Proyecto II: Coordinación de Proyectos",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 12,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI3001"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "plan720f60bdce304877793e8a6311289118",
+      "name": "Electivos Minor en Proyectos de Innovación y Emprendimiento v3",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 9 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

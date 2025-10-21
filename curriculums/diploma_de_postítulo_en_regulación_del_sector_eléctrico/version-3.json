@@ -1,0 +1,91 @@
+{
+  "name": "Diploma de Postítulo en Regulación del Sector Eléctrico",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIERSE04",
+      "name": "Marco Económico y Operativo Sector Eléctrico",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIERSE02",
+      "name": "Marco Jurídico y Reglamentario del Sector Eléctrico",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIERSE01",
+      "name": "Organización Industrial del Sector Eléctrico",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIERSE03",
+      "name": "Sistemas Eléctricos",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIERSE05",
+      "name": "Trabajo Aplicado: Estudio de Casos",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

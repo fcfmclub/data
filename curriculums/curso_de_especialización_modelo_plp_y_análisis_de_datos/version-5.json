@@ -1,0 +1,57 @@
+{
+  "name": "Curso de Especialización Modelo PLP y Análisis de Datos",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CECENMPYAD03",
+      "name": "Curso Modelo PLP y Análisis de Datos",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECENMPYAD01",
+      "name": "Modelo PLP y Análisis de Datos",
+      "department": null,
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECENMPYAD02",
+      "name": "Modelo PLP y Análisis de Datos",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

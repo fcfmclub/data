@@ -1,0 +1,57 @@
+{
+  "name": "Curso de Especialización Programa Focalizado \"Excelencia Operacional & Disrupción Digital",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDIIPFEO01",
+      "name": "El desafío de Mejorar la Productividad",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEDIIPFEO03",
+      "name": "Innovación en Procesos con la Disrupción Digital",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEDIIPFEO02",
+      "name": "Principios y Metodologías de Intervención de Lean Management",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

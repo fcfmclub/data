@@ -1,0 +1,142 @@
+{
+  "name": "Diploma de Postítulo en Ingeniería de Relaves",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDICIR03",
+      "name": "Elementos Geotécnicos de Diseño, Construcción y Operación",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR07",
+      "name": "Gestión y Gobernanza",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR04",
+      "name": "Impacto Ambiental y Social",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR05",
+      "name": "Instrumentación y Monitorero Geotécnico y Químico",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR01",
+      "name": "Introducción a la Ingeniería de Relaves",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR02",
+      "name": "Peligro Sísmico y Geológico",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR08",
+      "name": "Proyecto Integrador",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIR06",
+      "name": "Recuperación de Aguas, Manejo y Disposición de Relaves",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "Diploma de Postítulo en Ingeniería Geotécnica",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDICIGEO02",
+      "name": "Caracterización Geotécnica In-Situ y Laboratorio",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO03",
+      "name": "Deformación de Suelos",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO05",
+      "name": "Diseño de Fundaciones",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO06",
+      "name": "Estructuras de Contención y Estabilidad de Taludes",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO04",
+      "name": "Flujo de Agua en Medios Porosos",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO01",
+      "name": "Geología Aplicada a la Ingeniería",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO08",
+      "name": "Geosintéticos",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO09",
+      "name": "Geotecnia Computacional",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO07",
+      "name": "Geotécnia Sísmica",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIGEO10",
+      "name": "Proyecto Integrador de Geotecnia",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

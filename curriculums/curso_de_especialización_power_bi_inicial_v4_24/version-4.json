@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Power BI Inicial V4 - 24",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBBA01",
+      "name": "Curso Power BI Inicial",
+      "department": null,
+      "students_per_course": 83,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

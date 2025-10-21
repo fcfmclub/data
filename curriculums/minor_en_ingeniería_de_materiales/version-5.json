@@ -1,0 +1,75 @@
+{
+  "name": "Minor en Ingeniería de Materiales",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IQ4001",
+      "name": "Caracterización de Materiales",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.98,
+      "purpose": "El curso IQ4001, Caracterización de Materiales, tiene como propósito principal que las y los estudiantes aprendan los fundamentos de técnicas de caracterización (espectroscopias, térmicas, termo-mecánicas, microscopías, difracción, entre otras) que permiten caracterizar los materiales, es decir obtener información sobre su composición, enlaces, estructura, morfología y propiedades y establecer la relación entre estas características fundamentales para diversos casos de estudios de materiales. Es parte fundamental del curso que las/los estudiantes sean capaces de elegir y justificar adecuadamente la(s) técnica(s) de caracterización más relevante(s) en relación con la(s) característica(s) fundamental(es) de interés para un material específico.\r\n\r\nLas/los estudiantes trabajan con datos experimentales que analizan de acuerdo con ciertas variables trabajadas a través de ejercicios, en actividades de trabajo para el aula y en los laboratorios docentes. \r\n\r\nLas principales habilidades que se desarrollarán incluyen la selección de la(s) técnica(s) más relevantes según el problema planteado, utilización, procesamiento e interpretación de los resultados obtenidos y la redacción de estos en un informe de laboratorio.\r\n\r\nEste curso es obligatorio para el Minor en Ingeniería de Materiales",
+      "requirements": [
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "CM4202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=143018",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ3215",
+      "name": "Ciencia de los Materiales",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.91,
+      "purpose": "El curso IQ3215, Ciencia de los Materiales, tiene como propósito que el estudiantado relacione la microestructura de los materiales (enlaces, orden atómico, defectos cristalinos) con sus propiedades macroestructurales (en particular, propiedades mecánicas y físicas), a través de la medición, cálculos y/o uso de modelos fenomenológicos del comportamiento de la difusión atómica para aplicarlos en la cuantificación de fenómenos difusivos. Asimismo, durante el proceso de aprendizaje se considera, como criterio de decisión profesional, la clasificación de materiales para su selección en aplicaciones de la ingeniería.\r\n\r\nLos y las estudiantes trabajan con datos experimentales que analizan de acuerdo con ciertas variables trabajadas a través de ejercicios, en actividades de trabajo para el aula y en los laboratorios docentes.",
+      "requirements": [
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "CM3201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84785",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan5a015e7e6f84eae2a6d6a7e742f2f492",
+      "name": "Electivos Minor Materiales",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

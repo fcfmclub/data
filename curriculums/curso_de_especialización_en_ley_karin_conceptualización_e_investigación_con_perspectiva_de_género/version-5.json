@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Ley Karin: Conceptualización e Investigación con Perspectiva de Género",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPLKCI01",
+      "name": "Ley Karin: Conceptualización e Investigación con Perspectiva de Género",
+      "department": null,
+      "students_per_course": 26,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

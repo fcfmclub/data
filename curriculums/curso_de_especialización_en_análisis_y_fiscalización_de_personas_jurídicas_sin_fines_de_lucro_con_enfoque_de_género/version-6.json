@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Análisis y Fiscalización de Personas Jurídicas Sin Fines de Lucro, con Enfoque de Género",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPPJEG01",
+      "name": "Análisis y Fiscalización de Personas Jurídicas Sin Fines de Lucro, con Enfoque de Género",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

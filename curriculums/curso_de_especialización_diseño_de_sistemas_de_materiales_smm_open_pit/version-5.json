@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Diseño de Sistemas de Materiales (SMM) Open Pit",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEMINDSMM01",
+      "name": "Curso Cerrado Las Bambas: Diseño de Sistemas de Manejo de Materiales (SMM) Open Pit",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

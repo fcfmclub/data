@@ -1,0 +1,51 @@
+{
+  "name": "Magíster en Ciencias, Mención Geofísica",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 18,
+      "code": "GF797",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "GF798",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "GF797S",
+        "GF797"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Data Analytics con Tableau - Nivel 2",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECCDAT01",
+      "name": "Data Analytics con Tableau - Nivel 2",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

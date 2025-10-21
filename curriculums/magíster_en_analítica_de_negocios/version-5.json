@@ -1,0 +1,244 @@
+{
+  "name": "Magíster en Analítica de Negocios",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "ENGIN629",
+      "name": "ADMINISTRACIÓN DE BASE DE DATOS",
+      "department": null,
+      "students_per_course": 26,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "ENGIN634",
+      "name": "APRENDIZAJE DE MÁQUINAS",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN655",
+      "name": "Curso de profundización y amplitud I - Aprendizaje Profundo",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226373",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN653",
+      "name": "Curso de profundización y amplitud II - Visualización y Comunicación de Datos",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226377",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN656",
+      "name": "Curso de profundización y amplitud III - Ciencia de Datos Conductual",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226381",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN636",
+      "name": "Estrategia de negocios y analítica de datos",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226361",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "ENNEG700",
+      "name": "Ética y Privacidad en el Manejo de Datos CFA",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226357",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "ENGIN631",
+      "name": "INTRODUCCIÓN A LA ANALÍTICA DE NEGOCIOS Y DATOS MASIVOS",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "ENSTA654",
+      "name": "MÉTODOS ESTADÍSTICOS Y PROBABILIDADES",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN637",
+      "name": "Métodos experimentales y analítica de datos",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226365",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "ENGIN630",
+      "name": "TALLER DE APLICACIONES EN R/PYTHON",
+      "department": null,
+      "students_per_course": 26,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN635",
+      "name": "TI para la gestión y la toma de decisiones",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226369",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "ENGIN632",
+      "name": "TOMA DE DECISIONES BASADAS EN DATOS",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "ENGIN621",
+      "name": "Taller AFE",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=226385",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

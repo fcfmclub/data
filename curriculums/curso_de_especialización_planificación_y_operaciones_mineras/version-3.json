@@ -1,0 +1,74 @@
+{
+  "name": "Curso de Especialización Planificación y Operaciones Mineras",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEDIMPOM05",
+      "name": "Escuela de Verano en Planificación Minera - 2025",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEDIMPOM02",
+      "name": "Escuela de Verano en Planificación y Operaciones Mineras 2021",
+      "department": null,
+      "students_per_course": 113,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEDIMPOM03",
+      "name": "Escuela de Verano en Planificación y Operaciones Mineras 2022",
+      "department": null,
+      "students_per_course": 110,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEDIMPOM04",
+      "name": "Escuela de Verano en Planificación y Operaciones Mineras 2023",
+      "department": null,
+      "students_per_course": 65,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

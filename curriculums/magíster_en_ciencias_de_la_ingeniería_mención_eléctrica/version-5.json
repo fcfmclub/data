@@ -1,0 +1,65 @@
+{
+  "name": "Magíster en Ciencias de la Ingeniería, Mención Eléctrica",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 30,
+      "code": "EL7909",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 9,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EL7910",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 60,
+      "code": "plana9348421ccc1dd08f6149e36499263a7",
+      "name": "Cursos Electivos Magíster Ingeniería Eléctrica",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 60 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "name": "Diploma de Postítulo en Economía de Minerales",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMINEM08",
+      "name": "Análisis de Mercados de Minerales",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM05",
+      "name": "Análisis de Riesgo y Decisiones en Minería",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM06",
+      "name": "Competitividad Mundial en Minería",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM02",
+      "name": "Economía de Recursos Naturales",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM09",
+      "name": "Entorno Legal y Regulatorio",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM10",
+      "name": "Estimación de Costos e Inversiones de Capital",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM11",
+      "name": "Estudio de Caso (Presentaciones Finales)",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM03",
+      "name": "Financiamiento de la Actividad Minera",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM07",
+      "name": "Impactos Socioeconómicos de la Minería",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM04",
+      "name": "Innovación y Entrepreneurship en Minería",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEM01",
+      "name": "Minería y Desarrollo Económico",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "name": "Magíster en Gestión y Políticas Públicas",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "IN7T4",
+      "name": "Economía y Políticas Públicas II",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 25,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN7F1",
+      "name": "Enfoques y Modelos de Análisis en Políticas Públicas",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 28,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "IN3202",
+        "IN3401"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN73F",
+      "name": "Métodos Cuantitativos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "IN4301"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN72A",
+      "name": "Análisis Político y Gobernabilidad",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 27,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [
+        "IN75A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN71A",
+      "name": "Economía y Políticas Públicas I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN70C",
+      "name": "Ética y Gobierno",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 33,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN73G",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN74A",
+      "name": "Gestión Pública",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=187482",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN7T5",
+      "name": "Políticas Públicas",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [
+        "IN7F5"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN70A",
+      "name": "Rol del Estado: Aspectos Socio-Políticos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=91694",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN7G8",
+      "name": "Tópicos y Herramientas de Gestión Pública",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 27,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CR150"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN71B",
+      "name": "Economía y Políticas Públicas II",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "IN71A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN70B",
+      "name": "Rol del Estado: Aspectos Económicos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 36,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "IN70A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan68319233c302139dbbbfc490ba7fc0a7",
+      "name": "Cursos Electivos MGPP_V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

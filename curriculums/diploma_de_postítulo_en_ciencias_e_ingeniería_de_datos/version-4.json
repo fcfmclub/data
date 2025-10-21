@@ -1,0 +1,153 @@
+{
+  "name": "Diploma de Postítulo en Ciencias e Ingeniería de Datos",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "CC66D",
+      "name": "Bases de Datos Relacionales",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC66F",
+      "name": "Gestión de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC66E",
+      "name": "Minería de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC66A",
+      "name": "Programación Estadística",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC66C",
+      "name": "Recuperación de Información",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC66G",
+      "name": "Taller de Proyecto",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC66B",
+      "name": "Visualización de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

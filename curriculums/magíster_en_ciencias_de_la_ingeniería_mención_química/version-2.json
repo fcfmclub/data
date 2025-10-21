@@ -1,0 +1,357 @@
+{
+  "name": "Magíster en Ciencias de la Ingeniería, Mención Química",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IQ57A",
+      "name": "Dinámica y Control de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "IQ46B",
+        "IQ54A",
+        "IQ55C",
+        "MA33A"
+      ],
+      "equivalences": [
+        "IQ573",
+        "IQ5307"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2339",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ46B",
+      "name": "Operaciones de Transferencia I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "IQ36A"
+      ],
+      "equivalences": [
+        "IQ4302"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ4302",
+      "name": "Operaciones de Transferencia I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 40,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "IQ3301",
+        "IQ3202"
+      ],
+      "equivalences": [
+        "IQ46B",
+        "IQ4313"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=9234",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ55C",
+      "name": "Reactores Químicos y Bioquímicos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "BT46A"
+      ],
+      "equivalences": [
+        "IQ55A",
+        "IQ4305"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2338",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ4305",
+      "name": "Reactores Químicos y Bioquímicos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 34,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "IQ3211",
+        "IQ3201",
+        "IQ3311",
+        "IQ3312",
+        "IQ3202"
+      ],
+      "equivalences": [
+        "IQ55C",
+        "IQ55B",
+        "IQ4314"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3686",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 18,
+      "code": "IQ797",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IQ7001"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "IQ7001",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IQ797"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=154198",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ763",
+      "name": "Transferencia de Masa Avanzada",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "IQ46A",
+        "MI502"
+      ],
+      "equivalences": [
+        "IQ7422"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1573",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ5307",
+      "name": "Dinámica y Control de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 32,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "IQ4112",
+        "IQ4101",
+        "FI3104",
+        "IQ4305",
+        "IQ4314"
+      ],
+      "equivalences": [
+        "IQ5113"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3661",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 18,
+      "code": "IQ798",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "IQ797S",
+        "IQ797"
+      ],
+      "equivalences": [
+        "IQ7002"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "IQ7002",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IQ7001"
+      ],
+      "equivalences": [
+        "IQ798"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=154202",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ7422",
+      "name": "Transferencia de Masa Avanzada",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "IQ4302",
+        "IQ4313"
+      ],
+      "equivalences": [
+        "IQ763"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=138270",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "plan2a7c0a2e0255114f24c7af03b0a3f4e7",
+      "name": "Electivos  Mag Cs de la Ing , Mencion Quimica",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 9 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plan89fb7ff727e64f98c945de3cfd3dd92e",
+      "name": "Nivel 700 Magíster Ing Química",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

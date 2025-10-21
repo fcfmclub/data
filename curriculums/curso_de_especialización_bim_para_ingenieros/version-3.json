@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización BIM para Ingenieros",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDICBIM01",
+      "name": "BIM para Ingenieros",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

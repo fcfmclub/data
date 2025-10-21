@@ -1,0 +1,112 @@
+{
+  "name": "Magíster en Ciencias, Mención Computación",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CC7910",
+      "name": "Investigación en Ciencias de la Computación (Métodos, Técnicas, Perspectivas)",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "CC4102"
+      ],
+      "equivalences": [
+        "CC71T",
+        "CC6201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116230",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "CC7970",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC797"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=129226",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "CC7980",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC798"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=129230",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "planc278fdff329c0041801fa68d1febb216",
+      "name": "Cursos Area de Fundamentos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan0c3a6b2c6f0e1eb4bc217ec4f8781f4c",
+      "name": "Cursos Electivos Magíster en Ciencias Mención Computación",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1457 @@
+{
+  "name": "Geología",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "GL6930",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 1,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [
+        "CR300"
+      ],
+      "equivalences": [
+        "GL6910"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=201058",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3403",
+      "name": "Probabilidades y Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.84,
+      "purpose": "El propósito de este curso es que el/la estudiante aplique los conceptos fundamentales de la\r\nteoría de probabilidades en la modelación y solución de problemas concretos que involucran\r\nfenómenos aleatorios. También que enuncie leyes clásicas de probabilidad discretas y continuas, que calcule con ellas y que las asocie a situaciones específicas de modelación. Además que aplique la Ley de Grandes Números y del Teorema Central del Límite.\r\nOtra parte del propósito de este curso es que el/la estudiante conozca los conceptos\r\nfundamentales de la Inferencia Estadística y de los modelos lineales, y los aplique junto a los\r\nconceptos de probabilidad. Junto a esto, que conozca lo que es un muestreo aleatorio y la\r\nimportancia de la distribución Normal y su rol en el Teorema Central del Límite, que estime\r\nparámetros de una distribución y reconozca sus propiedades, y que conozca el Lema de Neyman Pearson y su aplicación en la toma de decisiones con un test de hipótesis. Adicionalmente, que aplique un modelo de regresión lineal y evalúe sus resultados. Finalmente, que aplique la teoría de tests en casos clásicos como son: la comparación de dos poblaciones, la comprobación que un conjunto de valores muestrales siguen una determinada distribución, el test de independencia en una tabla de contingencia.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3754",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL3103",
+      "name": "Ciencia de los Minerales I",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.99,
+      "purpose": "El curso Ciencia de los Materiales que se ubica en el V semestre, primer año de la especialidad, tiene como propósito que los y las estudiantes analicen las propiedades físicas y químicas de la materia sólida y cristalina, en el contexto de los minerales y materiales naturales para poder identificarlos y clasificarlos según dichas propiedades, con el fin de inferir su origen y formación.\r\n\r\nPara ello, analizan y utilizan técnicas de caracterización de minerales, basadas en la observación y testeo macroscópico.",
+      "requirements": [
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "GL3301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=73805",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3301",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.9,
+      "purpose": "El curso se encuentra en el VI semestre de la carrera. Este curso de  tiene como propósito que los y las estudiantes puedan calcular el valor de un proyecto de inversión, a partir del análisis y uso de datos reales, de su estructuración en estados financieros contables (Balance, Estado de Resultados, Flujo de Caja), del diseño de estrategias financieras derivadas del diagnóstico y del uso de herramientas matemáticas financieras, desde una perspectiva tanto privada, de evaluación de negocios, como social en el caso de proyectos públicos de inversión. \r\n\r\nEl curso trabaja con una metodología activo - participativa, donde los y las estudiantes construyen su aprendizaje, en pro de desarrollar herramientas tanto de carácter económico- financiero como de trabajo en equipo. Lo anterior, incluye manejo de teoría, análisis de casos prácticos, con ejemplos de la vida cotidiana. El o la docente guía las discusiones, generando espacios de reflexión acerca del marco teórico y su aplicación, con una retroalimentación constante a los estudiantes.",
+      "requirements": [
+        "IN2201",
+        "IN3141",
+        "MA3403",
+        "MA3401"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3480",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GF3001",
+      "name": "Geofísica General",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 41,
+      "approval_rate": 0.94,
+      "purpose": "El curso tiene como propósito introducir a los y las estudiantes en la exploración y análisis de los procesos que se desarrollan en la Tierra sólida y que dan origen a variadas manifestaciones superficiales observadas en el día a día. Además, el y la estudiante lograrán determinar el origen de dichos procesos y su funcionamiento, considerando a la Tierra como un sistema controlado por múltiples variables. \r\n\r\nEl y la estudiante, con las nociones del modelamiento geofísico adquiridos, podrán elaborar modelos a baja y gran escala. \r\n\r\nLas estrategias metodológicas consideran clases expositivas y trabajo de laboratorio, fundamentales para el logro de los resultados de aprendizaje propuestos. Los y las estudiantes tendrán un rol protagónico en su proceso de aprendizaje; deberán trabajar activamente en las actividades de trabajo de campo y en las clases expositivas, donde su participación y autoaprendizaje son fundamentales.",
+      "requirements": [
+        "FI2002"
+      ],
+      "equivalences": [
+        "GF31A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3474",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL3101",
+      "name": "Geología General",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 38,
+      "approval_rate": 0.93,
+      "purpose": "El curso Geología general tiene como propósito que los y las estudiantes adquieran y utilicen los fundamentos básicos de las ciencias de la tierra para comprender como los principales procesos físicos y químicos actúan en el sistema Tierra y modifican el paisaje terrestre, generan recursos naturales y peligros; lo anterior es posible de alcanzar a través de una observación sistemática, toma de datos en terreno o trabajo con datos, con su respectivo análisis e interpretación. \r\n\r\nEste curso se ubica en el V semestre del plan de formación, al inicio del ciclo de especialidad (licenciatura); introduce a los y las estudiantes a las diversas disciplinas que componen la geología. Al final de este curso, el/la estudiante aplican sus conocimientos adquiridos para plantear soluciones a problemas geológicos simples relacionados con las distintas áreas de la geología, considerando como estos afectan e interactúan con la actividad humana.",
+      "requirements": [
+        "MA2002",
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "GL31A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3578",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL3203",
+      "name": "Ciencia de los Minerales II",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.96,
+      "purpose": "El curso Ciencia de los Minerales II que se ubica en el VI semestre, primer año de la especialidad, tiene como propósito que los y las estudiantes estudien la estructura cristalina, propiedades físicas, composición química y estabilidad termodinámica de los distintos grupos de silicatos, determinando además sus propiedades ópticas, morfológicas y texturales; utilizan para ello nociones generales de variadas técnicas analíticas modernas para el estudio de los silicatos formadores de rocas.",
+      "requirements": [
+        "GL3103"
+      ],
+      "equivalences": [
+        "GL4502"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=81297",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL3204",
+      "name": "Energía de Procesos Geológicos",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.85,
+      "purpose": "El curso Energía de Procesos Geológicos, que se ubica en el VI semestre, primer año de la\r\nespecialidad tiene como propósito que los y las estudiantes utilicen conceptos\r\nfundamentales de la termodinámica, cinética química, fenómenos de transporte y dinámica\r\nde fluidos para la resolución de problemas aplicados a sistemas geológicos, utilizando\r\nconceptos, tales como calor, temperatura, presión, equilibrio, cambio de fases, velocidad de\r\nreacción y gradientes de concentración. Además, utilizan el análisis de fuerzas y propiedades\r\nfísicas de los materiales geológicos (densidad, viscosidad, compresibilidad, entre otros).",
+      "requirements": [
+        "GL3101"
+      ],
+      "equivalences": [
+        "GL3102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=81293",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL3201",
+      "name": "Sedimentología",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.98,
+      "purpose": "El curso Sedimentología tiene como propósito que los y las estudiantes analicen los principales procesos de generación, transporte, deposición de sedimentos, así como los cambios que experimentan los sedimentos luego de su deposición. A lo largo del curso las y los estudiantes aprenderán a clasificar depósitos y rocas sedimentarias aplicando técnicas de macro y microscopía. Además aprenderán a reconocer y analizar la textura y estructuras sedimentarias para una correcta interpretación de las condiciones ambientales bajo las cuales se depositaron.",
+      "requirements": [
+        "GL3101"
+      ],
+      "equivalences": [
+        "GL5102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=81301",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL3205",
+      "name": "Sistemas de Información Geográfica para Geología",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.96,
+      "purpose": "El curso que se ubica en el VI semestre de la licenciatura tiene como propósito que los y las estudiantes operen, analicen, interpreten y generen información georreferenciada que sirva de soporte para la toma de decisiones de carácter profesional respecto de un requerimiento.",
+      "requirements": [
+        "GL3101",
+        "GF3001"
+      ],
+      "equivalences": [
+        "GL4012"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=81289",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL4204",
+      "name": "Estratigrafía",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que los y las estudiantes interpreten secuencias de eventos geológicos, a partir de las características del registro estratigráfico presente en una zona para comprender parte de la dinámica terrestre.\r\n\r\nPara ello, representan gráficamente, en perfiles y columnas estratigráficas, información obtenida de diferentes fuentes, por ejemplo, estudios de casos y datos de terreno.",
+      "requirements": [
+        "GL3201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89094",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4101",
+      "name": "Geología Estructural",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.95,
+      "purpose": "El curso tiene como propósito proporcionar a las y los estudiantes las herramientas básicas de la geología estructural para identificar y caracterizar estructuras geológicas como fallas, diaclasas, pliegues y foliaciones a diferentes escalas (regional a mesoscópica). Asimismo, el curso entrega conceptos fundamentales de esfuerzo y deformación (stress y strain) con los cuales, los y las estudiantes pueden entender e interpretar la formación de estructuras.  \r\n\r\nPor otra, parte, los y las estudiantes aplican softwares y redes estereográficas para el tratamiento y análisis de datos estructurales para comprender, interpretar y solucionar diversos problemas asociados a la geometría, distribución y formación de estructuras.\r\n\r\nLos conocimientos adquiridos en cátedra son reforzados y complementados por actividades realizadas en clases auxiliares. En ese espacio de trabajo, los y las estudiantes realizan tareas, mapas, informes y resuelven ejercicios aplicados.",
+      "requirements": [
+        "GL3205"
+      ],
+      "equivalences": [
+        "GL4102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89082",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4203",
+      "name": "Geomorfología Dinámica",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen herramientas y conceptos geomorfológicos para describir la evolución del paisaje y su relación con la naturaleza y el medioambiente.",
+      "requirements": [
+        "GL3205"
+      ],
+      "equivalences": [
+        "GL3402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89814",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4205",
+      "name": "Geoquímica",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.96,
+      "purpose": "El curso tiene como propósito que los y las estudiantes manejen las herramientas fundamentales del comportamiento de los elementos químicos, y su origen, distribución y evolución en los sistemas naturales terrestres. Para ello, determinan la distribución y relaciones cuantitativas de los elementos químicos y sus isótopos en minerales, rocas y demás materiales de la Tierra.\r\n\r\nAsimismo, analizan los modelos de magmatismo, sedimentación y metamorfismo como sistemas geoquímicos y caracterizan las geósferas externas (la atmósfera, hidrósfera y biósfera) sobre la base de su estructura, composición e interacción, determinando la importancia de éstas en el ciclo exógeno de los elementos químicos.\r\n\r\nFinalmente, los y las estudiantes contrastan distintas metodologías para el muestreo y manejan distintos métodos analíticos geoquímicos y su aplicación, analizando e interpretando datos geoquímicos simples en estudios petrogenéticos y ambientales.",
+      "requirements": [
+        "GL3204"
+      ],
+      "equivalences": [
+        "GL4503"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89090",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL4206",
+      "name": "Paleontología",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 20,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que las y los estudiantes reconozcan los principales grupos paleontológicos y/o tipos de fósiles presentes o posibles de encontrar en Chile (en especial de invertebrados, microfósiles, plantas y huellas o evidencias de su presencia o actividad), sus formas de preservación, y su significado cronológico relativo y paleoambiental, para su aplicación en la interpretación de las unidades o sucesiones geológicas en las que se encuentran. También se abordan las características disciplinarias de la Paleontología, y los fundamentos para el necesario y adecuado resguardo de las colecciones de fósiles institucionales y de los yacimientos paleontológicos.\r\n\r\nEn especial, las y los estudiantes llevan a cabo actividades guiadas de laboratorio y de terreno, donde se interiorizan acerca de los rasgos morfológicos claves que permiten identificar los diferentes grupos y/o tipos de fósiles, ya extraídos o aún presentes en los estratos, teniendo presente su grado de preservación. Además, realizan ejercicios para inferir edades relativas e interpretar las condiciones paleoambientales en las que se habrían formado los depósitos y capas o niveles donde se han encontrado, sobre la base de sus biocrones conocidos, modos o formas de vida y requerimientos ambientales.",
+      "requirements": [
+        "GL3201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89098",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4202",
+      "name": "Petrología Ignea",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.88,
+      "purpose": "El curso tiene como propósito que los y las estudiantes utilicen conceptos fundamentales sobre el origen de los diversos tipos de rocas ígneas, aplicables a ejemplos de los fenómenos petrológicos y para interpretar fenómenos magmáticos.\r\n\r\nAsimismo, interpreta los principales procesos de generación y evolución de magmas y usan parámetros texturales, mineralógicos y de terreno para identificar y caracterizar tipos de rocas ígneas existentes en la Tierra.",
+      "requirements": [
+        "GL3204",
+        "GL3203"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89834",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4403",
+      "name": "Petrología Metamórfica",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.94,
+      "purpose": "El curso tiene como propósito que los y las estudiantes manejen conceptos fundamentales sobre el origen de los diversos tipos de rocas metamórficas, utilizando diagramas de fase y estimaciones de variables intensivas para proponer modelos de génesis de las rocas metamórficas.\r\n\r\nAsimismo, identifican tipos de rocas metamórficas, a través del estudio en terreno petrográfico y textural, a fin de definir las asociaciones minerales en equilibrio.",
+      "requirements": [
+        "GL3204",
+        "GL3203"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115966",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "GL4901",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.98,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las prácticas\r\nprofesionales han sido definidas como hitos evaluativos del Perfil de egreso de la carrera de\r\nla FCFM, pues ellas corresponden a actividades curriculares que permiten evidenciar y\r\nmonitorear el logro de una serie de competencias relevantes comprometidas en dicho\r\nperfil. Además, permite darle la posibilidad a los/las estudiantes de demostrar de manera\r\nauténtica los logros desarrollados en su formación hasta el momento en donde se ubica la\r\npráctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y protagónico,\r\npues tendrá la oportunidad para demostrar desempeños tanto de las competencias\r\nespecíficas de su formación como de las competencias genéricas tales como trabajo en\r\nequipo, comunicación académica y profesional, compromiso ético e innovación.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para vincular\r\nla universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "GL3205"
+      ],
+      "equivalences": [
+        "GL49A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3587",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4402",
+      "name": "Geología de Campo I",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 22,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el estudiantado sea capaz de recolectar información geológica y analizar, interpretar, sintetizar y presentar de manera escrita y oral, los resultados y productos derivados. El levantamiento de la información geológica incluye:\r\n\r\n1)\tlevantar una o más columnas estratigráficas; \r\n2)\trealizar uno o más secciones geológicas y/o estructurales;\r\n3)\trealizar descripción de afloramientos y toma de muestras;\r\n4)\trealizar un mapeo geológico, utilizando métodos de teledetección y de campo.\r\n\r\nLa recolección de información geológica se realiza preferentemente a una escala entre 1:5.000 - 1:25.000. El área de estudio se escoge de manera que presente una variedad tipos litológicos, de estilos estructurales y de morfologías, de forma tal que los y las estudiantes puedan aplicar de forma práctica los conocimientos teóricos de varias temáticas, adquiridos durante su carrera. Previo a la campaña de terreno y por un período no menor a seis (6) semanas, los/las estudiantes trabajan en grupo, realizando trabajo bibliográfico, de mapeo, usando métodos de teledetección, y en todos los aspectos relativos a una adecuada preparación de una campaña geológica.",
+      "requirements": [
+        "GL4102",
+        "GL4101",
+        "GL4202",
+        "GL4203",
+        "GL4204"
+      ],
+      "equivalences": [
+        "GL44B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3586",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL5213",
+      "name": "Hidrogeología",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 34,
+      "approval_rate": 0.93,
+      "purpose": "El propósito de este curso es proporcionar al estudiantado los conocimientos requeridos para identificar, distinguir, analizar y proponer soluciones en el campo de la hidrogeología.\r\n\r\nEn las Ciencias de la Tierra, los recursos hídricos han adquirido una importancia progresiva tanto en la enseñanza como en la investigación y en la labor profesional. La hidrogeología estudia las complejas interacciones de la hidrósfera con la litósfera, la atmósfera y biósfera que son resumidas en el ciclo del agua. El curso proporciona herramientas para la prospección, el análisis, la captación y la protección de los Recursos Hídricos.\r\n\r\nEsta disciplina analiza, también, los procesos que afectan a las aguas con la salud humana, animal y vegetal, siendo una de las disciplinas fundamentales para asegurar la supervivencia y el desarrollo socioeconómico.",
+      "requirements": [
+        "GL4205",
+        "GL3201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3687",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4401",
+      "name": "Introducción a Yacimientos Minerales",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.84,
+      "purpose": "El curso Introducción a Yacimientos Minerales del VIII semestre de la carrera de Geología tiene como propósito que los y las estudiantes manejen las distintas metodologías fundamentales utilizadas para comprender los procesos que generan y modifican los depósitos minerales. Para ello, identifican y caracterizan mineralización metálica y de alteración hidrotermal y aplican herramientas y métodos analíticos geoquímicos para determinar las condiciones fisicoquímicas de su formación. \r\n\r\nAsimismo, los y las estudiantes contrastan las distintas características geológicas de los depósitos minerales más importantes a nivel mundial y en el país.",
+      "requirements": [
+        "IN3301",
+        "GL4205"
+      ],
+      "equivalences": [
+        "GL54A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3585",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL6908",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.87,
+      "purpose": "El curso tiene como propósito que los y las estudiantes elaboren una propuesta de trabajo de titulación en geología o ciencias de la tierra (por ejemplo, geología económica, geología regional, petrología, tectónica, procesos exógenos, entre otros).\r\n\r\nLas tareas para ejecutar son:\r\n»una investigación bibliográfica sobre un problema del campo de la geología o ciencias de la tierra;\r\n»la definición de un problema, con su respectiva justificación metodológica;\r\n»la definición de objetivos e hipótesis.\r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Analiza información que selecciona de una búsqueda de literatura u otras fuentes de información en español e inglés, sobre la naturaleza de un problema geológico propuesto por el o la estudiante o dado por el o la profesor (a), como base para su marco teórico.\r\n-Define y plantea los objetivos generales y específicos del proyecto de titulación en un área de la geología o ciencias de la tierra.\r\n-Define la metodología a emplear para el trabajo de titulación.\r\n-Comunica avances sobre su investigación, a través de la redacción de un informe, exponiendo con claridad y precisión, los resultados de su trabajo.\r\n-Expone oralmente, de forma clara y eficaz, la propuesta, demostrando dominio del tema, capacidad de síntesis para la presentación de los aspectos centrales de la propuesta.",
+      "requirements": [
+        "CR270",
+        "GL4901"
+      ],
+      "equivalences": [
+        "GL69E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3760",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 14,
+      "code": "GL5902",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": "La práctica tiene como propósito principal que los/as estudiantes deben incorporarse a dinámicas de trabajo de una organización, considerando, a lo menos, el cumplimiento de las siguientes responsabilidades profesionales: \r\na. una jornada laboral que le permita cumplir los propósitos comprometidos, en modalidad presencial y/o teletrabajo; \r\nb. la participación si corresponde en un equipo de trabajo; \r\nc. la interacción con su jefatura y/o pares si corresponde; \r\nd. autoevaluación y/o autopercepción del desempeño, logrando tener un análisis crítico del quehacer laboral; e. diseño del informe de práctica según estructura solicitada por el Departamento; \r\nf. exposición oral de los resultados de su trabajo de práctica dependiendo de lo solicitado por el Departamento.",
+      "requirements": [
+        "GL4901"
+      ],
+      "equivalences": [
+        "GL5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160558",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4212",
+      "name": "Volcanología Física",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.91,
+      "purpose": "El curso GL4212: Volcanología física, tiene como propósito que los y las estudiantes clasifiquen y analicen los fenómenos volcánicos para interpretar procesos asociados a la generación de rocas y depósitos volcánicos, así como estimar los peligros, recursos naturales e impacto ambiental del volcanismo.\r\n\r\nAsimismo, trabaja en equipo en el análisis de terrenos volcánicos para determinar los peligros asociados y predecir ocurrencias de los procesos eruptivos.",
+      "requirements": [
+        "GL4203",
+        "GL4202",
+        "GL5102"
+      ],
+      "equivalences": [
+        "GL5212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115942",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL6302",
+      "name": "Geología Ambiental",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 22,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen información geológica a los procesos que ocurren a partir de la interacción entre la actividad antrópica y el medioambiente. \r\n\r\nEn el curso se introducen contenidos sobre el efecto que tienen las actividades antrópicas sobre los sistemas naturales e intervenidos, considerando la contaminación y el cambio climático, como también las limitaciones físicas que imponen los procesos geológicos a las actividades humanas que implican vulnerabilidad de la población y la infraestructura civil. \r\n\r\nLos y las estudiantes investigarán diversos casos de estudio en los cuales se compila y analiza información geológica en una perspectiva ambiental, junto con comparar las diferentes estrategias de mitigación utilizadas en un marco de responsabilidad profesional.\r\n\r\nFinalmente, los y las estudiantes del curso realizarán una investigación, a partir de información geológica de distinta naturaleza para establecer una línea de base ambiental y proponer estrategias de mitigación a problemáticas ambientales asociadas a los impactos de las actividades humanas.",
+      "requirements": [
+        "GL5213"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=148114",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL5314",
+      "name": "Geología Andina",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.97,
+      "purpose": "El curso Geología andina tiene como propósito que los y las estudiantes apliquen los conocimientos adquiridos de los fundamentos de la Geología como disciplina para analizar de forma crítica los trabajos sobre la evolución geológica del margen occidental de Sudamérica a lo largo del tiempo, evaluando el impacto de cada dato e información que conducen y sustentan la formulación de un modelo geológico evolutivo a lo largo del tiempo. En este sentido, el curso pretende que los y las estudiantes sean capaces de integrar y comprender de qué manera los distintos procesos ígneos, sedimentarios, metamórficos, geomorfológicos, estructurales y climáticos interactúan durante esta evolución. Asimismo, el curso tenderá a otorgar un marco base de la geología presente en Chile y su relevancia para aplicaciones que vayan más allá de lo puramente científico, sino que además entreguen una línea base para aplicaciones geológicas desde la exploración de recursos minerales hasta la planificación territorial y diseño de estrategias aplicadas a la construcción y mantención de estructuras ingenieriles.",
+      "requirements": [
+        "GL4402",
+        "GL4212",
+        "GL4206",
+        "GL3004"
+      ],
+      "equivalences": [
+        "GL5114"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=140438",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL5321",
+      "name": "Geología Aplicada a la Ingeniería",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que el estudiantado identifique, evalúe y prevea el comportamiento geotécnico de rocas y suelos para su aplicación en obras de ingeniería ( por ejemplo, obras civiles, de minería, entre otras). Se busca que sea capaz de \r\n\r\n\taplicar los conocimientos geológicos en la caracterización del comportamiento geotécnico de rocas y suelos.\r\n\taplicar conceptos de mecánica de suelos y rocas para modelar y prever el comportamiento mecánico de terrenos de fundación de obras civiles.",
+      "requirements": [
+        "GL4402"
+      ],
+      "equivalences": [
+        "GL5201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=126402",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL5301",
+      "name": "Geotectónica",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito que las/os estudiantes reconozcan la estructura interna de la Tierra y los procesos principales de la geodinámica terrestre (corteza, manto, litósfera, reología, stress y strain, isostasia, cinemática y dinámica de placas), comprendiendo los diferentes ambientes tectónicos (extensión, compresión, strike-slip) y cómo éstos controlan la formación y desarrollo de orógenos y cuencas sedimentarias, con un énfasis en los ambientes de subducción.",
+      "requirements": [
+        "GL4402"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=143134",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL5311",
+      "name": "Metalogénesis",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.9,
+      "purpose": "El curso Metalogénesis del IX semestre de la carrera de Geología tiene como propósito que los y las estudiantes comprendan y analicen los principales eventos de la evolución geológica, paleogeográfica y paleoclimática de la Tierra y su relación con la formación de los depósitos minerales a través del tiempo geológico. \r\n\r\nPara ello, determinan los controles tectónicos, petrogenéticos y paleoambientales y su variación a través del tiempo en la formación de los distintos tipos de yacimientos y provincias metalogénicas. \r\n\r\nAsimismo, analizan los modelos genéticos de los diferentes tipos de yacimientos determinando sus características mineralógicas, alteración y relación con procesos geológicos como son magmatismo, sedimentación, metamorfismo y meteorización.\r\n\r\nEl curso Metalogénesis del IX semestre de la carrera de Geología tiene como propósito que los y las estudiantes comprendan y analicen los principales eventos de la evolución geológica, paleogeográfica y paleoclimática de la Tierra y su relación con la formación de los depósitos minerales a través del tiempo geológico. \r\n\r\nPara ello, determinan los controles tectónicos, petrogenéticos y paleoambientales y su variación a través del tiempo en la formación de los distintos tipos de yacimientos y provincias metalogénicas. \r\n\r\nAsimismo, analizan los modelos genéticos de los diferentes tipos de yacimientos determinando sus características mineralógicas, alteración y relación con procesos geológicos como son magmatismo, sedimentación, metamorfismo y meteorización.\r\n\r\nFinalmente, los y las estudiantes identifican y caracterizan mineralización metálica y de alteración hidrotermal en muestra de mano y mediante técnicas de microscopia óptica para determinar las relaciones paragenéticas y secuencia temporal de eventos de mineralización/alteración.",
+      "requirements": [
+        "GL4401",
+        "GL4403",
+        "GL5103"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3676",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 24,
+      "code": "GL6919",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito que los y las estudiante desarrollen un proyecto en el campo de la geología o de las ciencias de la Tierra (por ejemplo, geología económica, geología regional, petrología, tectónica, procesos exógenos, entre otros) en donde demuestre conocimientos y habilidades de acuerdo al perfil de egreso.\r\n\r\nEste trabajo de título se desarrollará de acuerdo con la propuesta aprobada en Introducción al trabajo de título (GL6908). Los y las estudiantes trabajarán en forma autónoma, bajo la supervisión de un profesor guía.\r\n\r\nEl trabajo de título será defendido en el examen de título ante una comisión conformada por los y las profesores guía, co-guía y/o integrante (s), para la obtención del título profesional de Geólogo/a. En caso de reprobar el Trabajo de Título (GL6919) o el examen de título, el/la estudiante deberá volver a inscribir nuevamente el curso de Introducción al Trabajo de Título GL6908.\r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Propone una hipótesis de trabajo basándose en una pregunta científica y define los objetivos generales y específicos para refutar o validar dicha hipótesis, siguiendo el método científico. \r\n-Utiliza datos experimentales o de terreno, modelos conceptuales y/o numéricos para resolver un problema de investigación en el campo de la geología o de las ciencias de la Tierra.\r\n-Presenta avances del trabajo y en discusiones con su profesor guía y/o miembros de la comisión sobre la investigación. \r\n-Resuelve dudas metodológicas, sobre la interpretación de datos o de la bibliografía utilizada para reorientar su trabajo, o realiza cambios metodológicos en consulta con su profesor guía.\r\n-Gestiona su quehacer, tomando decisiones frente a situaciones no previstas en su propuesta inicial, y demuestra iniciativa para resolver dificultades.\r\n-Analiza y contrasta los resultados obtenidos en su investigación con la literatura vigente, redactando una discusión crítica a partir de la revisión de múltiples fuentes.\r\n-Produce un texto escrito, donde fundamenta técnicamente las conclusiones de su Trabajo de Título, ajustándose a criterios de claridad, precisión y coherencia para su escrito.\r\n-Expone, en forma oral, su Trabajo de Título, demostrando en su exposición claridad, dominio del tema, capacidad de síntesis, precisión en el uso de los conceptos técnicos y manejo de un lenguaje formal.",
+      "requirements": [
+        "GL6908",
+        "GL5902"
+      ],
+      "equivalences": [
+        "GL6909"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=176898",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL6301",
+      "name": "Geología Económica",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.99,
+      "purpose": "El curso teórico-práctico de Geología Económica tiene como propósito que los y las estudiantes apliquen las distintas metodologías necesarias para la resolución de problemas asociados a yacimientos minerales, incluyendo su importancia dentro del ciclo de desarrollo de proyectos mineros, y también su sostenibilidad. Tendrán que utilizar todas las competencias adquiridas durante sus estudios e identificar e integrar los distintos procesos geológicos para resolver problemas relativos al desarrollo de la profesión en el ámbito minero, incluyendo la exploración y explotación de recursos minerales. Además, comprenderán y analizarán los fundamentos del negocio minero y el rol del geólogo/a en la industria minera.",
+      "requirements": [
+        "GL5311",
+        "GL5321"
+      ],
+      "equivalences": [
+        "GL61F"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3752",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "GL6101",
+      "name": "Geología de Campo II",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que el/la estudiante sea capaz de diseñar y llevar a cabo un proyecto geológico basado en la recolección de información en terreno y su posterior análisis e interpretación. El diseño del proyecto se realiza en grupos de trabajo y puede referirse a cualquier temática geológica factible de llevarse a cabo dentro del marco definido por el/la docente, por ejemplo: peligros geológicos, hidrogeología y geología económica entre otros. El diseño incluye el planteamiento de objetivos, hipótesis, revisión bibliográfica, mapeo pre-terreno con el uso de productos de sensores remoto, y planificación del trabajo a realizar en terreno, incluyendo transectas y puntos de control (muestreo, observación, medición). Esta etapa de trabajo pre-terreno comprende un periodo entre 6 a 9 semanas.\r\n\r\nEn terreno el/la estudiante recolecta información geológica, la cual analiza e interpreta diariamente, para luego sintetizar y presentar de manera oral sus resultados y usarlos para el ajuste del plan de trabajo realizado en pre-terreno. El levantamiento geológico asociado al proyecto grupal incluye:\r\n\r\n1)\tlevantar una o más columnas estratigráficas;\r\n2)\trealizar uno o más secciones geológicas y/o estructurales;\r\n3)\trealizar descripción de afloramientos y toma de muestras;\r\n4)\trealizar un mapeo geológico utilizando métodos de teledetección y de campo.\r\n\r\nLa recolección de información geológica se realiza preferentemente a una escala entre 1:5.000 - 1:25.000 en una campaña de terreno que tiene una duración no menor a 10 días de trabajo efectivo. El área de estudio se escoge de manera que presente una variedad de tipos litológicos, de estilos estructurales y de morfologías, de forma que el/la estudiante pueda aplicar de forma práctica los conocimientos teóricos de varias temáticas, adquiridos durante su carrera.\r\n\r\nPosterior al terreno, el/la estudiante trabaja en su respectivo grupo, en el análisis e integración de datos, interpretación de resultados, realizando un análisis crítico de ellos en función de la bibliografía existente y el resultado del trabajo de pre-terreno y terreno. Finalmente, el/la estudiante, en conjunto con su grupo de trabajo, preparan un informe y una presentación oral de sus resultados y conclusiones. De esta manera, el curso tiene además el propósito de que el/la estudiante logre desarrollar habilidades de comunicación, ética y trabajo en equipo.",
+      "requirements": [
+        "GL5314",
+        "GL5301"
+      ],
+      "equivalences": [
+        "GL61E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3759",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 9,
+      "code": "plan6b9cdd7575b2391167b5882ce696f9a7",
+      "name": "Licenciatura Electivos Geología V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 9 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "pland87c808569e24bad1c1be08f548b74a6",
+      "name": "Geología V5, Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

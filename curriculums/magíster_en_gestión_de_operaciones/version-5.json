@@ -1,0 +1,131 @@
+{
+  "name": "Magíster en Gestión de Operaciones",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN79O",
+      "name": "Modelos Estocásticos en Sistemas de Ingeniería",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "IN3171",
+        "IN3701",
+        "MA3711",
+        "MA34B",
+        "MA34A",
+        "MA3403",
+        "MA3402",
+        "IN3141"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1075",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN77O",
+      "name": "Modelos y Algoritmos de Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "IN34A",
+        "IN3171",
+        "IN3701",
+        "MA3701",
+        "EL4114",
+        "IN3141",
+        "IN3242",
+        "IN3401",
+        "MA3401",
+        "MA3402",
+        "MA3403",
+        "EL3104",
+        "IN41A",
+        "IN2201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1081",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "IN7602",
+      "name": "Seminario de Taller de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "IN7603",
+      "name": "Seminario de Taller de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan3c17fcaa93c86568fe8bd7420c102001",
+      "name": "Electivos MGOV5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

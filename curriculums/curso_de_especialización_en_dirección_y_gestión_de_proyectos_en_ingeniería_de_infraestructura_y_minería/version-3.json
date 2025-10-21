@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Dirección y Gestión de Proyectos en Ingeniería de Infraestructura y Minería",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEDICDPI01",
+      "name": "Dirección y Gestión de Proyectos en Ingeniería de Infraestructura y Minería",
+      "department": null,
+      "students_per_course": 10,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

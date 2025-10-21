@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Power BI Intermedio V4 - 23",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBME01",
+      "name": "Curso Power BI Intermedio V4-23",
+      "department": null,
+      "students_per_course": 93,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

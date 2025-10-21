@@ -1,0 +1,159 @@
+{
+  "name": "Diploma de Postítulo en Excelencia Operacional y Gestión de Activos",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA05",
+      "name": "Big Data Analytics en Confiabilidad y Mantenimiento",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA08",
+      "name": "Cultura para la Excelencia Organizacional",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA01",
+      "name": "Excelencia Operacional",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA02",
+      "name": "Gestión de Activos Físicos",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA09",
+      "name": "Gestión de Contratos de Servicios y Taller de Casos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA03",
+      "name": "Gestión de Repuestos Críticos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA07",
+      "name": "Planificación y Programación de Mantenimiento de Sistemas Complejos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA04",
+      "name": "Reemplazo de Equipos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMEOGA06",
+      "name": "Transformación Digital, Prognosis y Gestión de Condición",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

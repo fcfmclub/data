@@ -1,0 +1,108 @@
+{
+  "name": "Diploma Desarrollo Profesional de Infraestructura Critica Mínera Codelco",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 2,
+      "code": "DDPDICICM01",
+      "name": "MÓDULO 1: Fundamentos de Infraestructura Critica Minera",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 2,
+      "code": "DDPDICICM02",
+      "name": "MÓDULO 2: Salud y Monitoreo de Infraestructura Minera",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 2,
+      "code": "DDPDICICM03",
+      "name": "MÓDULO 3: Sismicidad en Infraestructura Minera",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 2,
+      "code": "DDPDICICM04",
+      "name": "MÓDULO 4: Patología en Estructuras Mineras",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 2,
+      "code": "DDPDICICM05",
+      "name": "MÓDULO 5: Patología en Obras Geotécnicas Mineras",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 2,
+      "code": "DDPDICICM06",
+      "name": "MÓDULO 6: Rehabilitación de Infraestructura Minera",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

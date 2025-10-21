@@ -1,0 +1,74 @@
+{
+  "name": "Diploma de Desarrollo Profesional en Implementación de Sistema Integrado de Gestión y Auditor Líder ISO 9001:2015-ISO 45001:2018 e ISO 14001:2015",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DDPECSIG04",
+      "name": "Auditor Líder de Sistema de Gestión Integrado",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DDPECSIG01",
+      "name": "Interpretación y Análisis de los Requisitos Normativos del Sistema de Gestión Integrado-  Normas ISO 9001:2015  ISO 45001:2018  ISO 14001:2015",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DDPECSIG02",
+      "name": "Marco Legal para la Aplicación de un Sistema Integrado de Gestión",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DDPECSIG03",
+      "name": "Técnicas para la Implementación de un Sistema de Gestión Integrado ISO 9001:2015, ISO 14001:2015 E ISO 45001:2018.",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

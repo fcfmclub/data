@@ -1,0 +1,91 @@
+{
+  "name": "Curso de Especialización Programa Formativo Transversal en Geociencias",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEMIPFTGCO02",
+      "name": "Caracterización Geotécnica y Estructural",
+      "department": null,
+      "students_per_course": 75,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMIPFTGCO03",
+      "name": "Caracterización Hidrogeológica",
+      "department": null,
+      "students_per_course": 74,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMIPFTGCO01",
+      "name": "Fundamentos de Mecánica de Rocas",
+      "department": null,
+      "students_per_course": 75,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMIPFTGCO05",
+      "name": "Innovación en Minería en Aspectos Geomecánicos",
+      "department": null,
+      "students_per_course": 73,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMIPFTGCO04",
+      "name": "Instrumentación Geotécnica",
+      "department": null,
+      "students_per_course": 73,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,2117 @@
+{
+  "name": "Ingeniería Civil de Minas",
+  "version": 1,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN321",
+      "name": "Administración Industrial I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 49,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI525",
+      "name": "Administración de Empresas Mineras",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI530",
+        "MI560",
+        "MI561"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA111",
+      "name": "Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 123,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA112",
+      "name": "Álgebra Lineal y Geometría Analítica",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 105,
+      "approval_rate": 0.73,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA012",
+        "MA11A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA121",
+      "name": "Cálculo I",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 119,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA12A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA122",
+      "name": "Cálculo II",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 112,
+      "approval_rate": 0.63,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA221",
+      "name": "Cálculo III",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 106,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA26B"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "EH202",
+      "name": "Ciencias Sociales",
+      "department": {
+        "name": "Estudios Transversales en Humanidades para las Ingenierías y Ciencias",
+        "code": "EH",
+        "id": 8
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN281",
+        "IN30A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA211",
+      "name": "Complementos de Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.53,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI447",
+      "name": "Concentración de Minerales",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI440",
+        "MI62A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI471",
+      "name": "Construcción General",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN401",
+      "name": "Economía Aplicada",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 61,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN406",
+        "IN407",
+        "IN402",
+        "IN42A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA261",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 101,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA26A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI222",
+      "name": "Electricidad y Magnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.47,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "FI404",
+      "name": "Electrónica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI315"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI545",
+      "name": "Evaluación de Yacimientos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI465"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "EH099",
+      "name": "Examen Suficiencia Inglés",
+      "department": {
+        "name": "Estudios Transversales en Humanidades para las Ingenierías y Ciencias",
+        "code": "EH",
+        "id": 8
+      },
+      "students_per_course": 95,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MI361",
+      "name": "Explotación de Minas I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 36,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI463",
+      "name": "Explotación de Minas III",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI761"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "EH201",
+      "name": "Filosofía I",
+      "department": {
+        "name": "Estudios Transversales en Humanidades para las Ingenierías y Ciencias",
+        "code": "EH",
+        "id": 8
+      },
+      "students_per_course": 78,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "EH313",
+      "name": "Filosofía II",
+      "department": {
+        "name": "Estudios Transversales en Humanidades para las Ingenierías y Ciencias",
+        "code": "EH",
+        "id": 8
+      },
+      "students_per_course": 60,
+      "approval_rate": 0.72,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI212",
+      "name": "Física del Calor",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 105,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "GF431",
+      "name": "Física de la Tierra I",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GF41B",
+      "name": "Física de la Tierra II",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 4,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "GF41A"
+      ],
+      "equivalences": [
+        "GF41B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=212",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MI300",
+      "name": "Fisicoquímica Metalúrgica I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 40,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ362",
+      "name": "Fluidodinámica",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 59,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI310",
+        "CI311",
+        "ME330",
+        "ME430",
+        "OC314",
+        "OC315",
+        "QI362"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA262",
+      "name": "Funciones de Variable Compleja y Ecuac Diferenciales Parciales",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 77,
+      "approval_rate": 0.66,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI468",
+      "name": "Geoestadística",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "GL536",
+        "GL539",
+        "MI51B",
+        "MI57D",
+        "MI57F"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2614",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI415",
+      "name": "Geología Económica",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "GL315"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL301",
+      "name": "Geología General",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 39,
+      "approval_rate": 0.73,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "GL101",
+        "GL201",
+        "GL31A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI537",
+      "name": "Geología de Minas",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "GL536",
+        "GL537"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI598",
+      "name": "Industrias Mineras",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MA344",
+      "name": "Inferencia Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 74,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA34B",
+        "MA342",
+        "MA444"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI526",
+      "name": "Ingeniería Económica Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI530",
+        "MI560",
+        "MI561",
+        "MI65A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GF735",
+      "name": "Instrumental Sismológico",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "FI33A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI6908",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "EI4205S",
+        "EI2090",
+        "MI5901S",
+        "CR288"
+      ],
+      "equivalences": [
+        "MI69E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3734",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA151",
+      "name": "Introducción a la Computación",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.52,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN301",
+      "name": "Introducción a la Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 66,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN302",
+        "IN303",
+        "IN41A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA241",
+      "name": "Introducción a la Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 99,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "GF525",
+      "name": "Introducción a la Geofísica de Prospección",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "GF522"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL407",
+      "name": "Introducción a la Ingeniería Eléctrica",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EL205"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN343",
+      "name": "Investigación Operativa",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 57,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN341",
+        "IN342",
+        "MA441",
+        "MA473",
+        "MA571",
+        "OC331"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "IN341",
+      "name": "Investigación Operativa I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 56,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA441",
+        "MA473",
+        "IN340",
+        "IN343"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "FI111",
+      "name": "Laboratorio de Física I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.76,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI10A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "FI121",
+      "name": "Laboratorio de Física II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "FI211",
+      "name": "Laboratorio de Física III",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "QI013",
+      "name": "Laboratorio de Química General II",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI482",
+      "name": "Legislación Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "EH301",
+      "name": "Literatura I",
+      "department": {
+        "name": "Estudios Transversales en Humanidades para las Ingenierías y Ciencias",
+        "code": "EH",
+        "id": 8
+      },
+      "students_per_course": 68,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI540",
+      "name": "Maquinaria y Mantención de Equipos Mineros",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI461",
+        "MI463",
+        "MI44C"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI122",
+      "name": "Mecánica I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 143,
+      "approval_rate": 0.39,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "FI313",
+      "name": "Mecánica II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 109,
+      "approval_rate": 0.54,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI466",
+      "name": "Mecánica de Rocas",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.68,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI532",
+      "name": "Mecánica de Rocas Aplicada",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI508",
+      "name": "Metalurgia Extractiva",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI421",
+        "MI422",
+        "MI420",
+        "MI41D"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "FI30A",
+      "name": "Métodos Matemáticos de la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "FI33A",
+        "MA33A"
+      ],
+      "equivalences": [
+        "FI3002"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI547",
+      "name": "Métodos de Explotación Subterráneos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI461"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI546",
+      "name": "Métodos de Explotación a Rajo Abierto",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI461"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI443",
+      "name": "Microscopía Mineralúrgica",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI42A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "GL243",
+      "name": "Mineralogía y Petrografía",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "GL211",
+        "GL309",
+        "GL311",
+        "GL313",
+        "GL411",
+        "GL312",
+        "GL314",
+        "GL412"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI312",
+      "name": "Ondas y Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 107,
+      "approval_rate": 0.7,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI314",
+        "FI336",
+        "FI322",
+        "FI022",
+        "FI024",
+        "FI34A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MI69A",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MI59A"
+      ],
+      "equivalences": [
+        "MI599",
+        "MI6901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2287",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "GD398",
+      "name": "Práctica de Topografía (Minas)",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CI30B",
+        "GD399",
+        "MI399"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MI499",
+      "name": "Práctica de Vacaciones II",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI59A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "DR105",
+      "name": "Preparación Física Varones I",
+      "department": {
+        "name": "Área de Deportes, Educación Física y Expresiones Artísticas",
+        "code": "DR",
+        "id": 7
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2103",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "DR107",
+      "name": "Preparación Física Varones II",
+      "department": {
+        "name": "Área de Deportes, Educación Física y Expresiones Artísticas",
+        "code": "DR",
+        "id": 7
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "DR105"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2104",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MA343",
+      "name": "Probabilidades",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA34A",
+        "MA341"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "GF700",
+      "name": "Prospección Geofísica I",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "GF42A",
+        "GF4006"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 8,
+      "code": "GF701",
+      "name": "Prospección Geofísica II",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "GF42A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI559",
+      "name": "Proyecto Minero",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI530",
+        "MI560",
+        "MI561"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MI560",
+      "name": "Proyecto Minero",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "QI112",
+      "name": "Química General I",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 114,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "QI213",
+      "name": "Química General II",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.77,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "QI335"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "QI333",
+      "name": "Química Inorgánica para Minas",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 33,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "OC342",
+      "name": "Resistencia de Materiales",
+      "department": null,
+      "students_per_course": 28,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "OC340",
+        "OC343"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI564",
+      "name": "Seguridad Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "GL302",
+      "name": "Seguridad y Prevención de Riesgos en Montaña",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "GL31A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI561",
+      "name": "Seminario Minero",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "GF758",
+      "name": "Seminario de Geofísica Aplicada",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "GF4001",
+        "GL41B"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI522",
+      "name": "Seminario de Metalurgia",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "MI469",
+        "MI57B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2615",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GF711",
+      "name": "Series de Tiempo",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "MA33A",
+        "MA362"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "GF441",
+      "name": "Sismología I",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GF40B",
+      "name": "Sismología II",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "GF40A"
+      ],
+      "equivalences": [
+        "GF5011"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "GF731",
+      "name": "Sismología Teórica I",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "GF4001"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 8,
+      "code": "GF732",
+      "name": "Sismología Teórica II",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "GF4001"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI467",
+      "name": "Tecnología del Petróleo",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "DR191",
+      "name": "Tenis de Mesa I",
+      "department": {
+        "name": "Área de Deportes, Educación Física y Expresiones Artísticas",
+        "code": "DR",
+        "id": 7
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "DR420A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GD312",
+      "name": "Topografía I (Minas)",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "GD311",
+        "GD398",
+        "CI35A",
+        "GF312"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 21,
+      "code": "MI6909",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "MI6908",
+        "EI2090",
+        "CR324"
+      ],
+      "equivalences": [
+        "MI69F"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3732",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI569",
+      "name": "Túneles, Chimeneas y Piques",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI461",
+        "MI463"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI565",
+      "name": "Ventilación y Aire Comprimido",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MI461",
+        "MI463"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Diploma de Postítulo en Planificación Minera",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMINPM12",
+      "name": "Análisis de Riesgo y Decisiones en Minería",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM03",
+      "name": "Diseño Minero y Planificación a Cielo Abierto",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM04",
+      "name": "Diseño y Planificación de Minas Subterráneas",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM11",
+      "name": "Geoestadística Aplicada a la Evaluación de Yacimientos",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM00",
+      "name": "Geomecánica",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM10",
+      "name": "Modelamiento y Optimización en Planificación Minera",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM09",
+      "name": "Optimización y Logística en Minería",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

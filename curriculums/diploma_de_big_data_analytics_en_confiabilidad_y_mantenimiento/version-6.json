@@ -1,0 +1,431 @@
+{
+  "name": "Diploma de Big Data Analytics en Confiabilidad y Mantenimiento",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM18",
+      "name": "Adquisición y Procesamiento de Datos",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM04",
+      "name": "Adquisición y Procesamiento de Señales para el Diagnóstico y Pronóstico de Fallas",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM21",
+      "name": "Aprendizaje No Supervisado en Detección de Anomalías",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM19",
+      "name": "Aprendizaje Profundo (Redes Neuronales) para el Diagnóstico",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM20",
+      "name": "Aprendizaje Profundo en Pronóstico",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM05",
+      "name": "Aprendizaje de Máquina Aplicado a Confiabilidad y Mantenimiento",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM25",
+      "name": "Aprendizaje de Máquinas",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM03",
+      "name": "Big Data Analytic No Supervisado en Detección de Anomalías y Diagnóstico de Fallas de Activos Físicos",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM01",
+      "name": "Big Data Analytics en Diagnóstico de Fallas de Activos Físicos",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM02",
+      "name": "Big Data Analytics en Pronóstico de Fallas de Activos Físicos",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM24",
+      "name": "Computación en la Nube: Despliegue de Soluciones Predictivas",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM11",
+      "name": "Cyber Security",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM22",
+      "name": "Desarrollo de Dashboards",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM06",
+      "name": "Fundamentos de Hadoop para el Análisis de Big Data en Confiabilidad y Mantenimiento",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM15",
+      "name": "Internet de la Cosas (IoT) y Big Data en la Confiabilidad y Mantenimiento",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM23",
+      "name": "Optimización para Soporte en la Toma de Decisiones",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM12",
+      "name": "Pre-procesamiento y Visualización de Datos",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM10",
+      "name": "Proyecto Final",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM26",
+      "name": "Taller",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM08",
+      "name": "Taller I - Estudio de Casos en Big Data Analytics Aplicados al Diagnóstico y Pronóstico de Fallas en Activos Físicos",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM14",
+      "name": "Taller I - Reprocesamiento, Visualización y Selección de Señales de Monitoreo de la Condición de Salud de Activos Físicos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM09",
+      "name": "Taller II - Estudio de Casos en Big Data Analytics Aplicados al Diagnóstico y Pronóstico de Fallas en Activos Físicos",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM17",
+      "name": "Taller de Pandas",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM16",
+      "name": "Taller de Python",
+      "department": null,
+      "students_per_course": 29,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMBDACM13",
+      "name": "Transformación Digital: IoT, Cloud y Edge Computing y Sensorización en la Industria 4.0",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

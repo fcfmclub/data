@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Analitica Avanzada procesos Mineros y Metalúrgicos Modelamiento y Toma de Decisiones Basada en Datos",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEMINAAPMM01",
+      "name": "Analitica Avanzada procesos Mineros y Metalúrgicos Modelamiento y Toma de Decisiones Basada en Datos",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

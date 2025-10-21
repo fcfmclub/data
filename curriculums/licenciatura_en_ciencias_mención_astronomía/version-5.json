@@ -1,0 +1,996 @@
+{
+  "name": "Licenciatura en Ciencias, Mención Astronomía",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3403",
+      "name": "Probabilidades y Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.84,
+      "purpose": "El propósito de este curso es que el/la estudiante aplique los conceptos fundamentales de la\r\nteoría de probabilidades en la modelación y solución de problemas concretos que involucran\r\nfenómenos aleatorios. También que enuncie leyes clásicas de probabilidad discretas y continuas, que calcule con ellas y que las asocie a situaciones específicas de modelación. Además que aplique la Ley de Grandes Números y del Teorema Central del Límite.\r\nOtra parte del propósito de este curso es que el/la estudiante conozca los conceptos\r\nfundamentales de la Inferencia Estadística y de los modelos lineales, y los aplique junto a los\r\nconceptos de probabilidad. Junto a esto, que conozca lo que es un muestreo aleatorio y la\r\nimportancia de la distribución Normal y su rol en el Teorema Central del Límite, que estime\r\nparámetros de una distribución y reconozca sus propiedades, y que conozca el Lema de Neyman Pearson y su aplicación en la toma de decisiones con un test de hipótesis. Adicionalmente, que aplique un modelo de regresión lineal y evalúe sus resultados. Finalmente, que aplique la teoría de tests en casos clásicos como son: la comparación de dos poblaciones, la comprobación que un conjunto de valores muestrales siguen una determinada distribución, el test de independencia en una tabla de contingencia.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3754",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "AS3101",
+      "name": "Astrofísica de Estrellas",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes relacionen procesos físicos, incluyendo gravitación, termodinámica y radiación, para identificar y caracterizar las propiedades de las estrellas en términos de la formación, estructura, evolución y muerte estelar. \r\n\r\nAl final del curso, los y las estudiantes serán capaces de extraer conclusiones y representar el estado evolutivo de conjuntos de estrellas, a partir del diagrama de Hertzprung-Russel (HR) y de modelos de estructura estelar.",
+      "requirements": [
+        "FI2004",
+        "CM2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "AS31B",
+        "AS3101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3507",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "AS3201",
+      "name": "Astronomía Experimental",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito que los y las estudiantes trabajen en la obtención, tratamiento y análisis de datos en áreas de la astronomía observacional, tales como, como radioastronomía, astronomía óptica, astronomía infrarroja, entre otras.\r\n\r\nEl curso integra experiencias prácticas donde los y las estudiantes planifican y realizan observaciones y mediciones de las que obtienen y registran información, con instrumentos de diversa índole, dada la infraestructura de Cerro Calán y de la Facultad; asimismo, utilizan o desarrollan, en una primera aproximación, herramientas de software, específicas para el tratamiento de datos astronómicos.",
+      "requirements": [
+        "MA2002",
+        "FI2002"
+      ],
+      "equivalences": [
+        "AS4201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=73733",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI3002",
+      "name": "Métodos Matemáticos de la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 32,
+      "approval_rate": 0.85,
+      "purpose": "El curso tiene como propósito los y las estudiantes utilicen métodos matemáticos para abordar la resolución de problemas asociados a un modelo físico y obtener soluciones analíticas.\r\n\r\nPara ello, definen qué métodos utilizar, considerando los alcances y limitaciones de cada uno para resolver problemas matemáticos asociados a modelos que describen algún fenómeno físico. Además, discuten analítica y razonadamente procedimientos y soluciones matemáticas para un fenómeno físico en tópicos avanzados que expone en la unidad final, considerando avances parciales.",
+      "requirements": [
+        "MA2002",
+        "FI2002"
+      ],
+      "equivalences": [
+        "FI30A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3467",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI3104",
+      "name": "Métodos Numéricos para la Ciencia e Ingeniería",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.92,
+      "purpose": "Cuando la solución analítica a un problema científico no existe o es muy compleja, el uso de computadoras y métodos numéricos apropiados pueden permitir encontrar la solución al problema planteado. Asimismo, en ciencias experimentales los datos obtenidos deben ser procesados y analizados, mediante el uso de distintos métodos numéricos, seleccionándolos de acuerdo a las ventajas y limitaciones de cada uno.\r\n\r\nEn este contexto, el curso tiene como propósito que los y las estudiantes resuelvan problemas de cálculo numérico para ciencias e ingeniería, programando y diseñando códigos computacionales simples mediante el uso de librerías numéricas que selecciona según criterios de velocidad, memoria, facilidad de uso y versatilidad o mediante la implementación de algoritmos.",
+      "requirements": [
+        "MA2002",
+        "FI2002",
+        "CC1002"
+      ],
+      "equivalences": [
+        "MA33A",
+        "FI46A",
+        "MA367"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3470",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI3001",
+      "name": "Vibraciones y Ondas",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 39,
+      "approval_rate": 0.79,
+      "purpose": "Este curso se desarrolla durante el quinto semestre de la Licenciatura en Ciencias mención Física. El propósito del curso es que los y las estudiantes comprendan, internalicen y apliquen los conceptos asociados a oscilaciones en sistemas discretos y ondas en sistemas continuos para predecir los comportamientos de diversos sistemas físicos, utilizando herramientas como la dinámica lagrangiana discreta, modos normales y densidades lagrangiana. Estos conceptos son básicos y fundamentales para describir una amplia variedad de sistemas físicos.\r\nLa metodología de este curso está basada en clases expositivas, en resolución de problemas (tareas y ejercicios) relacionados con los contenidos del curso y en actividades demostrativas experimentales para demostrar los conceptos aprendidos en el curso.",
+      "requirements": [
+        "MA2002",
+        "FI2001",
+        "FI2002"
+      ],
+      "equivalences": [
+        "FI21B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3466",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "AS4101",
+      "name": "Astrofísica de Galaxias",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.95,
+      "purpose": "Al final del curso, los y las estudiantes relacionan los fundamentos astrofísicos de evolución estelar y de formación jerárquica de estructuras, con las propiedades globales de las galaxias para comprender su diversidad y evolución. Asimismo, explican los fenómenos usando principios físicos básicos, formulando matemáticamente procesos, según modelos determinados física y empíricamente.\r\n\r\nLa estructura del curso es teóricopráctica, pues a partir de materias seleccionadas, el y la estudiante analizan diversos problemas sobre temáticas extragalácticas. \r\n\r\nEl curso tributa a las siguientes competencias específicas (CE) y genéricas (CG):\r\n\r\nCE1: Aplicar los conceptos básicos de la física para la descripción y modelamiento de fenómenos naturales desde un enfoque clásico, cuántico, estadístico, entre otros.\r\n\r\nCE2: Formular y resolver ecuaciones que permiten describir y predecir el comportamiento de sistemas físicos y astrofísicos, utilizando herramientas analíticas y numéricas.\r\n\r\nCE3: Aplicar fundamentos físicos al análisis e interpretación de fenómenos astronómicos complejos dentro del contexto de modelos existentes (estelares, galácticos, entre otros), usando un pensamiento crítico.\r\n\r\nCG1: Comunicación académica y profesional\r\nLeer de manera comprensiva, analítica y crítica en español. Asimismo, expresar de forma eficaz, clara, precisa e informada sus ideas, opiniones e indagaciones, adecuándose a diversas situaciones comunicativas académicas y profesionales, tanto en lo oral como en lo escrito.\r\n\r\nCG2: Comunicación en inglés\r\nLeer y escuchar de manera comprensiva en inglés una variedad  de textos e informaciones sobre temas concretos o abstractos, comunicando experiencias y opiniones, adecuándose a diferentes contextos y a las características de la audiencia.",
+      "requirements": [
+        "AS3101"
+      ],
+      "equivalences": [
+        "AS42A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3508",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "AS4501",
+      "name": "Astroinformática",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.92,
+      "purpose": "El curso tiene como propósito que los y las estudiantes formulen soluciones algo-rítmicas a problemas de análisis de datos astronómicos. Para ello, utilizan herramientas estadísticas de inferencia frecuentista y Bayesiana, tanto paramétricas como no paramétricas, o métodos de aprendizaje computacional para procesar e in-terpretar datos experimentales u observados, considerando modelos existentes.\r\n\r\nLos y las estudiantes resuelven problemas de análisis de datos astronómicos mediante el procesamiento de datos masivos y el uso de modelos estadísticos. Asimismo, investigan y analizan una pregunta de investigación en el contexto de un proyecto, para proponer una solución algorítmica aplicada a un problema, cuyos resultados expone en forma oral.\r\n\r\nEl curso tributa a las siguientes competencias específicas (CE) y genéricas (CG):\r\n\r\nCE4: Caracterizar estadísticamente el significado de las mediciones o simulaciones astronómicas.\r\n\r\nCE6: Utilizar y escribir programas computacionales para procesar o visualizar datos, con el fin de analizar y comunicar resultados astronómicos.\r\n\r\nCE7: Buscar, acceder y utilizar archivos de datos masivos, para generar información de fenómenos astronómicos con herramientas estadísticas.\r\n\r\nCG1: Comunicación académica y profesional\r\n\r\nLeer de manera comprensiva, analítica y crítica en español. Asimismo, expresar de forma eficaz, clara, precisa e informada sus ideas, opiniones e indagaciones, adecuándose a diversas situaciones comunicativas académicas y profesionales, tanto en lo oral como en lo escrito.\r\n\r\nCG2: Comunicación en inglés\r\n\r\nLeer y escuchar de manera comprensiva en inglés una variedad de textos e in-formaciones sobre temas concretos o abstractos, comunicando experiencias y opiniones, adecuándose a diferentes contextos y a las características de la audiencia.\r\n\r\nCG3: Compromiso ético\r\n\r\nActuar de manera responsable y honesta, dando cuenta en forma crítica de sus propias acciones y sus consecuencias, en el marco del respeto hacia la dignidad de las personas y el cuidado del medio social, cultural y natural.\r\n\r\nCG4: Trabajo en equipo\r\n\r\nTrabajar en equipo, de forma estratégica y colaborativa, en diversas activida-des formativas, a partir de la autogestión de sí mismo y de la relación con el otro, interactuando con los demás en diversos roles: de líder, colaborador u otros, según requerimientos u objetivos del trabajo, sin discriminar por género u otra razón.",
+      "requirements": [
+        "MA3403",
+        "FI3104"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3660",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI3106",
+      "name": "Electrodinámica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.65,
+      "purpose": "La electrodinámica es un pilar fundamental de la física, asociada a innumerables aplicaciones tecnológicas fundamentales para la vida moderna. El propósito de este curso es dotar a los y las estudiantes de conceptos teóricos avanzados y herramientas matemáticas que les permita comprender los alcances de la teoría electromagnética. En este curso los y las estudiantes desarrollarán la capacidad para calcular el movimiento de sistemas de cargas bajo la influencia de un campo electromagnético y de resolver las ecuaciones de Maxwell debido a configuraciones de cargas, permitiéndole cuantificar el rol de las distintas escalas presentes en un fenómeno físico determinado.",
+      "requirements": [
+        "FI3001",
+        "FI3002"
+      ],
+      "equivalences": [
+        "FI4004"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84749",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI3102",
+      "name": "Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.88,
+      "purpose": "El curso Física Moderna permite adquirir las herramientas básicas para entender y describir fenómenos físicos donde la naturaleza relativista del espacio tiempo y/o la naturaleza cuántica de la materia son relevantes para su descripción. Para ello, este curso introduce los dos pilares fundamentales de la física contemporánea: la relatividad especial y la mecánica cuántica, abordando, además, aspectos básicos de física nuclear y partículas elementales.\r\n\r\nEn este contexto, los/las estudiantes utilizarán herramientas analíticas para el modelamiento y descripción de fenómenos físicos donde tanto la naturaleza relativista del espacio tiempo como la naturaleza cuántica de la materia se hacen presentes. Asimismo, trabajarán en la resolución de problemas, analizarán e interpretarán algún fenómeno físico (paradojas, cuerpo negro, modelo estándar, etc.), en el contexto de la física moderna, exponiendo sus resultados y puntos de vista sobre el tema estudiado.",
+      "requirements": [
+        "FI3001",
+        "MA3403",
+        "EL3104",
+        "IN3141"
+      ],
+      "equivalences": [
+        "FI34A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3465",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI3111",
+      "name": "Mecánica Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.72,
+      "purpose": "El curso Mecánica Clásica tiene como propósito que los y las estudiantes utilicen los principios variacionales, teoría Hamiltoniana, formalismo de Hamilton-Jacobi, transformaciones canónicas e invariantes adiabáticos, para obtener las ecuaciones de movimiento y cantidades conservadas que describen fenómenos mecánicos, de forma cualitativa y cuantitativa.\r\n\r\nAsimismo, los y las estudiantes predicen el comportamiento de ciertos sistemas dinámicos (por ejemplo, problemas de dos o más cuerpos, sólidos rígidos, osciladores, etc.), caracterizando sus trayectorias, configuraciones de equilibrio, tipo de estabilidad, resonancias, y espacio de fase. \r\n\r\nLa metodología para este curso considera clases expositivas y la resolución de problemas en tareas y ejercicios.",
+      "requirements": [
+        "FI3001"
+      ],
+      "equivalences": [
+        "FI3101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84733",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 7,
+      "code": "AS4901",
+      "name": "Trabajo Tutorial Básico",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.98,
+      "purpose": "El curso Trabajo tutorial básico constituye el primer acercamiento práctico de los y las estudiantes de Licenciatura al trabajo del astrónomo, a fin de aplicar metodologías básicas de indagación científica a un problema de investigación.  Con este curso se espera que el o la estudiante adquiera herramientas y métodos de investigación científicos, permitiendo desarrollar habilidades de autoaprendizaje, de  comunicación oral y escrita y de compromiso ético.\r\n\r\nModalidad de trabajo: \r\n\r\nDurante el período estival, los y las estudiantes trabajan con dedicación exclusiva en esta actividad curricular. Trabajan, de manera individual, bajo la guía directa de un investigador o investigadora,  siguiendo una metodología de trabajo que considere, entre otros aspectos,  manejo e interpretación de datos, uso de herramientas computacionales y la exposición de resultados en forma oral y escrita.\r\n\r\nComo parte de su compromiso ético, cada uno de los y las estudiantes cumplen obligaciones y acuerdos (como el compromiso establecido de dedicación horaria al curso), respetando los compromisos adquiridos en sus actividades académicas. \r\n\r\nAsimismo, deben evidenciar un comportamiento ético y profesional, que incluye un trato respetuoso y no discriminatorio con sus pares, así como el reconocer los aportes previos al proyecto, incluyendo tanto el de otros y otras investigadores/as como estudiantes.\r\n\r\nGestión del curso:\r\n\r\nEn primer lugar, los y las estudiantes deben preinscribir este curso con Secretaría docente. La inscripción académica se realiza en el semestre otoño siguiente. \r\n\r\nLos ámbitos en los que la investigación del o la estudiante podría desarrollarse son: \r\n\r\n\tObservacional: en este ámbito los y las egresados (as) son capaces de trabajar con observaciones astronómicas obtenidas, utilizando instrumentos avanzados; También podrán analizar e interpretar los datos astronómicos, en base a modelos astrofísicos existentes. \r\n\r\n\tAnalítico-numérico: en este ámbito los y las egresados (as) son capaces de utilizar técnicas analíticas o numéricas en el análisis e interpretación de datos provenientes de observatorios o de simulaciones de procesos físicos relevantes en el estudio del Universo.",
+      "requirements": [
+        "AS3101",
+        "AS3201"
+      ],
+      "equivalences": [
+        "AS49A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3541",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 4,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "FI4001",
+      "name": "Mecánica Cuántica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.82,
+      "purpose": "La descripción de procesos físicos a escala atómica requiere de un marco teórico. En el contexto de la mecánica cuántica, tanto la luz como la materia muestran un comportamiento dual (se comportan como ondas y como partículas). Tales conceptos, contrapuestos a los utilizados en la física clásica, son particularmente relevantes en sistemas físicos de escala energético-temporal comparables con la constante de Planck y forman las bases de nuestra comprensión de una diversidad de fenómenos. La mecánica cuántica es hoy una de las teorías más probadas y también una de las más desafiantes para nuestra intuición.\r\n\r\nEl curso Mecánica Cuántica tiene como finalidad que los y las estudiantes sean capaces de analizar los postulados de la mecánica cuántica no-relativista, aplicando herramientas formales y conceptuales para el estudio de sistemas cuyo comportamiento es cuántico, en problemas de diversa complejidad. \r\n\r\nSe trabaja con una metodología activo  participativa donde el estudiante se acerca a las temáticas de estudios a partir del planteamiento de problemas que son analizados de manera rigurosa, siendo el o la docente un mediador que corrige, discute, socializa con sus estudiantes las reflexiones que surgen de las materias de estudio.",
+      "requirements": [
+        "FI3102",
+        "FI3002",
+        "FI3111"
+      ],
+      "equivalences": [
+        "FI41A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3619",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "AS4103",
+      "name": "Proyecto Astronómico de Investigación",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.98,
+      "purpose": "El Proyecto astronómico de investigación representa una actividad de investigación avanzada sobre un problema de la astrofísica actual y pertinente que incluye objetivos generales y específicos, hipótesis, marco teórico y paradigma con su respectivo análisis.\r\n\r\nLos y las estudiantes trabajan de manera individual y con cierta autonomía bajo la guía directa de un investigador o investigadora, siguiendo una metodología de trabajo que considere, entre otros aspectos, manejo e interpretación de datos, uso de herramientas computacionales y la exposición de resultados y/o conclusiones, en forma oral y escrita. Con esto se demuestra pensamiento crítico y una capacidad de extraer y analizar información relevante para la investigación.\r\n\r\nComo parte de su compromiso ético, cada uno de los y las estudiantes, cumplen obligaciones y acuerdos (como el compromiso establecido de dedicación horaria al curso), respetando los compromisos adquiridos en sus actividades académicas. \r\n\r\nAsimismo, deben evidenciar un comportamiento ético y profesional, que incluye un trato respetuoso y no discriminatorio con sus pares, así como el reconocer los aportes previos al proyecto, incluyendo tanto el de otros y otras investigadores/as como estudiantes.\r\n\r\nLos ámbitos en los que la investigación del o la estudiante podría desarrollarse son: \r\n\r\n\tObservacional: en este ámbito los y las egresados (as) son capaces de trabajar con observaciones astronómicas obtenidas, utilizando instrumentos avanzados; También podrán analizar e interpretar los datos astronómicos, en base a modelos astrofísicos existentes. \r\n\r\n\tAnalítico-numérico: en este ámbito los y las egresados (as) son capaces de utilizar técnicas analíticas o numéricas en el análisis e interpretación de datos provenientes de observatorios o de simulaciones de procesos físicos relevantes en el estudio del Universo. \r\nLos y las estudiantes trabajan de manera individual y con cierta autonomía bajo la guía directa de un investigador o investigadora, siguiendo una metodología de trabajo que considere, entre otros aspectos, manejo e interpretación de datos, uso de herramientas computacionales y la exposición de resultados y/o conclusiones, en forma oral y escrita. Con esto se demuestra pensamiento crítico y una capacidad de extraer y analizar información relevante para la investigación.\r\n\r\nComo parte de su compromiso ético, cada uno de los y las estudiantes, cumplen obligaciones y acuerdos (como el compromiso establecido de dedicación horaria al curso), respetando los compromisos adquiridos en sus actividades académicas. \r\n\r\nAsimismo, deben evidenciar un comportamiento ético y profesional, que incluye un trato respetuoso y no discriminatorio con sus pares, así como el reconocer los aportes previos al proyecto, incluyendo tanto el de otros y otras investigadores/as como estudiantes.\r\n\r\nLos ámbitos en los que la investigación del o la estudiante podría desarrollarse son: \r\n\r\n\tObservacional: en este ámbito los y las egresados (as) son capaces de trabajar con observaciones astronómicas obtenidas, utilizando instrumentos avanzados; También podrán analizar e interpretar los datos astronómicos, en base a modelos astrofísicos existentes. \r\n\r\n\tAnalítico-numérico: en este ámbito los y las egresados (as) son capaces de utilizar técnicas analíticas o numéricas en el análisis e interpretación de datos provenientes de observatorios o de simulaciones de procesos físicos relevantes en el estudio del Universo.",
+      "requirements": [
+        "AS4901",
+        "AS4101"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=152494",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "FI4104",
+      "name": "Mecánica Estadística",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.85,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen los métodos de la Mecánica Estadística, para describir las propiedades de  equilibrio de sistemas macroscópicos clásicos y cuánticos.",
+      "requirements": [
+        "FI4001"
+      ],
+      "equivalences": [
+        "FI4002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3762",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plandb7f6babd92b4d54ded49c347ded52c6",
+      "name": "Licenciatura Electivos Astronomía V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

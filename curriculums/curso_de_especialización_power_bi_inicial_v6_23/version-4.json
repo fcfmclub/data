@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Power Bi Inicial V6 - 23",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBV501",
+      "name": "Power Bi Inicial V6 - 23",
+      "department": null,
+      "students_per_course": 91,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

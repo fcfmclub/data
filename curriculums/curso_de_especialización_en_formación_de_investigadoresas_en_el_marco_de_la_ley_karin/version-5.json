@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Formación de Investigadores/as en el Marco de la Ley Karin",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPFILK01",
+      "name": "Formación de Investigadores/as en el Marco de la Ley Karin",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

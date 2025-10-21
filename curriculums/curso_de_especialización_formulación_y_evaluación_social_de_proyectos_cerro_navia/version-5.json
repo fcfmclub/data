@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Formulación y Evaluación Social de Proyectos CERRO NAVIA",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CECSPFESP02",
+      "name": "Formulación y Evaluación Social de Proyectos CERRO NAVIA",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

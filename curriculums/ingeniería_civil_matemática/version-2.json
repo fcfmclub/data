@@ -1,0 +1,1424 @@
+{
+  "name": "Ingeniería Civil Matemática",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 8,
+      "code": "MA38B",
+      "name": "Análisis",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 40,
+      "approval_rate": 0.62,
+      "purpose": null,
+      "requirements": [
+        "MA26B"
+      ],
+      "equivalences": [
+        "MA38A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=132",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA48D",
+      "name": "Análisis Funcional",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA48C"
+      ],
+      "equivalences": [
+        "MA4801",
+        "MA48B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=141",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA43B",
+      "name": "Análisis Numérico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "MA31A",
+        "MA38B",
+        "MA33A"
+      ],
+      "equivalences": [
+        "MA4301",
+        "MA33B",
+        "MA43A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=133",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA53L",
+      "name": "Análisis Numérico de E.D.P",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MA46A",
+        "MA46B"
+      ],
+      "equivalences": [
+        "MA5301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=150",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA50B",
+      "name": "Calculabilidad y Complejidad Computacional",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "CC30A",
+        "MA47A"
+      ],
+      "equivalences": [
+        "MA5201",
+        "MA30A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=328",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA45B",
+      "name": "Cálculo Diferencial y Variaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "MA38B",
+        "MA38A"
+      ],
+      "equivalences": [
+        "MA4002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2786",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA54G",
+      "name": "Cálculo Estocástico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "MA44C"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2819",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA57C",
+      "name": "Control Óptimo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MA45B",
+        "MA55A",
+        "MA48C"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=339",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN41A",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "EH09A",
+        "EI19A",
+        "MA33A",
+        "FI34A"
+      ],
+      "equivalences": [
+        "IN302",
+        "IN303",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=637",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA46B",
+      "name": "Ecuaciones de la Física Matemática",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "MA48C"
+      ],
+      "equivalences": [
+        "MA4601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2788",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA56B",
+      "name": "Ecuaciones en Derivadas Parciales",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "MA48D",
+        "MA46A",
+        "MA46B"
+      ],
+      "equivalences": [
+        "MA5601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2830",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA31A",
+      "name": "Elementos de Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 36,
+      "approval_rate": 0.73,
+      "purpose": null,
+      "requirements": [
+        "MA22A"
+      ],
+      "equivalences": [
+        "MA3101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1744",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34B",
+      "name": "Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA34A"
+      ],
+      "equivalences": [
+        "MA344",
+        "MA444",
+        "MA340",
+        "MA3402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=59",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN42A",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "EI19A",
+        "EH09A",
+        "IN41A",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=668",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI29A",
+      "name": "Examen de Suficiencia II en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 107,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI19A"
+      ],
+      "equivalences": [
+        "EI2090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI19A",
+      "name": "Examen de Suficiencia I en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 124,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI1090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MA69E",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "EH050",
+        "EH052",
+        "EH09A",
+        "EI004",
+        "EI20A",
+        "EI005",
+        "EI21A",
+        "CR288"
+      ],
+      "equivalences": [
+        "MA6908"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "MA48C",
+      "name": "Medida e Integración",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI33A",
+        "FI35A",
+        "MA38B",
+        "MA38A",
+        "MA3802"
+      ],
+      "equivalences": [
+        "MA3802",
+        "MA48A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=327",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA44D",
+      "name": "Métodos Estadísticos Predictivos",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MA34B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2783",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN34A",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "SD20A"
+      ],
+      "equivalences": [
+        "MA441",
+        "MA473",
+        "IN340",
+        "IN341",
+        "IN343",
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=624",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA47A",
+      "name": "Optimización Combinatorial",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "MA37A"
+      ],
+      "equivalences": [
+        "MA461",
+        "MA473",
+        "MA4701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=139",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA57B",
+      "name": "Optimización No Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "MA38B"
+      ],
+      "equivalences": [
+        "MA5701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=338",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MA49A",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA399",
+        "MA4901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2796",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MA59A",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MA49A"
+      ],
+      "equivalences": [
+        "MA499",
+        "MA5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=9354",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MA69A",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MA59A"
+      ],
+      "equivalences": [
+        "MA599",
+        "MA6901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=9350",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA44C",
+      "name": "Procesos de Markov",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "MA48C",
+        "MA34A"
+      ],
+      "equivalences": [
+        "MA4401",
+        "MA54C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2782",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA69P",
+      "name": "Proyecto de Ingeniería Matemática",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "MA44C",
+        "MA54C",
+        "MA59A",
+        "MA43A",
+        "MA43B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2860",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA54B",
+      "name": "Teoría de Información Aplicada en Estadística y Codificación",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MA54C",
+        "MA44C",
+        "IN42A"
+      ],
+      "equivalences": [
+        "MA5401"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2813",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 22,
+      "code": "MA69H",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MA69E",
+        "EH09A"
+      ],
+      "equivalences": [
+        "MA6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 22,
+      "code": "MA69F",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "MA69E",
+        "EH09A",
+        "EI20A",
+        "EI29A",
+        "CR320"
+      ],
+      "equivalences": [
+        "MA6909"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA36A",
+      "name": "Variable Compleja y Funciones Especiales",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 33,
+      "approval_rate": 0.72,
+      "purpose": null,
+      "requirements": [
+        "MA26B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2771",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA11A",
+      "name": "Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 113,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA111",
+        "MA112",
+        "MA11B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=19",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA12A",
+      "name": "Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 116,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA120",
+        "MA121",
+        "MA12B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=21",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "CC10A",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 108,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC151",
+        "MA151",
+        "CC10B",
+        "CC1001",
+        "CC100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=14",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "FI10A",
+      "name": "Introducción a la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI101",
+        "FI111",
+        "FI10B",
+        "FI1001",
+        "FI100",
+        "FI1002",
+        "FI1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2668",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA22A",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA022",
+        "MA122",
+        "MA123",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1681",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26A",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6010",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI25A",
+      "name": "Laboratorio de Física I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI121",
+        "FI214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2691",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI21A",
+      "name": "Química Moderna",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 72,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "QI112",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1544",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA33A",
+      "name": "Cálculo Numérico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI3104",
+        "MA360",
+        "MA467",
+        "MA536",
+        "MA537",
+        "MA231",
+        "MA262",
+        "MA263",
+        "MA331",
+        "MA332",
+        "MA369"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1752",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26B",
+      "name": "Matemáticas Aplicadas",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2763",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21A",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI122",
+        "FI123",
+        "FI215",
+        "FI2A1"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2677",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34A",
+      "name": "Probabilidades y Procesos Estocásticos",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "MA22A"
+      ],
+      "equivalences": [
+        "MA343"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6019",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI22A",
+      "name": "Física Estadística",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A"
+      ],
+      "equivalences": [
+        "FI212",
+        "FI2A4",
+        "FI2004",
+        "CM2004",
+        "CM2A4"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2684",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "SD20A",
+      "name": "Seminario de Diseño",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "FI25A",
+        "MA22A",
+        "MA26A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "ME104",
+        "ME160",
+        "SD15A",
+        "EI2A1",
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21B",
+      "name": "Sistemas Dinámicos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 95,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI216",
+        "FI313",
+        "FI316",
+        "FI3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2675",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI33A",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA26A",
+        "MA26B"
+      ],
+      "equivalences": [
+        "FI022",
+        "FI222",
+        "FI224",
+        "FI303",
+        "FI302",
+        "FI2A2",
+        "FI2002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2688",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI34A",
+      "name": "Física Contemporánea",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "CM2004",
+        "QI21A",
+        "FI21B",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI314",
+        "FI336",
+        "FI322",
+        "FI3102",
+        "FI312"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2689",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI35A",
+      "name": "Laboratorio de Física II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 26,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI25A",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI011",
+        "FI211",
+        "FI304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2690",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "planbcc7111be427b421f55f08eca14d2bde",
+      "name": "Licenciatura en Ciencias de la Ingeniería, Mención Matemáticas, Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 8 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 46,
+      "code": "plan7dadfce2a24daed7e789b35dd81fa28f",
+      "name": "Ingeniería Civil Matemática Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 46 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 11,
+      "code": "planebf42b9dbb82e0fd03e8c7835aeb4212",
+      "name": "Humanistas y Formación General",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 11 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "plan1b92ef24fc0a33f56a9c6f6da18ef66f",
+      "name": "Electivos Libres",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 5 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

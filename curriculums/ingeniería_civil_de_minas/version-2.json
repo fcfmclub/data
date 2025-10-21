@@ -1,0 +1,1838 @@
+{
+  "name": "Ingeniería Civil de Minas",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "MI42C",
+      "name": "Análisis de Sistemas Particulados",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "MI31A",
+        "IQ36A",
+        "FI33A",
+        "FI2002",
+        "FI35A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2249",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI66B",
+      "name": "Complemento de Geotecnia",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI46B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2285",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI52E",
+      "name": "Concentración de Minerales",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.81,
+      "purpose": null,
+      "requirements": [
+        "MI42C",
+        "IQ48A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2258",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN46A",
+      "name": "Contabilidad y Control de Gestión",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 69,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "IN41A"
+      ],
+      "equivalences": [
+        "IN320",
+        "IN325",
+        "IN422",
+        "IN423"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=710",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI63C",
+      "name": "Dinámica y Control de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MI51G",
+        "MI51A",
+        "MI42D",
+        "MI52E"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2279",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI58B",
+      "name": "Diseño de Minas Subterráneas",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "MI47A",
+        "MI57G",
+        "MI46B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI58A",
+      "name": "Diseño de Minas a Cielo Abierto",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI46B",
+        "MI47A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2274",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN41A",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "EH09A",
+        "EI19A",
+        "MA33A",
+        "FI34A"
+      ],
+      "equivalences": [
+        "IN302",
+        "IN303",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=637",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI65A",
+      "name": "Economía Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "IN46A",
+        "IN47A",
+        "MI54A",
+        "MI59A"
+      ],
+      "equivalences": [
+        "MI530",
+        "MI560",
+        "MI561",
+        "MI526"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2282",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL40E",
+      "name": "Electrotecnia y Electrónica",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 76,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI33A",
+        "FI2002"
+      ],
+      "equivalences": [
+        "EL408"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1848",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 4,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34B",
+      "name": "Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA34A"
+      ],
+      "equivalences": [
+        "MA344",
+        "MA444",
+        "MA340",
+        "MA3402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=59",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN42A",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "EI19A",
+        "EH09A",
+        "IN41A",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=668",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI54A",
+      "name": "Evaluación de Yacimientos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "GL54A",
+        "MA34B",
+        "IN42A"
+      ],
+      "equivalences": [
+        "MI5041"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2259",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI29A",
+      "name": "Examen de Suficiencia II en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 107,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI19A"
+      ],
+      "equivalences": [
+        "EI2090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI19A",
+      "name": "Examen de Suficiencia I en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 124,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI1090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ36A",
+      "name": "Fenómenos de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 55,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "MA26A",
+        "FI21B",
+        "FI22A",
+        "MA26B",
+        "QI21A"
+      ],
+      "equivalences": [
+        "MI31A",
+        "IQ3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2328",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI31A",
+      "name": "Fenómenos de Transporte en Metalurgia Extractiva",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=23758",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI32A",
+      "name": "Fisicoquímica I",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "QI21A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1592",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL33A",
+      "name": "Fundamentos de Cristalografía y Mineralogía",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [
+        "GL31A"
+      ],
+      "equivalences": [
+        "GL211",
+        "GL309",
+        "GL3301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1048",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 5,
+      "code": "GL45A",
+      "name": "Fundamentos de Petrología",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "GL31A",
+        "GL33A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI68A",
+      "name": "Geoestadística",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "GF30A",
+        "GL54A",
+        "MA34B"
+      ],
+      "equivalences": [
+        "MI4040"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2286",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL41B",
+      "name": "Geología Estructural",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "GL31A",
+        "GL3101",
+        "ME46A",
+        "GF40A"
+      ],
+      "equivalences": [
+        "GL205",
+        "GL405",
+        "GL4102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1050",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL31A",
+      "name": "Geología General",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 38,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "FI25A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "GL101",
+        "GL105",
+        "GL201",
+        "GL301",
+        "GL330",
+        "GL3101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1047",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI46B",
+      "name": "Geotecnia Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "GL41B",
+        "ME46A"
+      ],
+      "equivalences": [
+        "MI4060"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2251",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI55D",
+      "name": "Gestión Ambiental en Minería",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI51G",
+        "MI52C",
+        "MI52E"
+      ],
+      "equivalences": [
+        "MI5051"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2267",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN47A",
+      "name": "Gestión de Operaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 66,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "ME53A",
+        "IQ36A",
+        "MI31A",
+        "MA340",
+        "MA34B",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4703",
+        "IN75N"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=725",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI69E",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "EH052",
+        "EH09A",
+        "EI004",
+        "EI20A",
+        "EI005",
+        "EH050",
+        "EI21A",
+        "CR288"
+      ],
+      "equivalences": [
+        "MI6908"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2290",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI65G",
+      "name": "Legislación Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "CR240"
+      ],
+      "equivalences": [
+        "MI6131"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2284",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI57G",
+      "name": "Manejo de Minerales y Ventilación",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "EL40E",
+        "MI31A",
+        "IQ36A"
+      ],
+      "equivalences": [
+        "MI4070"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2273",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL54A",
+      "name": "Metalogénesis",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "IN3301S",
+        "GL33A",
+        "QI33A",
+        "GL45C",
+        "GL52A",
+        "GL45B"
+      ],
+      "equivalences": [
+        "GL315",
+        "GL416",
+        "GL4401"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1057",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN34A",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "SD20A"
+      ],
+      "equivalences": [
+        "MA441",
+        "MA473",
+        "IN340",
+        "IN341",
+        "IN343",
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=624",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA37A",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 73,
+      "approval_rate": 0.77,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "SD20A"
+      ],
+      "equivalences": [
+        "IN34A",
+        "MA3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=321",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI47A",
+      "name": "Perforación y Tronadura",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.78,
+      "purpose": null,
+      "requirements": [
+        "ME46A",
+        "QI32A"
+      ],
+      "equivalences": [
+        "MI361",
+        "MI452",
+        "MI3130"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2252",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI51A",
+      "name": "Pirometalurgia",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "QI32A",
+        "MI31A",
+        "IQ36A"
+      ],
+      "equivalences": [
+        "MI421",
+        "MI506"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2150",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MI49A",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "MI42B",
+        "MI46A",
+        "MI46B",
+        "GL33A",
+        "GL45A",
+        "GL43C"
+      ],
+      "equivalences": [
+        "MI4901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2253",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MI59A",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "MI42D",
+        "MI47A",
+        "MI52A",
+        "CI39B",
+        "MI49A",
+        "CI39A"
+      ],
+      "equivalences": [
+        "MI499",
+        "MI5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2276",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MI69A",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MI59A"
+      ],
+      "equivalences": [
+        "MI599",
+        "MI6901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2287",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI51G",
+      "name": "Procesos Hidro-Electro Metalúrgicos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "QI33A",
+        "MI42C",
+        "IQ48A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2257",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI42D",
+      "name": "Procesos de Conminución",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "MI42C"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2250",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "QI33A",
+      "name": "Química Inorgánica",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "QI32A"
+      ],
+      "equivalences": [
+        "QI332",
+        "QI334",
+        "QI335",
+        "CM3001",
+        "IQ3205",
+        "IQ3214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1598",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME46A",
+      "name": "Resistencia de Materiales",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 60,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "FI21B"
+      ],
+      "equivalences": [
+        "CI340",
+        "CI341",
+        "IQ468",
+        "ME100",
+        "ME101",
+        "ME110",
+        "ME370",
+        "ME460",
+        "OC340",
+        "ME3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI64B",
+      "name": "Taller de Proyecto Minero",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "MI54A",
+        "MI58A",
+        "MI58B"
+      ],
+      "equivalences": [
+        "MI6121"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2281",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI63D",
+      "name": "Taller de Proyecto de Planta",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "MI42D",
+        "MI51A",
+        "MI52E"
+      ],
+      "equivalences": [
+        "MI6111"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2280",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 22,
+      "code": "MI69H",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 1,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "MI69E",
+        "EH09A"
+      ],
+      "equivalences": [
+        "MI6910"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2504",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 22,
+      "code": "MI69F",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "MI69E",
+        "EH09A",
+        "EI20A",
+        "EI29A",
+        "CR320"
+      ],
+      "equivalences": [
+        "MI6909"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA11A",
+      "name": "Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 113,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA111",
+        "MA112",
+        "MA11B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=19",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA12A",
+      "name": "Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 116,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA120",
+        "MA121",
+        "MA12B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=21",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "CC10A",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 108,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC151",
+        "MA151",
+        "CC10B",
+        "CC1001",
+        "CC100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=14",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "FI10A",
+      "name": "Introducción a la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI101",
+        "FI111",
+        "FI10B",
+        "FI1001",
+        "FI100",
+        "FI1002",
+        "FI1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2668",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA22A",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA022",
+        "MA122",
+        "MA123",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1681",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26A",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6010",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI25A",
+      "name": "Laboratorio de Física I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI121",
+        "FI214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2691",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI21A",
+      "name": "Química Moderna",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 72,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "QI112",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1544",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA33A",
+      "name": "Cálculo Numérico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI3104",
+        "MA360",
+        "MA467",
+        "MA536",
+        "MA537",
+        "MA231",
+        "MA262",
+        "MA263",
+        "MA331",
+        "MA332",
+        "MA369"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1752",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26B",
+      "name": "Matemáticas Aplicadas",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2763",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21A",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI122",
+        "FI123",
+        "FI215",
+        "FI2A1"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2677",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34A",
+      "name": "Probabilidades y Procesos Estocásticos",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "MA22A"
+      ],
+      "equivalences": [
+        "MA343"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6019",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI22A",
+      "name": "Física Estadística",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A"
+      ],
+      "equivalences": [
+        "FI212",
+        "FI2A4",
+        "FI2004",
+        "CM2004",
+        "CM2A4"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2684",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "SD20A",
+      "name": "Seminario de Diseño",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "FI25A",
+        "MA22A",
+        "MA26A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "ME104",
+        "ME160",
+        "SD15A",
+        "EI2A1",
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21B",
+      "name": "Sistemas Dinámicos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 95,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI216",
+        "FI313",
+        "FI316",
+        "FI3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2675",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI33A",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA26A",
+        "MA26B"
+      ],
+      "equivalences": [
+        "FI022",
+        "FI222",
+        "FI224",
+        "FI303",
+        "FI302",
+        "FI2A2",
+        "FI2002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2688",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI34A",
+      "name": "Física Contemporánea",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "CM2004",
+        "QI21A",
+        "FI21B",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI314",
+        "FI336",
+        "FI322",
+        "FI3102",
+        "FI312"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2689",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI35A",
+      "name": "Laboratorio de Física II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 26,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI25A",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI011",
+        "FI211",
+        "FI304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2690",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "planf2b62dfdcf77ece1a395af9370514488",
+      "name": "Ingeniería Civil de Minas Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 8,
+      "code": "planead25d132ed433e330aedc5a1f4efaf9",
+      "name": "Licenciatura en Ciencias de la Ingenieria, Mencion Mineria y Metalurgia Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 8 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "plan1b92ef24fc0a33f56a9c6f6da18ef66f",
+      "name": "Electivos Libres",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 5 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 11,
+      "code": "planebf42b9dbb82e0fd03e8c7835aeb4212",
+      "name": "Humanistas y Formación General",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 11 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

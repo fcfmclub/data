@@ -1,0 +1,1428 @@
+{
+  "name": "Ingeniería Civil en Biotecnología",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ3211",
+      "name": "Termodinámica Aplicada",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "IQ3201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125258",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 21,
+      "code": "BT6910",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "BT6908"
+      ],
+      "equivalences": [
+        "BT69H"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "BT6930",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [
+        "CR300"
+      ],
+      "equivalences": [
+        "BT6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ3311",
+      "name": "Análisis de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 40,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [
+        "MA2601",
+        "FI2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "IQ3301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125262",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3403",
+      "name": "Probabilidades y Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.84,
+      "purpose": "El propósito de este curso es que el/la estudiante aplique los conceptos fundamentales de la\r\nteoría de probabilidades en la modelación y solución de problemas concretos que involucran\r\nfenómenos aleatorios. También que enuncie leyes clásicas de probabilidad discretas y continuas, que calcule con ellas y que las asocie a situaciones específicas de modelación. Además que aplique la Ley de Grandes Números y del Teorema Central del Límite.\r\nOtra parte del propósito de este curso es que el/la estudiante conozca los conceptos\r\nfundamentales de la Inferencia Estadística y de los modelos lineales, y los aplique junto a los\r\nconceptos de probabilidad. Junto a esto, que conozca lo que es un muestreo aleatorio y la\r\nimportancia de la distribución Normal y su rol en el Teorema Central del Límite, que estime\r\nparámetros de una distribución y reconozca sus propiedades, y que conozca el Lema de Neyman Pearson y su aplicación en la toma de decisiones con un test de hipótesis. Adicionalmente, que aplique un modelo de regresión lineal y evalúe sus resultados. Finalmente, que aplique la teoría de tests en casos clásicos como son: la comparación de dos poblaciones, la comprobación que un conjunto de valores muestrales siguen una determinada distribución, el test de independencia en una tabla de contingencia.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3754",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT3210",
+      "name": "Química Orgánica",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 31,
+      "approval_rate": 0.9,
+      "purpose": "El curso tiene como propósito que los y las estudiantes puedan determinar qué es una molécula orgánica y moléculas bioquímicas, considerando su estructura, tipos de enlace, mecanismos de reacción, su proceso de formación y descomposición, a fin de establecer su función e importancia en la industria y en la vida.\r\n\r\nPara ello, analizan y resuelven problemas de reacciones que se originan en una síntesis molecular, relevantes para el desarrollo de procesos industriales eficientes en la industria, y problemas relativos al aislamiento, la purificación, y la predicción y análisis de propiedades fisicoquímicas, en relación con una función y una aplicación tecnológica.\r\n\r\nLos y las estudiantes indagan, en tareas acotadas, sobre algún proceso de química orgánica o molécula orgánica donde analizan las diferentes unidades, determinando los principales componentes de dicho proceso o molécula y su importancia en el contexto de la química orgánica, de la industria, de la vida y de la biotecnología.",
+      "requirements": [
+        "IQ2211"
+      ],
+      "equivalences": [
+        "IQ3204",
+        "CM3002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125254",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT3111",
+      "name": "Biología y Metabolismo Celular",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 31,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "IQ2211",
+        "CD2201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125250",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "ME4262",
+      "name": "Evaluación de Proyectos en Ingeniería",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN3301"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ3312",
+      "name": "Fenómenos de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 46,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que los y las estudiantes integren la base física de los fenómenos de transporte de movimiento, calor y masa, a partir de su origen molecular, para comprender la expresión matemática de estos fenómenos. \r\n\r\nPara ello, los y las estudiantes son capaces de aplicar las ecuaciones de transferencia de movimiento, calor y masa para dar respuesta a problemas de transferencia en contextos profesionales e introducir a los estudiantes al análisis crítico de supuestos, evaluando sus potenciales efectos ambientales, sociales y económicos.",
+      "requirements": [
+        "MA2002",
+        "FI2001",
+        "CD2201"
+      ],
+      "equivalences": [
+        "IQ3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84789",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ3111",
+      "name": "Modelamiento y Optimización para Ingeniería de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito que los y las estudiantes identifiquen problemas de optimización en la ingeniería de procesos y que construyan modelos que permitan formalizar la toma de decisiones en ámbitos estratégicos (ej. estructura de un proceso), tácticos (ej. sustitución de equipos o proveedores) y operativos de un proceso (ej. condiciones de operación). Para resolver dichos problemas, los y las estudiantes utilizan herramientas de modelación y algoritmos computacionales diseñados para obtener soluciones de problemas de optimización, que permiten proponer mejoras a procesos químicos y biotecnológicos.",
+      "requirements": [
+        "IQ3311"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125270",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "BT3711",
+      "name": "Bioética, Legislación e Innovación",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 25,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que los y las estudiantes conciban un proyecto de innovación, de proceso o producto,  a partir de un desarrollo biotecnológico, considerando aspectos de bioética, legislación (regulación, normas, propiedad intelectual), así como la detección de una necesidad, su validez como problema para los usuarios, el valor agregado de la solución desde el punto de vista de transferencia tecnológica.",
+      "requirements": [
+        "BT3111",
+        "CD2201",
+        "IN2201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=83309",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT3113",
+      "name": "Biología Molecular",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT3111",
+        "BT3210"
+      ],
+      "equivalences": [
+        "BT4103"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125302",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT3112",
+      "name": "Biología y Metabolismo de Microorganismos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "BT3111",
+        "BT3210"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125298",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ4314",
+      "name": "Diseño de Reactores",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "IQ3211",
+        "IQ3201",
+        "IQ3311",
+        "IQ3301",
+        "IQ3312",
+        "IQ3202"
+      ],
+      "equivalences": [
+        "IQ4305"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125282",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4273",
+      "name": "Gestión de Operaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 87,
+      "approval_rate": 0.98,
+      "purpose": "El curso Gestión de Operaciones tiene como propósito que los y las estudiantes conozcan la función de la gestión de operaciones y su rol en el funcionamiento de las organizaciones. Se estudian tópicos fundamentales de la gestión de operaciones, como análisis de procesos, manejo de inventario, problemas de localización, transporte, ruteo, entre otros.  Cada área se estudia desde su aspecto cualitativo como también cuantitativo. Dentro del aspecto cualitativo, se expone a los y las estudiantes los objetivos de cada área de estudio, los agentes y variables relevantes, y la conexión con otras áreas de la empresa u organización. En el aspecto cuantitativo, se aplican herramientas matemáticas como programación lineal, simulación, probabilidades,  que permiten modelar, estimar, y/u optimizar problemas de la gestión de operaciones.\r\n\r\nLa metodología de aprendizaje es activo. Mediante el análisis de una serie de casos de estudio reales, los estudiantes interactúan entre sí y con el profesor, proponiendo soluciones a un caso estudiado, mediante el uso de aspectos conceptuales de la gestión de operaciones. El docente es un mediador que guía la discusión y reflexión de los estudiantes. Además, se consta de tareas, tanto conceptuales, teóricas, como computacionales donde el alumno aplica los conceptos a una problemática de un tópico en particular.\r\n\r\nCada actividad o propuesta de trabajo es una oportunidad para aplicar lo aprendido en otros contextos y situaciones, promoviendo con ello una mayor responsabilidad y autorregulación por parte del estudiante.",
+      "requirements": [
+        "IN3171",
+        "IQ3111",
+        "MA3701",
+        "IN3242",
+        "MA3403"
+      ],
+      "equivalences": [
+        "IN4703"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116494",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ4112",
+      "name": "Métodos Matemáticos para Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 57,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "MA3403",
+        "IQ3311",
+        "IQ3212"
+      ],
+      "equivalences": [
+        "IQ4101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125238",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT4315",
+      "name": "Operaciones de Transferencia de Masa y Separación",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "IQ3312",
+        "IQ3202"
+      ],
+      "equivalences": [
+        "BT5303",
+        "IQ4315"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=152830",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "BT4911",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IQ3312"
+      ],
+      "equivalences": [
+        "BT4901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124614",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT4114",
+      "name": "Biotecnología Molecular",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "BT3113",
+        "BT4103"
+      ],
+      "equivalences": [
+        "BT4104"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125310",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ5113",
+      "name": "Dinámica y Control de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.94,
+      "purpose": "Al término del curso, el estudiantado demuestra que modela, analiza y controla procesos dinámicos. Además, extienden e integran los conocimientos adquiridos en los cursos previos, enfocado a la elaboración de un modelo dinámico de proceso. Este curso entrega las herramientas fundamentales para analizar las características dinámicas de este modelo, que en conjunto con los objetivos de producción y de control, permiten diseñar un sistema de control. El sistema de control puede ser diseñado, utilizando técnicas clásicas o más recientes.",
+      "requirements": [
+        "IQ4112",
+        "IQ4315",
+        "IQ4101",
+        "FI3104",
+        "IQ4305",
+        "IQ4314"
+      ],
+      "equivalences": [
+        "IQ5307"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125294",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT5312",
+      "name": "Ingeniería Metabólica y Biorreactores",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 31,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "BT4201",
+        "IQ4314",
+        "BT4315"
+      ],
+      "equivalences": [
+        "BT5301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=154322",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 14,
+      "code": "BT5912",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las\r\nprácticas profesionales han sido definidas como hitos evaluativos del Perfil de egreso\r\nde la carrera de la FCFM, pues ellas corresponden a actividades curriculares que\r\npermiten evidenciar y monitorear el logro de una serie de competencias relevantes\r\ncomprometidas en dicho perfil. Además, permite darle la posibilidad a los/las\r\nestudiantes de demostrar de manera auténtica los logros desarrollados en su\r\nformación hasta el momento en donde se ubica la práctica según plan de estudio.\r\n\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y\r\nprotagónico, pues tendrá la oportunidad para demostrar desempeños tanto de las\r\ncompetencias específicas de su formación como de las competencias genéricas tales\r\ncomo trabajo en equipo, comunicación académica y profesional, compromiso ético e\r\ninnovación. Esta es la segunda práctica y considera desempeños observables,\r\nconsiderando el avance curricular del/la estudiante.\r\n\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para\r\nvincular la universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "BT4911"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124586",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT5316",
+      "name": "Procesos de Separación en Biotecnología",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 31,
+      "approval_rate": 0.98,
+      "purpose": "En este curso se presentarán los principios fisicoquímicos y biológicos de las operaciones de separaciones y purificación, las formas de operación, las ecuaciones de diseño y los criterios de optimización y escalamiento (scale-up) de estos procesos. Adicionalmente, se entregarán criterios para integración de algunas operaciones.\r\n\r\nEn la última parte del curso se describe y analiza el uso de células animales en procesos biotecnológicos de producción de proteínas recombinantes y, se discute el diseño de procesos biotecnológicos utilizando bacterias (E. coli) como levaduras y células animales.",
+      "requirements": [
+        "IQ4314",
+        "IQ3202",
+        "IQ3312"
+      ],
+      "equivalences": [
+        "BT5304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=126478",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT4713",
+      "name": "Taller de Diseño e Innovación en Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 21,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT3711",
+        "IQ3312",
+        "IQ3111"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=157426",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT4712",
+      "name": "Biotecnología en Agricultura, Salud, Ambiente e Industria",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 22,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que los y las estudiante analicen y comparen ejemplos de aplicaciones biotecnológicas a campos de acción y desafíos en agricultura, salud, ambiente e industria. Para ello, indagan sobre aplicaciones biotecnológicas, considerando los desafíos de la biotecnología hoy en día. Asimismo, los y las estudiantes, comparan soluciones biotecnológicas con otras tecnologías, para determinar ventajas y desventajas de cada una.",
+      "requirements": [
+        "BT3112",
+        "BT4114",
+        "BT3711"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=152094",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT5311",
+      "name": "Ingeniería de Enzimas y Proteínas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 28,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el estudiantado adquiera conocimientos profundos acerca de estructura molecular y función proteica,  y sea capaz de relacionar las propiedades físicas, químicas y funcionales de las proteínas con su estructura, considerando los efectos de la secuencia de aminoácidos de una proteína sobre sus características funcionales y macroscópicas. Además, se espera que el estudiantado adquiera habilidades que le permitan comprender, evaluar y aplicar el uso tecnológico de proteínas y enzimas. Para esto, se espera que adquiera conocimientos para seleccionar métodos de análisis de proteínas, considerando las propiedades fisicoquímicas en las que éstos se basan, así como métodos de purificación y caracterización de proteínas y enzimas. Adicionalmente, el curso tiene como propósito que el estudiantado comprenda y aplique conocimiento sobre los mecanismos catalíticos enzimáticos, a nivel molecular y cinético, en el diseño de procesos sustentables e innovadores. Finalmente, se espera que el estudiantado sea capaz de diseñar métodos de mutagénesis sitiodirigida, mutagénesis al azar y análisis bioinformático de proteínas, de manera de obtener enzimas mejoradas capaces de ser utilizadas en aplicaciones tecnológicas, médicas e industriales.",
+      "requirements": [
+        "BT4104",
+        "BT4114",
+        "BT3112",
+        "BT3102"
+      ],
+      "equivalences": [
+        "BT5302"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=133906",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT5714",
+      "name": "Taller de Implementación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": "El propósito del curso es que los y las estudiantes implementen el diseño de un proyecto mediante un modelo teórico, que permita evaluar técnicamente dicho proyecto. El proyecto aborda el cambio de un proceso biotecnológico que, después del cambio, tendría un mejor desempeño desde el punto de vista de la eficiencia o impactos ambientales. Se espera, además, que la/el estudiante integre y aplique herramientas de evaluación de proyectos, considerando aspectos técnicos, sociales, ambientales, económicos y de gestión. \r\n\r\nFinalmente, el curso promueve el fortalecimiento de las competencias de trabajo en equipo, buscando que la/el estudiante evalúe la ejecución del proyecto, considerando la gestión interna de tiempo y trabajo, y los roles al interior del equipo de trabajo.",
+      "requirements": [
+        "BT4713",
+        "IN3301",
+        "IQ4112"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=157430",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "BT6906",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que los y las estudiantes diseñen una propuesta de trabajo de título, el cual debe tributar a las competencias específicas del perfil de egreso de la carrera de Biotecnología, integrando en este diseño conocimientos de su formación. Para realizar su quehacer, trabaja en una problemática, buscando y analizando información, proveniente de múltiples fuentes del área de la industria de procesos.\r\n\r\nDebe organizar su futura investigación o memoria, proponiendo una Carta Gantt, que sirve para verificar e ir ajustando el cumplimiento de objetivos del trabajo de título. \r\n\r\nLos y las estudiantes demuestran autonomía, iniciativa, capacidad de síntesis y comunicación efectiva, trabajando en forma autónoma bajo la supervisión de su comisión de titulación (profesores guía y co-guía).",
+      "requirements": [
+        "IN4273",
+        "BT5912",
+        "BT5311",
+        "BT5714"
+      ],
+      "equivalences": [
+        "BT6908"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160526",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "BT5715",
+      "name": "Taller de Proyectos en Ingeniería o Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 22,
+      "approval_rate": 1.0,
+      "purpose": "El propósito del curso es que la/el estudiante desarrolle la ingeniería conceptual de una planta de procesos, diseñando el proceso, resolviendo los balances de masa y energía, dimensionando los equipos principales, con el nivel de detalle y precisión apropiados para la etapa de ingeniería indicada. El curso también busca que la/el estudiante evalúe el proyecto, considerando sus aspectos técnicos, ambientales, de responsabilidad social, éticos y económicos. Todo el trabajo anterior es realizado en colaboración con otras/os estudiantes, fortaleciendo el trabajo en equipo de estándar profesional y aplicando los conocimientos adquiridos durante su formación.",
+      "requirements": [
+        "BT5714",
+        "BT5312"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160522",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "BT6920",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el o la estudiante desarrolle un trabajo de investigación. El/la estudiante trabajará en forma autónoma y presentará, en forma sintética y clara, sus resultados finales, en modalidad escrita y oral.",
+      "requirements": [
+        "BT6906",
+        "IQ5113",
+        "BT5316",
+        "BT5715"
+      ],
+      "equivalences": [
+        "BT6909"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=167398",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan8d82fe5f1730fb99463e986a0b14bc1e",
+      "name": "Ingeniería Electivos Biotecnología, V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "plancb935dc490df61d42d4b92f673beab4c",
+      "name": "Licenciatura Electivos Biotecnología V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 9 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

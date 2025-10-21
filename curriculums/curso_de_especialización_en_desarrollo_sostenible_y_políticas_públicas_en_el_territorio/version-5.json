@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Desarrollo Sostenible y Políticas Públicas en el Territorio",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDIIDSPPT01",
+      "name": "Desarrollo Sostenible y Políticas Públicas en el Territorio",
+      "department": null,
+      "students_per_course": 75,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

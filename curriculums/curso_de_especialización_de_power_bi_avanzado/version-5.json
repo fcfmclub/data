@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización de Power Bi Avanzado",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBA01",
+      "name": "Power Bi Avanzado",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

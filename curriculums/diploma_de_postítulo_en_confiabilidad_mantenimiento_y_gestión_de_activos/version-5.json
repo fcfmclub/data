@@ -1,0 +1,227 @@
+{
+  "name": "Diploma de Postítulo en Confiabilidad, Mantenimiento y Gestión de Activos",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "DPDIMCMG07",
+      "name": "Análisis de Datos Aplicada a la Gestión de Activos",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG06",
+      "name": "Análisis de Mecanismos de Fallas",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG11",
+      "name": "Big Data Aplicada a la Gestión de Activos",
+      "department": null,
+      "students_per_course": 30,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG09",
+      "name": "Confiabilidad Humana en la Gestión de Activos",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG05",
+      "name": "Estrategia de Negocios en la Gestión de Activos",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG13",
+      "name": "Evaluación y Gestión de Garantía",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG03",
+      "name": "Gestión de Activos Físicos",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG01",
+      "name": "Ingeniería de Confiabilidad",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG02",
+      "name": "Ingeniería de Confiabilidad II",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG10",
+      "name": "Inspección Basada en el Riesgo",
+      "department": null,
+      "students_per_course": 30,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG08",
+      "name": "Mantenimiento Predictivo",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG04",
+      "name": "Mantenimiento Preventivo e Inspecciones",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMCMG12",
+      "name": "Monitoreo de Señales y Pronósticos de Daños",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "name": "Diploma de Postítulo Administración de Contratos WK-BHP Escondida",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 4,
+      "code": "DPDIIACWK06",
+      "name": "Administración de Contratos de Bienes",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK07",
+      "name": "Administración de Contratos de Servicios",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK05",
+      "name": "Administración de Contratos en Proyectos",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK09",
+      "name": "Aspectos Legales en la Administración de Contratos",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK10",
+      "name": "Digitalización e Inteligencia Artificial para la Administración de Contratos",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK03",
+      "name": "El Proceso y las Prácticas en Administración de Contratos",
+      "department": null,
+      "students_per_course": 39,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK02",
+      "name": "Formación Estratégica de Contratos",
+      "department": null,
+      "students_per_course": 37,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK04",
+      "name": "Indicadores y KPI en la Administración de Contratos",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK01",
+      "name": "Módulo Articulador (Introducción, Charlas y Caso)",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIACWK08",
+      "name": "Negociación en la Administración de Contratos",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

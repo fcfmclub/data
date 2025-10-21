@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Postitulo en Climatización",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMCLI02",
+      "name": "Cargas Térmicas en sistemas de Climatización",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMCLI04",
+      "name": "Eficiencia Energética en Sistemas de Climatización",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMCLI01",
+      "name": "Fundamentos científico-tecnológicos en climatización",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMCLI05",
+      "name": "Instalación, Monitoreo y Control de Sistemas de Climatización",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMCLI06",
+      "name": "Operación y Gestión de Sistemas de Climatización",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMCLI03",
+      "name": "Sistemas de Climatización: Componentes y Principios de Funcionamiento",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

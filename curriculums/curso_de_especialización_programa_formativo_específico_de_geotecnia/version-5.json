@@ -1,0 +1,74 @@
+{
+  "name": "Curso de Especialización Programa Formativo Específico de Geotecnia",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEMINPFEG02",
+      "name": "Minería Subterránea de Block/Panel Caving: Diseño Geotécnico y Planificación Minera",
+      "department": null,
+      "students_per_course": 37,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CEMINPFEG03",
+      "name": "Minería Subterránea de Block/Panel Caving:  Implementación del diseño UG",
+      "department": null,
+      "students_per_course": 35,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEMINPFEG01",
+      "name": "Minería a Cielo Abierto: Diseño Geotécnico de Taludes Mineros",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CEMINPFEG04",
+      "name": "Minería a Cielo Abierto:  Implementación del diseño OP",
+      "department": null,
+      "students_per_course": 28,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

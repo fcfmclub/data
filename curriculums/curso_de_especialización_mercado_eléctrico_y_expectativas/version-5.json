@@ -1,0 +1,57 @@
+{
+  "name": "Curso de Especialización Mercado Eléctrico y Expectativas",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECMEE03",
+      "name": "Curso Regulación del Mercado Eléctrico -  MINENERGÍA",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEEPECMEE02",
+      "name": "Curso de mercado eléctrico y expectativas  CELEO",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEEPECMEE01",
+      "name": "Mercado Eléctrico y Expectativas",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

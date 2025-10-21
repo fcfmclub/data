@@ -1,0 +1,363 @@
+{
+  "name": "Diploma de Postítulo en Ingenieria Estructural y Diseño Sismico",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "DPDICIEDS12",
+      "name": "Amenaza sísmica",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS01",
+      "name": "Análisis Estructural y Elementos Finitos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS03",
+      "name": "Análisis No-Lineal de Estructuras",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS19",
+      "name": "Análisis y Diseño de Estructuras con Sistemas de Aislación Basal",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS18",
+      "name": "Análisis y Diseño de Estructuras con Sistemas de Disipación de Energía",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS09",
+      "name": "Análisis y dinámica de estructuras aplicado al diseño sísmico",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS11",
+      "name": "Caracterización geotécnica, empuje, sistemas de contención",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS02",
+      "name": "Dinámica de Estructuras y Monitoreo de Estructuras",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS20",
+      "name": "Diseño Sísmico Basado en Desempeño",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS07",
+      "name": "Diseño Sísmico de Estructuras",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS06",
+      "name": "Diseño de Acero",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=46873",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS08",
+      "name": "Diseño de Dispositivos de Disipación de Energía y Aislación Sísmico",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS16",
+      "name": "Diseño de Estructuras en Acero",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS14",
+      "name": "Diseño de Estructuras en Albañilería",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS15",
+      "name": "Diseño de Estructuras en Hormigón Armado",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS13",
+      "name": "Diseño de Estructuras en Madera",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS17",
+      "name": "Diseño de Fundaciones, sistemas de contención e interacción suelo estructura",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS04",
+      "name": "Diseño de Fundaciones e Interacción Suelo-Estructuras",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICIEDS05",
+      "name": "Diseño de Hormigón Armado",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS10",
+      "name": "Instrumentación, monitoreo e identificación estructural",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPDICIEDS21",
+      "name": "Taller de Proyecto",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

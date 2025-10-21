@@ -1,0 +1,125 @@
+{
+  "name": "Diploma de Postítulo en Dirección de Proyectos en Ingeniería y Construcción",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDICDPIC04",
+      "name": "Estudios Sísmicos y Geotécnicos para los Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICDPIC01",
+      "name": "Fundamentos, Conceptos y Ciclo de Vida de los Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICDPIC03",
+      "name": "Gestión de Calidad y los Riesgos de Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICDPIC02",
+      "name": "Gestión del Alcance, Cronograma y Costos de Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICDPIC05",
+      "name": "Gestión de las Compras y Contratos en los Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICDPIC06",
+      "name": "Gestión de los Recursos Humanos y Comunicaciones de Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICDPIC07",
+      "name": "Plan de Ejecución y Control integral de Proyectos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

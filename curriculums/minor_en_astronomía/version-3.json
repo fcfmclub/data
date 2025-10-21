@@ -1,0 +1,102 @@
+{
+  "name": "Minor en Astronomía",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "AS3101",
+      "name": "Astrofísica de Estrellas",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes relacionen procesos físicos, incluyendo gravitación, termodinámica y radiación, para identificar y caracterizar las propiedades de las estrellas en términos de la formación, estructura, evolución y muerte estelar. \r\n\r\nAl final del curso, los y las estudiantes serán capaces de extraer conclusiones y representar el estado evolutivo de conjuntos de estrellas, a partir del diagrama de Hertzprung-Russel (HR) y de modelos de estructura estelar.",
+      "requirements": [
+        "FI2004",
+        "CM2004",
+        "IQ2212"
+      ],
+      "equivalences": [
+        "AS31B",
+        "AS3101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3507",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "AS2001",
+      "name": "Astronomía General",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 56,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "FI1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "AS30A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6727",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "AS4101",
+      "name": "Astrofísica de Galaxias",
+      "department": {
+        "name": "Departamento de Astronomía",
+        "code": "DAS",
+        "id": 3
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.95,
+      "purpose": "Al final del curso, los y las estudiantes relacionan los fundamentos astrofísicos de evolución estelar y de formación jerárquica de estructuras, con las propiedades globales de las galaxias para comprender su diversidad y evolución. Asimismo, explican los fenómenos usando principios físicos básicos, formulando matemáticamente procesos, según modelos determinados física y empíricamente.\r\n\r\nLa estructura del curso es teóricopráctica, pues a partir de materias seleccionadas, el y la estudiante analizan diversos problemas sobre temáticas extragalácticas. \r\n\r\nEl curso tributa a las siguientes competencias específicas (CE) y genéricas (CG):\r\n\r\nCE1: Aplicar los conceptos básicos de la física para la descripción y modelamiento de fenómenos naturales desde un enfoque clásico, cuántico, estadístico, entre otros.\r\n\r\nCE2: Formular y resolver ecuaciones que permiten describir y predecir el comportamiento de sistemas físicos y astrofísicos, utilizando herramientas analíticas y numéricas.\r\n\r\nCE3: Aplicar fundamentos físicos al análisis e interpretación de fenómenos astronómicos complejos dentro del contexto de modelos existentes (estelares, galácticos, entre otros), usando un pensamiento crítico.\r\n\r\nCG1: Comunicación académica y profesional\r\nLeer de manera comprensiva, analítica y crítica en español. Asimismo, expresar de forma eficaz, clara, precisa e informada sus ideas, opiniones e indagaciones, adecuándose a diversas situaciones comunicativas académicas y profesionales, tanto en lo oral como en lo escrito.\r\n\r\nCG2: Comunicación en inglés\r\nLeer y escuchar de manera comprensiva en inglés una variedad  de textos e informaciones sobre temas concretos o abstractos, comunicando experiencias y opiniones, adecuándose a diferentes contextos y a las características de la audiencia.",
+      "requirements": [
+        "AS3101"
+      ],
+      "equivalences": [
+        "AS42A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3508",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan1cecdd75a1550d292ccf74846bbe544b",
+      "name": "Electivos Minor Astronomía",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

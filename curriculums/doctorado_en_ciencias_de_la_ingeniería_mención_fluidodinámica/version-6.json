@@ -1,0 +1,214 @@
+{
+  "name": "Doctorado en Ciencias de la Ingeniería, Mención Fluidodinámica",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 9,
+      "code": "FD701",
+      "name": "Mecánica de Medios Continuos: Bases Matem.de la Mec. de Fluidos",
+      "department": null,
+      "students_per_course": 3,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "FI21A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=134874",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "FD703",
+      "name": "Métodos Computacionales en Fluidodinámica",
+      "department": null,
+      "students_per_course": 3,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "FD704",
+      "name": "Métodos Experimentales en Fluidodinámica",
+      "department": null,
+      "students_per_course": 3,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "FD800",
+      "name": "Proyecto de Investigación en Fluidodinámica",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91A",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91B",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91C",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "EP91D",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Escuela de Postgrado",
+        "code": "EP",
+        "id": 303
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "FD702",
+      "name": "Temas de Fluidodinámica",
+      "department": null,
+      "students_per_course": 3,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "FD801",
+      "name": "Preparación de proyecto de tesis",
+      "department": null,
+      "students_per_course": 1,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [
+        "FD800"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plan74658c107f28971ca36e0e290d03ca23",
+      "name": "Electivos Doctorado en Ciencia de la Ing. Mención Fluidodinámica",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

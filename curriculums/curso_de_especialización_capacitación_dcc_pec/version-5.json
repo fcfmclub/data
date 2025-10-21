@@ -1,0 +1,40 @@
+{
+  "name": "Curso de Especialización Capacitación DCC PEC",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDCCPEC01",
+      "name": "Capacitación DevOps",
+      "department": null,
+      "students_per_course": 30,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEDCCPEC03",
+      "name": "Transformers, uso de agentes, LangChain y RAG",
+      "department": null,
+      "students_per_course": 52,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

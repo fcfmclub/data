@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Postítulo en Geomecánica Aplicada al Diseño Minero",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMINGADM2",
+      "name": "Excavaciones en Roca",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGADM1",
+      "name": "Fundamentos de Mecánica de Rocas",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGADM3",
+      "name": "Geomecánica en Minería Subterránea Selectiva y Masiva",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGADM4",
+      "name": "Geomecánica en Minería a Cielo Abierto",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=86110",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGADM5",
+      "name": "Modelamiento Numérico en Geomecánica",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGADM6",
+      "name": "Seminario de Casos de Estudio",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

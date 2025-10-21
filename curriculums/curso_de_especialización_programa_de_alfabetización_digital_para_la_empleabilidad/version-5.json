@@ -1,0 +1,159 @@
+{
+  "name": "Curso de Especialización Programa de Alfabetización Digital para la Empleabilidad",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEOBADPE01",
+      "name": "Alfabetización y Productividad Digital",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE07",
+      "name": "Finanzas Digitales",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE09",
+      "name": "Herramientas para Emprender",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE02",
+      "name": "Herramientas para el Trabajo Remoto",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE05",
+      "name": "Herramientas para la Gestión de Proyectos",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE08",
+      "name": "IA en un Entorno Laboral",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE04",
+      "name": "Marca Personal y Posicionamiento",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE06",
+      "name": "Marketing Digital",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "CEOBADPE03",
+      "name": "Seguridad y Privacidad de la Información",
+      "department": null,
+      "students_per_course": 48,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

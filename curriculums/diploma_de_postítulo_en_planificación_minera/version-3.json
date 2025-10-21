@@ -1,0 +1,142 @@
+{
+  "name": "Diploma de Postítulo en Planificación Minera",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMINPM03",
+      "name": "Diseño Minero y Planificación a Cielo Abierto",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM04",
+      "name": "Diseño y Planificación de Minas Subterráneas",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM02",
+      "name": "Evaluación de Recursos",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM07",
+      "name": "Gestión y Evaluación de Proyectos Mineros",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM01",
+      "name": "Introducción a la Planificación Minera",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM08",
+      "name": "Laboratorio de Planificación",
+      "department": null,
+      "students_per_course": 7,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM06",
+      "name": "Riesgo en la Planificación",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINPM05",
+      "name": "Simulación de Operaciones Unitarias",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

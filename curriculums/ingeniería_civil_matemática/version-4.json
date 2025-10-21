@@ -1,0 +1,1171 @@
+{
+  "name": "Ingeniería Civil Matemática",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "MA3705",
+      "name": "Algoritmos Combinatoriales",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 49,
+      "approval_rate": 0.76,
+      "purpose": "El curso tiene como propósito que los y las estudiantes conozcan los algoritmos clásicos para\r\nproblemas combinatoriales, principios generales de diseño de algoritmos y la noción de eficiencia computacional. También que sean capaces de reconocer la complejidad computacional de un problema de optimización discreta, y presentar técnicas para aproximar problemas NP-duros.\r\nAdemás, que comprendan la relevancia, tanto en el diseño como en el análisis de algoritmos\r\ncombinatoriales, de la formulación primal-dual de programación lineal.",
+      "requirements": [
+        "MA3711"
+      ],
+      "equivalences": [
+        "MA4701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=7706",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1001",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC100",
+        "CC10A",
+        "CC151"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3448",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1001",
+      "name": "Introducción a la Física Newtoniana",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.88,
+      "purpose": "El estudiante al termino del curso demuestra que:\r\n\r\n1.\tIdentifica las variables, como posición, velocidad y aceleración, que describen el movimiento de sistemas mecánicos simples, a fin describir su evolución temporal. \r\n2.\tIdentifica y utiliza algunas fuerzas simples, como el peso, normal, tensión, fuerza de roce, gravitación, con el fin de describir la mecánica de sistemas físicos. \r\n3.\tUtiliza representaciones gráficas de las variables que describen el movimiento de una partícula para interpretar su comportamiento. \r\n4.\tAplica las Leyes de Newton a sistemas mecánicos simples de una o dos partículas para poder describir su dinámica.\r\n5.\tReconoce el rango de aplicabilidad y/o restricciones de los principios de conservación del momentum y de la energía para describir la dinámica de sistemas mecánicos simples.",
+      "requirements": [],
+      "equivalences": [
+        "FI100",
+        "FI1000"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3491",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI1101",
+      "name": "Introducción a la Ingeniería I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.99,
+      "purpose": "Al término del curso el alumno demuestra que desarrolla proyectos de diseño en ingeniería, ejercita la creatividad, refuerza la motivación por el aprendizaje de las matemáticas y la ciencia mediante la aplicación de los conocimientos básicos a la solución de problemas de ingeniería, reversa y de procesos, en un marco ético. También demuestra poseer habilidades personales e interpersonales",
+      "requirements": [],
+      "equivalences": [
+        "EI110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3445",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI1102",
+      "name": "Introducción a la Ingeniería II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.99,
+      "purpose": "Al término del curso el alumno demuestra que desarrolla proyectos de diseño en ingeniería,\r\nejercita la creatividad, refuerza la motivación por el aprendizaje de las matemáticas y la ciencia\r\nmediante la aplicación de los conocimientos básicos a la solución de problemas de ingeniería,\r\nreversa y de procesos, en un marco ético. También demuestra poseer habilidades personales e\r\ninterpersonales.",
+      "requirements": [],
+      "equivalences": [
+        "EI1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3446",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MA4902",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.98,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las\r\nprácticas profesionales han sido definidas como hitos evaluativos del Perfil de egreso\r\nde la carrera de la FCFM, pues ellas corresponden a actividades curriculares que\r\npermiten evidenciar y monitorear el logro de una serie de competencias relevantes\r\ncomprometidas en dicho perfil. Además, permite darle la posibilidad a los/las\r\nestudiantes de demostrar de manera auténtica los logros desarrollados en su\r\nformación hasta el momento en donde se ubica la práctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y\r\nprotagónico, pues tendrá la oportunidad para demostrar desempeños tanto de las\r\ncompetencias específicas de su formación como de las competencias genéricas tales\r\ncomo trabajo en equipo, comunicación académica y profesional, compromiso ético e\r\ninnovación.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para\r\nvincular la universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "MA3402"
+      ],
+      "equivalences": [
+        "MA4901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5848",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CM1001",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ciencia de los Materiales",
+        "code": "CM",
+        "id": 306
+      },
+      "students_per_course": 77,
+      "approval_rate": 0.88,
+      "purpose": "Al final del curso el estudiante demuestra que:\r\n Maneja y aplica los conocimientos básicos de la química en problemas\r\nque se le planteen en su especialidad.\r\n Comprende los procesos químicos sobre la base del conocimiento\r\nmicroscópico de la materia.\r\n Descubre la importancia de estos conocimientos en el desarrollo\r\ncientífico y tecnológico del mundo moderno.\r\n Comprende y describe la estructura y propiedades de la materia.\r\n Calcula y resuelve problemas relacionados con las condiciones para la\r\ntransformación de la materia y la velocidad con que ésta ocurre.",
+      "requirements": [],
+      "equivalences": [
+        "CM1A1",
+        "QI21A",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6000",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA4702",
+      "name": "Programación Lineal Mixta: Teoría y Laboratorio",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 35,
+      "approval_rate": 0.94,
+      "purpose": "El curso tiene como propósito que los y las estudiantes serán capaces de reconocer problemas\r\nque se modelan como problemas lineales mixtos, aplicar los métodos de planos cortantes y sus variantes para resolver problemas concretos, escribir problemas en un entorno de programación adecuado y resolver computacionalmente instancias de estos.",
+      "requirements": [
+        "MA3705"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6004",
+      "weekly_modules": {
+        "labs": 10,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1002",
+      "name": "Sistemas Newtonianos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 78,
+      "approval_rate": 0.9,
+      "purpose": "Al final el estudiante demuestra que:\r\n Comprende fenómenos que involucren sólidos, fluidos y medios elásticos. Lo\r\nanterior en el marco de las leyes de Newton extendidas a sistemas más complejos.",
+      "requirements": [
+        "FI1001",
+        "FI100",
+        "CC1001",
+        "CC100",
+        "CC1000",
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "FI1A2",
+        "FI1100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3453",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI2001",
+      "name": "Taller de Proyecto",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": "Al término del curso el alumno demuestra que concibe, diseña, implementa y opera\r\nproyectos de ingeniería, dando respuesta innovadora a una necesidad real en un área\r\nespecífica de aplicación.",
+      "requirements": [
+        "EI1102",
+        "CC10A",
+        "CC10B"
+      ],
+      "equivalences": [
+        "EI2A1",
+        "SD20A",
+        "SD15A",
+        "ME160",
+        "CD1201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3451",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CM2004",
+      "name": "Fisicoquímica",
+      "department": {
+        "name": "Departamento de Ciencia de los Materiales",
+        "code": "CM",
+        "id": 306
+      },
+      "students_per_course": 73,
+      "approval_rate": 0.93,
+      "purpose": "Al final del curso se espera que el estudiante maneje las herramientas físico-matemáticas, que le permitan, comprender y aplicar conceptos de química física para analizar y proponer soluciones en problemas de procesos que los requieran.",
+      "requirements": [
+        "CM1001",
+        "MA2001",
+        "FI2001S"
+      ],
+      "equivalences": [
+        "CM2A4",
+        "FI2004",
+        "IQ2212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3449",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2004",
+      "name": "Termodinámica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 78,
+      "approval_rate": 0.89,
+      "purpose": "El curso de Termodinámica establece los conceptos fundamentales, a nivel macroscópico, de los fenómenos en que intervienen transferencias de energía. \r\nSe muestra que la termodinámica impone restricciones, lo que limita el rendimiento de máquinas y dispositivos, así como la factibilidad de que ocurran ciertos procesos. Se muestra que la solución de problemas de ingeniería y ciencias en el marco del desarrollo sostenible está limitada no solo por la finitud de recursos sino también por las leyes físicas.",
+      "requirements": [
+        "IQ2211",
+        "CM1001",
+        "MA2001",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI2A4",
+        "FI22A",
+        "FI212",
+        "CM2004",
+        "IQ2212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3492",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 9,
+      "code": "MA3801",
+      "name": "Análisis",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.66,
+      "purpose": "El curso tiene como propósito que los y las estudiantes comprendan los elementos básicos de la topología de los espacios métricos, la topología general y los espacios de Banach. \r\n\r\nAdemás, el curso formaliza y generaliza gran parte de los resultados vistos en los cursos matemáticos anteriores, necesitando un nivel de abstracción más alto, que permite rever muchos resultados ya conocidos, como ejemplos de los contenidos de este curso, permitiendo entender como generalizaciones y casos particulares conversan entre sí.",
+      "requirements": [
+        "MA2002"
+      ],
+      "equivalences": [
+        "MA38B",
+        "MA3803"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12826",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "MA3802",
+      "name": "Teoría de la Medida",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.8,
+      "purpose": "El curso tiene como propósito que los y las estudiantes comprendan los elementos básicos de la teoría de la medida e integración: medida, integral, teoremas de convergencia, espacios Lp y dualidad, Teorema de Radon-Nikodym, medida producto, medida de Lebesgue en Rn y las construcciones básicas de medidas en productos infinitos.",
+      "requirements": [
+        "MA3801"
+      ],
+      "equivalences": [
+        "MA48C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3680",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA4801",
+      "name": "Análisis Funcional",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.87,
+      "purpose": "El curso tiene como propósito que los y las estudiantes profundicen su formación en Análisis\r\nFuncional, cuyos elementos básicos se introducen en el curso de Análisis.\r\n\r\nPara ello, se estudian propiedades de los espacios de Banach y de Hilbert y de sus operadores\r\nlineales acotados, poniendo como ejemplo central los espacios Lp, se desarrolla la teoría de\r\nRiesz-Fredholm para operadores compactos y se estudia su descomposición espectral en el caso Hilbertiano.",
+      "requirements": [
+        "MA3802"
+      ],
+      "equivalences": [
+        "MA48D"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3608",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA4401",
+      "name": "Procesos de Markov",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 32,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes conozcan y sepan aplicar los conceptos y resultados básicos de la teoría de cadenas de Markov. En particular, el curso estudiará la clasificación de cadenas y los teoremas límites para cadenas de Markov, así como aplicaciones a los modelos y ejemplos básicos del área, tales como marchas aleatorias, procesos de nacimiento y muerte, procesos de ramificación y modelos de la teoría de colas.",
+      "requirements": [
+        "MA3401",
+        "MA3802"
+      ],
+      "equivalences": [
+        "MA44C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3610",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "MA4703",
+      "name": "Control Óptimo: Teoría y Laboratorio",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 25,
+      "approval_rate": 0.94,
+      "purpose": "El propósito de este curso es que el/la estudiante conozca los fundamentos teóricos y\r\nalgorítmicos de la teoría matemática de control óptimo y la teoría de controlabilidad y\r\noptimización de sistemas dinámicos deterministas descritos en tiempo continuo. Que aprenda y aplique diversos conceptos fundamentales del Control Óptimo, como los criterios de\r\ncontrolabilidad (Kalman), de optimalidad (principio del máximo Pontryagin) y el principio de la\r\nprogramación dinámica. Que desarrolle habilidades computacionales a través de la simulación\r\nnumérica de modelos y de la implementación de métodos para la resolución de problemas de\r\ncontrol óptimo lineales y no lineales, utilizando para ello el software MATLAB, entre los que se\r\nestudiarán la estabilización del péndulo invertido, la gestión óptima de recursos naturales y la\r\ngestión de biorreactores. Adicionalmente, se busca que el/la estudiante fortalezca las siguientes capacidades: destreza en técnicas de modelamiento matemático, análisis de resultados numéricos y síntesis de conclusiones a partir de los mismos, organización y planificación del trabajo individual y en equipo, diseño de estrategias para resolver problemas, habilidades en las relaciones interpersonales, capacidad para comunicar sus ideas y trabajar en grupo.",
+      "requirements": [
+        "MA4801"
+      ],
+      "equivalences": [
+        "MA5702",
+        "MA5703"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4099",
+      "weekly_modules": {
+        "labs": 14,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "MA4802",
+      "name": "Ecuaciones en Derivadas Parciales",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 34,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es introducir una variedad de técnicas y herramientas importantes para el estudio de Ecuaciones de Derivadas Parciales y áreas afines: características, distribuciones, transformada de Fourier, espacios de Sobolev, análisis espectral, además de dar una comprensión en profundidad del comportamiento de las clásicas ecuaciones de la física: la ecuación de Laplace, del calor y de las ondas.",
+      "requirements": [
+        "MA4801"
+      ],
+      "equivalences": [
+        "MA4601",
+        "MA5601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4090",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA4402",
+      "name": "Simulación Estocástica: Teoría y Laboratorio",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.98,
+      "purpose": "El propósito del curso es presentar los fundamentos teóricos y algorítmicos que permiten construir y simular computacionalmente diferentes tipos de modelos estocásticos relevantes, y resolver numéricamente mediante simulación estocástica diversos problemas de interés en ingeniería y ciencias. \r\n\r\nAl final del curso, los y las estudiantes conocen una serie de modelos estocásticos; son capaces de utilizarlos en problemas de modelamiento estocástico en distintos ámbitos; entienden cómo justificar rigurosamente la aproximación de dichos modelos mediante objetos simulables computacionalmente, y son capaces de implementar numéricamente tanto los modelos en sí como algunos algoritmos que permiten su uso en la resolución de problemas de ingeniería y ciencias.",
+      "requirements": [
+        "MA4401"
+      ],
+      "equivalences": [
+        "MA4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4092",
+      "weekly_modules": {
+        "labs": 15,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 9,
+      "code": "MA5307",
+      "name": "Análisis Numérico de Ecuaciones en Derivadas Parciales:Teoría y Laboratorio",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El/la alumno/a aprende la teoría y práctica de los métodos fundamentales de resolución numérica de ecuaciones en derivadas parciales, a saber, los métodos de: diferencias finitas, elementos finitos y volúmenes finitos. \r\n\r\nAsimismo, el/la alumno/a aplica las diferencias finitas a la resolución de problemas de difusión y transporte unidimensionales, los elementos finitos para estudiar en detalle la resolución de problemas elípticos de segundo orden y los volúmenes finitos a problemas elípticos de segundo orden escritos en forma de divergencia. \r\nEl/la alumno/a desarrolla capacidades de cálculo científico mediante la implementación práctica de estos tres métodos a través de laboratorios computacionales y del desarrollo de un proyecto semestral en un ámbito más aplicado y de mayor complejidad.",
+      "requirements": [
+        "MA4802"
+      ],
+      "equivalences": [
+        "MA5301",
+        "MA5303"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6697",
+      "weekly_modules": {
+        "labs": 14,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MA5902",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.98,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las prácticas\r\nprofesionales han sido definidas como hitos evaluativos del Perfil de egreso de la carrera de\r\nla FCFM, pues ellas corresponden a actividades curriculares que permiten evidenciar y\r\nmonitorear el logro de una serie de competencias relevantes comprometidas en dicho\r\nperfil. Además, permite darle la posibilidad a los/las estudiantes de demostrar de manera\r\nauténtica los logros desarrollados en su formación hasta el momento en donde se ubica la\r\npráctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y protagónico,\r\npues tendrá la oportunidad para demostrar desempeños tanto de las competencias\r\nespecíficas de su formación como de las competencias genéricas tales como trabajo en\r\nequipo, comunicación académica y profesional, compromiso ético e innovación. Esta es la\r\nsegunda práctica y considera desempeños observables, considerando el avance curricular\r\ndel/la estudiante.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para vincular\r\nla universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "MA4402",
+        "MA4702",
+        "MA4703",
+        "MA5307"
+      ],
+      "equivalences": [
+        "MA5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5849",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA6907",
+      "name": "Introducción al Trabajo de Titulo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.77,
+      "purpose": null,
+      "requirements": [
+        "MA5307"
+      ],
+      "equivalences": [
+        "MA6908"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MA6902",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MA5902",
+        "MA4703"
+      ],
+      "equivalences": [
+        "MA6901",
+        "MA5903"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5850",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 21,
+      "code": "MA6910",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MA6908",
+        "MA6907",
+        "EI4205",
+        "EI2090"
+      ],
+      "equivalences": [
+        "MA69H"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5851",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 21,
+      "code": "MA6909",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 2,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "MA6908",
+        "MA6907",
+        "EI4205S",
+        "EI2090"
+      ],
+      "equivalences": [
+        "MA69F"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5846",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan3d1c45c2e47e860f74fe2f37c436f139",
+      "name": "CFB",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plancd711fa2d934718bf6405aa0749e631f",
+      "name": "Licenciatura Electivos Matematica",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan049c417ab9c446dd308108f7210c783f",
+      "name": "Formación Integral Licenciatura",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 36,
+      "code": "plan61244b88e965919f494a62c31195778a",
+      "name": "Asignaturas Obligatorias de Especialización",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 36 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan947d82cd9af29884bef790562ab985ba",
+      "name": "Ingenieria Integral Matematica",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan8e067161dfb7a15d829a612d74657505",
+      "name": "Ingeniería Electivos Matematica v4",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 9,
+      "code": "plan2c9b32e0c0707f6b10993b1254aa3a93",
+      "name": "Formación Integral FG/EH",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 9 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

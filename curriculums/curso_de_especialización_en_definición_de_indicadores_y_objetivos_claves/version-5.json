@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Definición de Indicadores y Objetivos Claves",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPDIOC01",
+      "name": "Definición de Indicadores y Objetivos Claves",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

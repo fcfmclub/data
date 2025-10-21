@@ -1,0 +1,57 @@
+{
+  "name": "Diploma de Postítulo en Estrategias y Control de Gestión",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIECG002",
+      "name": "Control de Gestión",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIECG001",
+      "name": "Planificación Estratégica",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIECG003",
+      "name": "Taller Cierre",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

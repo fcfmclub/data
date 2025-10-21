@@ -1,0 +1,1965 @@
+{
+  "name": "Ingeniería Civil en Biotecnología",
+  "version": 2,
+  "courses": [
+    {
+      "credits": 5,
+      "code": "BT62A",
+      "name": "Bioética",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "BT52A",
+        "BT741"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2300",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "BT62B",
+      "name": "Bioética Legislación y Validación",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT52A",
+        "BT741"
+      ],
+      "equivalences": [
+        "BT6601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2301",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT41A",
+      "name": "Biología Molecular I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "BT35A",
+        "BT30A",
+        "FI33A"
+      ],
+      "equivalences": [
+        "BT4103"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2308",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT41B",
+      "name": "Biología Molecular II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "FI33A",
+        "BT35A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT51A",
+      "name": "Biología Molecular II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "BT41A"
+      ],
+      "equivalences": [
+        "BT4104"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT35A",
+      "name": "Bioquímica General",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "QI34B",
+        "BT34A",
+        "SD20A",
+        "BT30A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "BT3101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2296",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT57A",
+      "name": "Enzimología y Estructura de Proteínas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "BT35A",
+        "BT41B",
+        "BT51A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2309",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT57B",
+      "name": "Enzimología y Estructuras de Proteínas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 9,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT41B",
+        "BT51A"
+      ],
+      "equivalences": [
+        "BT5302"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2298",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT735",
+      "name": "Estructura de Proteínas y Enzimas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "BT35A",
+        "BT41B",
+        "BT51A"
+      ],
+      "equivalences": [
+        "BT57B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2303",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT741",
+      "name": "Fermentación e Ingeniería Metabólica",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "BT52A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2307",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT52A",
+      "name": "Ingeniería Metabólica y Fermentación",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "BT45A"
+      ],
+      "equivalences": [
+        "BT741",
+        "BT5301"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "BT69E",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "CR288",
+        "EI21A",
+        "EH09A",
+        "EI004",
+        "EI20A",
+        "EH050",
+        "EH052",
+        "EI005"
+      ],
+      "equivalences": [
+        "BT6908"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ736",
+      "name": "Laboratorio Avanzado de Procesos Biotecnológicos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "BT50C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1576",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT50C",
+      "name": "Laboratorio de Procesos Biotecnológicos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT45A"
+      ],
+      "equivalences": [
+        "IQ736",
+        "BT5801"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT45A",
+      "name": "Microbiología",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "BT30A",
+        "BT35A",
+        "FI34A"
+      ],
+      "equivalences": [
+        "BT4201"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "BT69A",
+      "name": "Práctica Profesional III",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "BT51A",
+        "BT59A"
+      ],
+      "equivalences": [
+        "IQ69A",
+        "BT6903",
+        "IQ6903",
+        "BT6901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2312",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ742",
+      "name": "Procesos Biotecnológicos y de Separación",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "BT56A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1577",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT65A",
+      "name": "Taller de Diseño de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 9,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT57A",
+        "BT57B",
+        "BT735",
+        "BT52A",
+        "IQ742"
+      ],
+      "equivalences": [
+        "BT5701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2302",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "BT66A",
+      "name": "Taller de Diseño de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "BT742S",
+        "IN42A",
+        "BT735",
+        "BT57A",
+        "BT57B",
+        "BT52A",
+        "BT741"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "BT66B",
+      "name": "Taller de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 3,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT56A",
+        "IN42A"
+      ],
+      "equivalences": [
+        "BT66C"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT66C",
+      "name": "Taller de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 13,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT56A",
+        "IN42A"
+      ],
+      "equivalences": [
+        "BT66D"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 22,
+      "code": "BT69H",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT69E",
+        "EH09A"
+      ],
+      "equivalences": [
+        "BT6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 22,
+      "code": "BT69F",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 4,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "BT69E",
+        "EH09A",
+        "EI20A",
+        "EI29A",
+        "CR320"
+      ],
+      "equivalences": [
+        "BT6909"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA11A",
+      "name": "Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 113,
+      "approval_rate": 0.65,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA111",
+        "MA112",
+        "MA11B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=19",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "MA12A",
+      "name": "Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 116,
+      "approval_rate": 0.61,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "MA120",
+        "MA121",
+        "MA12B"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=21",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 12,
+      "code": "CC10A",
+      "name": "Computación I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 108,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC151",
+        "MA151",
+        "CC10B",
+        "CC1001",
+        "CC100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=14",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "FI10A",
+      "name": "Introducción a la Física",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 110,
+      "approval_rate": 0.71,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "FI101",
+        "FI111",
+        "FI10B",
+        "FI1001",
+        "FI100",
+        "FI1002",
+        "FI1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2668",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA22A",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA022",
+        "MA122",
+        "MA123",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1681",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26A",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6010",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI19A",
+      "name": "Examen de Suficiencia I en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 124,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI1090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI25A",
+      "name": "Laboratorio de Física I",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI121",
+        "FI214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2691",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI21A",
+      "name": "Química Moderna",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 72,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "CC10A",
+        "FI10A",
+        "MA11A",
+        "MA12A"
+      ],
+      "equivalences": [
+        "QI112",
+        "QI212"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1544",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA33A",
+      "name": "Cálculo Numérico",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI3104",
+        "MA360",
+        "MA467",
+        "MA536",
+        "MA537",
+        "MA231",
+        "MA262",
+        "MA263",
+        "MA331",
+        "MA332",
+        "MA369"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1752",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI29A",
+      "name": "Examen de Suficiencia II en Inglés",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 107,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI19A"
+      ],
+      "equivalences": [
+        "EI2090",
+        "EH09A"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA26B",
+      "name": "Matemáticas Aplicadas",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 86,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2763",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21A",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.74,
+      "purpose": null,
+      "requirements": [
+        "FI10A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI122",
+        "FI123",
+        "FI215",
+        "FI2A1"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2677",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34A",
+      "name": "Probabilidades y Procesos Estocásticos",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 81,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "MA22A"
+      ],
+      "equivalences": [
+        "MA343"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6019",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT30A",
+      "name": "Biología y Biotecnología",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "QI21A",
+        "FI21A",
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2291",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA34B",
+      "name": "Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA34A"
+      ],
+      "equivalences": [
+        "MA344",
+        "MA444",
+        "MA340",
+        "MA3402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=59",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI22A",
+      "name": "Física Estadística",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 98,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A"
+      ],
+      "equivalences": [
+        "FI212",
+        "FI2A4",
+        "FI2004",
+        "CM2004",
+        "CM2A4"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2684",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "SD20A",
+      "name": "Seminario de Diseño",
+      "department": {
+        "name": "Departamento de Ingeniería Mecánica",
+        "code": "DIMEC",
+        "id": 22
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "FI25A",
+        "MA22A",
+        "MA26A",
+        "QI21A"
+      ],
+      "equivalences": [
+        "ME104",
+        "ME160",
+        "SD15A",
+        "EI2A1",
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI21B",
+      "name": "Sistemas Dinámicos",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 95,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "FI21A",
+        "MA22A",
+        "MA26A"
+      ],
+      "equivalences": [
+        "FI013",
+        "FI014",
+        "FI216",
+        "FI313",
+        "FI316",
+        "FI3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2675",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT31B",
+      "name": "Biología Celular",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "QI21A",
+        "SD20A",
+        "BT30A"
+      ],
+      "equivalences": [
+        "BT3102"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI33A",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.79,
+      "purpose": null,
+      "requirements": [
+        "FI21B",
+        "MA26A",
+        "MA26B"
+      ],
+      "equivalences": [
+        "FI022",
+        "FI222",
+        "FI224",
+        "FI303",
+        "FI302",
+        "FI2A2",
+        "FI2002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2688",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ36A",
+      "name": "Fenómenos de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 55,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "MA26A",
+        "FI21B",
+        "FI22A",
+        "MA26B",
+        "QI21A"
+      ],
+      "equivalences": [
+        "MI31A",
+        "IQ3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2328",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI32A",
+      "name": "Fisicoquímica I",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "QI21A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1592",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN34A",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "SD20A"
+      ],
+      "equivalences": [
+        "MA441",
+        "MA473",
+        "IN340",
+        "IN341",
+        "IN343",
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=624",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI34A",
+      "name": "Física Contemporánea",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "FI22A",
+        "CM2004",
+        "QI21A",
+        "FI21B",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI314",
+        "FI336",
+        "FI322",
+        "FI3102",
+        "FI312"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2689",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT46A",
+      "name": "Física Química de Biomoléculas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "QI32A"
+      ],
+      "equivalences": [
+        "QI42Z"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2293",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "QI42Z",
+      "name": "Fisicoquímica Aplicada",
+      "department": {
+        "name": "Departamento de Química Básica",
+        "code": "QI",
+        "id": 26
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "QI223",
+        "QI32A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1619",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "FI35A",
+      "name": "Laboratorio de Física II",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 26,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI25A",
+        "FI2002S"
+      ],
+      "equivalences": [
+        "FI011",
+        "FI211",
+        "FI304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2690",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "IQ53C",
+      "name": "Laboratorio de Ingeniería Química I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 24,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IQ36A",
+        "IQ3202"
+      ],
+      "equivalences": [
+        "IQ4801",
+        "IQ53A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2334",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "IQ48A",
+      "name": "Operaciones Mecánicas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "IQ36A",
+        "MA34A"
+      ],
+      "equivalences": [
+        "IQ56B",
+        "IQ4304"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2332",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "BT49A",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "BT30A"
+      ],
+      "equivalences": [
+        "BT4901",
+        "IQ49A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2310",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ35A",
+      "name": "Termodinámica Aplicada",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "QI32A"
+      ],
+      "equivalences": [
+        "IQ352",
+        "IQ355",
+        "IQ356",
+        "QI355",
+        "IQ3201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2701",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ40A",
+      "name": "Análisis de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 21,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "QI32A",
+        "IQ35A",
+        "FI34A",
+        "FI33A"
+      ],
+      "equivalences": [
+        "IQ350",
+        "IQ3301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2715",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN41A",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [
+        "EH09A",
+        "EI19A",
+        "MA33A",
+        "FI34A"
+      ],
+      "equivalences": [
+        "IN302",
+        "IN303",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=637",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 7,
+      "code": "BT59A",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 7,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "BT49A",
+        "BT31B"
+      ],
+      "equivalences": [
+        "IQ59A",
+        "IQ5901",
+        "BT59A",
+        "BT5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2311",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ55C",
+      "name": "Reactores Químicos y Bioquímicos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "MA26B",
+        "BT46A"
+      ],
+      "equivalences": [
+        "IQ55A",
+        "IQ4305"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2338",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "BT56A",
+      "name": "Separación y Procesos Biotecnológicos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "IQ36A",
+        "IQ3202",
+        "BT46A",
+        "QI42Z",
+        "IQ3203"
+      ],
+      "equivalences": [
+        "BT5304",
+        "IQ742"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN42A",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 71,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "EI19A",
+        "EH09A",
+        "IN41A",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=668",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ54A",
+      "name": "Instrumentación de Procesos Industriales",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "FI34A",
+        "FI35A"
+      ],
+      "equivalences": [
+        "IQ555",
+        "IQ57B",
+        "IQ5441"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2335",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ56A",
+      "name": "Operaciones de Transferencia II",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "IQ36A",
+        "IQ3202",
+        "IQ40A",
+        "IQ3301"
+      ],
+      "equivalences": [
+        "BT5303",
+        "IQ4303"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ57A",
+      "name": "Dinámica y Control de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [
+        "IQ46B",
+        "IQ54A",
+        "IQ55C",
+        "MA33A"
+      ],
+      "equivalences": [
+        "IQ573",
+        "IQ5307"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2339",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN47A",
+      "name": "Gestión de Operaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 66,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "ME53A",
+        "IQ36A",
+        "MI31A",
+        "MA340",
+        "MA34B",
+        "IN34A",
+        "MA37A"
+      ],
+      "equivalences": [
+        "IN4703",
+        "IN75N"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=725",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "IQ58A",
+      "name": "Taller de Diseño de Procesos",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "IQ46A",
+        "IQ46B",
+        "IQ56A",
+        "IN42A",
+        "IN34A"
+      ],
+      "equivalences": [
+        "IQ58B"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 8,
+      "code": "BT66D",
+      "name": "Taller de Proyecto",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 13,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "BT56A",
+        "IN42A"
+      ],
+      "equivalences": [
+        "IQ66C",
+        "IQ6702",
+        "BT6702",
+        "BT66C"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 14,
+      "code": "planef6b984e8daf7cfc2118a53150218e89",
+      "name": "Ingeniería Civil en Biotecnología Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 14 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan507c325af25053615482836d8b23d0a2",
+      "name": "Licenciatura Biotecnología Electivos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "plan1b92ef24fc0a33f56a9c6f6da18ef66f",
+      "name": "Electivos Libres",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 5 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "planb5771df0098e7fc2ce3a8f0eba7058fe",
+      "name": "Ingles Electivos Ingenieria",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 15 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 11,
+      "code": "planebf42b9dbb82e0fd03e8c7835aeb4212",
+      "name": "Humanistas y Formación General",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 11 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "plan3b137d06b27773316ccc271df2078e8d",
+      "name": "Electivos Ingles Licenciatura",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 15 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}
