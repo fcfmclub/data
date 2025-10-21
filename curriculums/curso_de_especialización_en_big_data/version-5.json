@@ -1,0 +1,29 @@
+{
+  "name": "Curso de Especialización en Big Data",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "CC66I",
+      "name": "Big Data",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC66F"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=33569",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

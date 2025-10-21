@@ -1,0 +1,176 @@
+{
+  "name": "Diploma de Postítulo en Ingeniería del Caving",
+  "version": 20211,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPMINAIC08",
+      "name": "Análisis de Proyectos de Caving",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC02",
+      "name": "Caracterización Geotécnica y Preacondicionamiento",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC04",
+      "name": "Diseño Minero",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC09",
+      "name": "Estudio de Caso, Presentaciones Finales",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC03",
+      "name": "Fundamentos Geomecánicos y Aplicación",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC01",
+      "name": "Introducción",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC07",
+      "name": "Planificación Minera",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC10",
+      "name": "Taller de Sustentabilidad",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC05",
+      "name": "Tronadura y Excavación en Roca",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINAIC06",
+      "name": "Ventilación de Minas",
+      "department": null,
+      "students_per_course": 15,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

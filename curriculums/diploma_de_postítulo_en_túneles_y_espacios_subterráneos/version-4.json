@@ -1,0 +1,244 @@
+{
+  "name": "Diploma de Postítulo en Túneles y Espacios Subterráneos",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "DPDICTES03",
+      "name": "Bases de Diseño de Obras Subterráneas",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES05",
+      "name": "Construcción de Túneles con Métodos Convencionales",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES07",
+      "name": "Construcción de Túneles con Métodos Mecanizados",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES04",
+      "name": "Diseño Geotécnico Estructural de Túneles",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICTES42",
+      "name": "Diseño de Túneles con Métodos Analíticos y Empíricos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES06",
+      "name": "Instrumentación y Monitoreo de Obras Subterráneas",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES02",
+      "name": "Investigación y Caracterización Geológica y Geotécnica",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES01",
+      "name": "Planificación y Sustentabilidad del Espacio Subterráneo",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES21",
+      "name": "Seminario de Dirección de Proyectos de Obras Subterráneas",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES22",
+      "name": "Seminario de Gestión Contractual de Proyectos de obras Subterráneas",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES08",
+      "name": "Sistemas e Instalaciones en Espacios Subterráneos",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES12",
+      "name": "Taller de Construcción de Obras Subterráneas",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDICTES11",
+      "name": "Taller de Proyecto de Obras Subterráneas",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDICTES41",
+      "name": "Teoría de Túneles",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

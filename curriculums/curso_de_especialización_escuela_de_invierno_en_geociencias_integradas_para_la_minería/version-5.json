@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Escuela de Invierno en Geociencias Integradas para la Minería",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEMINEIGIM01",
+      "name": "Escuela de Invierno en Geociencias Integradas para la Minería",
+      "department": null,
+      "students_per_course": 183,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

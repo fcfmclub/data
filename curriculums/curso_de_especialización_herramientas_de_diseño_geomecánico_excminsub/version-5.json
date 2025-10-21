@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Herramientas de Diseño Geomecánico Exc.Min.Sub.",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEMINHDGEO01",
+      "name": "Herramientas de Diseño Geomecánico para Excavaciones en Minería Subterránea",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Minor en Ciencia de los Datos",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CC3201",
+      "name": "Bases de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 63,
+      "approval_rate": 0.92,
+      "purpose": "El propósito del curso es que los y las estudiantes aprendan a modelar, gestionar, consultar y analizar datos estructurados, usando las técnicas principales de Bases de Datos (modelos de datos, el modelo relacional, el modelo entidad-relación, el álgebra relacional, el lenguaje SQL, sistemas de bases de datos). \r\n\r\nAl finalizar el curso, los/las estudiantes serán capaces de, a partir de diferentes conjuntos o fuentes de datos, extraer determinados datos, elegir un modelo apropiado, diseñar un esquema y estructura conceptual, usar un sistema, para manejar y consultar dichos datos, que favorezca la construcción de aplicaciones eficientes y seguras a partir de la base de datos resultante. Además, los y las estudiantes utilizarán modelos de datos no tradicionales, basados en árboles y grafos, para representar datos diversos e incompletos.\r\n\r\nPara impartir estas habilidades, se complementarán clases teóricas con tareas prácticas en clase y proyectos grupales que incorporen datos diversos y fomenten familiaridad con los sistemas de bases de datos más populares en la práctica. Además, se reforzarán los requisitos importantes de los sistemas de datos, que van más allá de su eficiencia, como por ejemplo la importancia de tomar medidas de seguridad para asegurar la privacidad de sus usuarios, etc.",
+      "requirements": [
+        "CC3001"
+      ],
+      "equivalences": [
+        "CC42A",
+        "CC432",
+        "CC705"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3499",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC5206",
+      "name": "Introducción a la Minería de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 36,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "CC3001",
+        "FI2002"
+      ],
+      "equivalences": [
+        "CC71Q",
+        "CC5205"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4589",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plan5023d3eec8d2305245231f343ee95493",
+      "name": "Electivos Minor Ciencia de los Datos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

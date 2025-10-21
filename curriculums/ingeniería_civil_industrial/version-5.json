@@ -1,0 +1,1222 @@
+{
+  "name": "Ingeniería Civil Industrial",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN3231",
+      "name": "Análisis Financiero y Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 15,
+      "code": "IN6930",
+      "name": "Proyecto de Memoria de título",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "IN6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 15,
+      "code": "IN6193",
+      "name": "Proyecto de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.96,
+      "purpose": "El propósito general del Proyecto de Título es que el/la estudiante demuestre habilidades para identificar, conceptualizar y proponer alternativas para resolver un problema complejo al interior de una organización como parte de un equipo, agregando valor y aplicando los conocimientos adquiridos en la carrera.\r\n\r\nEl/la estudiante genera un documento que describe el proyecto; sus objetivos y alcances; y su rol dentro del mismo. En este además analiza la metodología utilizada en su trabajo, y en las conclusiones plantea alternativas de solución o de extensión del proyecto global. \r\n\r\nNota: Los resultados son aquellos que se han obtenidos hasta el momento en el que el estudiante termina la práctica, entendiendo que el proyecto en el cual se insertó puede extenderse más allá de lo que contempla su periodo de participación. \r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Diseño de una solución concreta al proyecto en el que el estudiante participa. \r\n-Implementación de la solución en la empresa u organización en la cual el estudiante está inserto. \r\n-Análisis crítico de las soluciones y su implementación, así como su impacto global en diferentes dimensiones. \r\n-Escritura de informes que documenten los avances del proyecto y presentaciones expongan la información relevante.",
+      "requirements": [
+        "CR300"
+      ],
+      "equivalences": [
+        "IN6193P"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160950",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3141",
+      "name": "Probabilidades",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 79,
+      "approval_rate": 0.83,
+      "purpose": "El propósito del curso de probabilidades es que los y las estudiantes comprendan y utilicen los diferentes conceptos básicos de la teoría de probabilidades tales como, axiomas fundamentales, métodos de conteo, distribuciones, teoremas límites, entre otros; y así también el identificar y aplicar dichos conceptos en contextos reales tanto de la vida real como en las diversas aplicaciones de la ingeniería. En consecuencia, el curso posee una línea tanto desde el aspecto teórico como aplicado.\r\n\r\nEl curso de probabilidades está inserto dentro del primer semestre del tercer año de la carrera, o bien el equivalente al primer semestre de ingeniería industrial. Los conceptos y habilidades a desarrollar se encuentran presentes en números cursos posteriores de la carrera. Ejemplos de lo anterior son los siguientes cursos de la especialidad de Ingeniería Civil Industrial: Decisiones bajo Incertidumbre, Teoría de Juegos y Estrategia, Estadística, Análisis de Datos e Inferencia Causal, Gestión de Operaciones, Marketing, y Finanzas, Ingeniería de la información, entre otros.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "MA3403",
+        "MA3401",
+        "EL3104"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=70161",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3242",
+      "name": "Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 76,
+      "approval_rate": 0.92,
+      "purpose": "El curso de Estadística, ubicado en el VI semestre de la licenciatura, es obligatorio para la carrera de Ingeniería Industrial. Su propósito central es que los y las estudiantes aprendan conceptos y herramientas de inferencia y modelamiento estadístico aplicables a la resolución de problemas en el ámbito de la economía. \r\nSe espera que los y las estudiantes alcancen un manejo intermedio de software estadísticos y con ello puedan realizar estimaciones de modelos empíricos basados en datos reales, proponiendo sugerencias técnicas que optimicen el proceso de toma de decisiones económicas.",
+      "requirements": [
+        "IN3141"
+      ],
+      "equivalences": [
+        "IN3401"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=83633",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3301",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.9,
+      "purpose": "El curso se encuentra en el VI semestre de la carrera. Este curso de  tiene como propósito que los y las estudiantes puedan calcular el valor de un proyecto de inversión, a partir del análisis y uso de datos reales, de su estructuración en estados financieros contables (Balance, Estado de Resultados, Flujo de Caja), del diseño de estrategias financieras derivadas del diagnóstico y del uso de herramientas matemáticas financieras, desde una perspectiva tanto privada, de evaluación de negocios, como social en el caso de proyectos públicos de inversión. \r\n\r\nEl curso trabaja con una metodología activo - participativa, donde los y las estudiantes construyen su aprendizaje, en pro de desarrollar herramientas tanto de carácter económico- financiero como de trabajo en equipo. Lo anterior, incluye manejo de teoría, análisis de casos prácticos, con ejemplos de la vida cotidiana. El o la docente guía las discusiones, generando espacios de reflexión acerca del marco teórico y su aplicación, con una retroalimentación constante a los estudiantes.",
+      "requirements": [
+        "IN2201",
+        "IN3141",
+        "MA3403",
+        "MA3401"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3480",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4123",
+      "name": "Macroeconomía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 72,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que los y las estudiantes analicen la actividad económica del país, relacionando conceptos de macroeconomía tales como inflación, desempleo y crecimiento económico, a corto y a mediano plazo. Junto con ello, examina discusiones sobre diversas políticas económicas para el país, basándose en teorías macroeconómicas que permitan aplicar modelos en el contexto nacional y global.\r\n\r\nLa metodología del curso es activo-participativa, de modo que los y las estudiantes construyan su aprendizaje en base al análisis de teorías y de evidencia empírica. El o la docente es un mediador que guía las discusiones y genera espacios de conversación, retroalimentando a los y las estudiantes de manera permanente.",
+      "requirements": [
+        "IN2201",
+        "IN3141",
+        "MA3403"
+      ],
+      "equivalences": [
+        "IN4203"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=88378",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3171",
+      "name": "Modelamiento y Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.86,
+      "purpose": "El curso, que se ubica en el V semestre de la licenciatura, tiene como propósito que los y las estudiantes identifiquen y analicen problemas de optimización y que construyan modelos que permita mejorar la eficiencia en la toma de decisiones. Para ello, utilizan herramientas tecnológicas diseñadas para obtener soluciones frente a diversos problemas.\r\n\r\nLa importancia de este curso radica en el hecho de que aporta a la formación de los y las estudiantes al proveer herramientas conceptuales que permiten identificar situaciones a las que se debe dar solución o que pueden ser mejoradas. Estos aprendizajes son transeversales a la formación, puesto que el/la estudiante pueden determinar cuáles son las falencias en el proceso de toma de decisiones frente a un problema o qué procesos pueden ser mejorados.",
+      "requirements": [
+        "MA2002"
+      ],
+      "equivalences": [
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=70165",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3101",
+      "name": "Taller de Liderazgo e Innovación Social",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.99,
+      "purpose": "El curso IN3101, Taller de Liderazgo e Innovación Social, tiene como objetivo principal que los estudiantes incrementen la consciencia de sí y de mundo, reflexionando e incrementando habilidades socio-emocionales, directivas, y políticas que promuevan un desempeño eficaz y ético en sus vidas laborales, personales y en cuanto ciudadanos democráticos. \r\nPara facilitar y potenciar estos aprendizajes, los estudiantes trabajan en proyectos de innovación social en comunidades de entre 15 a 20 personas. En el proceso, los estudiantes aprenden a construir confianza, coordinarse a través de la gestión de compromisos, trabajar en equipo y en alianza con actores y organizaciones del medio externo a la Universidad. Se evaluará el cumplimiento de las prácticas de gestión a nivel personal y dentro de cada comunidad.\r\nAl participar de talleres semanales, los estudiantes trabajarán estrategias para desarrollar habilidades y aumentar su repertorio de acciones en contextos de difícil coordinación y de incertidumbre. Por ello, las clases tendrán una estructura teórico-práctica, en las cuales se realizarán trabajos individuales y por equipo, y se revisará el avance del diseño y la implementación de las innovaciones sociales del semestre.",
+      "requirements": [
+        "CD2201"
+      ],
+      "equivalences": [
+        "IN3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=70869",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3221",
+      "name": "Teoría de Juegos y Estrategia",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 74,
+      "approval_rate": 0.91,
+      "purpose": "El curso Teoría de Juegos y Estrategia, tiene como propósito que los y las estudiantes analicen estratégicamente situaciones reales, tanto del mundo de los negocios como de diversas organizaciones e instituciones. Para ello, analizan temas de la teoría de juegos y de la economía de la información. El énfasis del curso está en el análisis teórico de las interacciones, de donde se infieren implicancias prácticas para la toma de decisiones y posibles regulaciones en el ámbito de las políticas públicas.\r\n\r\nLa metodología del curso es activo-participativa. Los y las estudiantes construyen de manera activa su aprendizaje, resolviendo ejemplos, analizando casos, y participando en experimentos en clases. El o la docente guían el trabajo de sus estudiantes, generando espacios de conversación sobre estos temas, retroalimentando constantemente a los estudiantes. Es preciso señalar que las lecturas, tanto complementarias como obligatorias, serán parte de las discusiones en clases.",
+      "requirements": [
+        "IN2201",
+        "IN3141"
+      ],
+      "equivalences": [
+        "IN3202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=83625",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4143",
+      "name": "Análisis de Datos e Inferencia Causal",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 69,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen distintas técnicas avanzadas, estadísticas, econométricas y de machine learning, a fin de generar una mejor calidad de información y mejorar la toma de decisiones. Para esto, utiliza modelos de análisis de datos para interpretar inferencias causales en casos aplicados a gestión, economía y políticas públicas, entre otros.\r\n\r\nFinalmente, los y las estudiantes utilicen y apliquen métodos y software de análisis de datos, pudiendo interpretar resultados, los que explica de manera clara y argumentada.",
+      "requirements": [
+        "IN3242",
+        "IN3401"
+      ],
+      "equivalences": [
+        "IN4402"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=88382",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3272",
+      "name": "Decisiones Bajo Incertidumbre",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 77,
+      "approval_rate": 0.87,
+      "purpose": null,
+      "requirements": [
+        "IN3171",
+        "MA3701",
+        "IN3141",
+        "MA3403"
+      ],
+      "equivalences": [
+        "IN3702"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=152550",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4232",
+      "name": "Finanzas",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 69,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito introducir a los y las estudiantes al análisis financiero moderno aplicado para la valoración de activos, análisis de riesgos, decisiones de inversión y financiamiento. Por medio de conceptos de finanzas y estructura del sistema financiero se utilizan modelos para la toma de decisiones en el contexto de la gestión de las finanzas corporativas de empresas e instituciones públicas.\r\n\r\nLa metodología del curso es activo-participativa; los y las estudiantes construyen activamente su aprendizaje, en pro de desarrollar herramientas para la toma de decisiones financieras dentro de la empresa. Esto incluye un trabajo desde la teoría y la práctica, aplicable a ejemplos reales, donde el docente guía las discusiones, generando los espacios de conversación, retroalimentando constantemente a los estudiantes.",
+      "requirements": [
+        "IN3301",
+        "IN3242"
+      ],
+      "equivalences": [
+        "IN4302"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116486",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4273",
+      "name": "Gestión de Operaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 87,
+      "approval_rate": 0.98,
+      "purpose": "El curso Gestión de Operaciones tiene como propósito que los y las estudiantes conozcan la función de la gestión de operaciones y su rol en el funcionamiento de las organizaciones. Se estudian tópicos fundamentales de la gestión de operaciones, como análisis de procesos, manejo de inventario, problemas de localización, transporte, ruteo, entre otros.  Cada área se estudia desde su aspecto cualitativo como también cuantitativo. Dentro del aspecto cualitativo, se expone a los y las estudiantes los objetivos de cada área de estudio, los agentes y variables relevantes, y la conexión con otras áreas de la empresa u organización. En el aspecto cuantitativo, se aplican herramientas matemáticas como programación lineal, simulación, probabilidades,  que permiten modelar, estimar, y/u optimizar problemas de la gestión de operaciones.\r\n\r\nLa metodología de aprendizaje es activo. Mediante el análisis de una serie de casos de estudio reales, los estudiantes interactúan entre sí y con el profesor, proponiendo soluciones a un caso estudiado, mediante el uso de aspectos conceptuales de la gestión de operaciones. El docente es un mediador que guía la discusión y reflexión de los estudiantes. Además, se consta de tareas, tanto conceptuales, teóricas, como computacionales donde el alumno aplica los conceptos a una problemática de un tópico en particular.\r\n\r\nCada actividad o propuesta de trabajo es una oportunidad para aplicar lo aprendido en otros contextos y situaciones, promoviendo con ello una mayor responsabilidad y autorregulación por parte del estudiante.",
+      "requirements": [
+        "IN3171",
+        "IQ3111",
+        "MA3701",
+        "IN3242",
+        "MA3403"
+      ],
+      "equivalences": [
+        "IN4703"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116494",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4151",
+      "name": "Ingeniería de la Información",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 53,
+      "approval_rate": 0.95,
+      "purpose": "El curso tiene como propósito que los y las estudiantes seleccionen y usen modelos de analítica de negocios provenientes de la ciencia de los datos y de la información, para mejorar la efectividad operacional y eficiencia de las organizaciones de los sectores públicos y privados, considerando sus necesidades de gestión de información. Para ello, adquieren habilidades para el diseño de modelos de datos utilizando los enfoques relacionales y NoSQL. Además identifican y aplican modelos supervisados y no supervisados de la ciencia de datos respondiendo a los problemas canónicos de gestión del desempeño organizacional, utilizando metodologías para la extracción de patrones de conocimiento. Finalmente, diseñan indicadores de desempeño organizacional a partir de un problema de gestión y los implementan utilizando diversas herramientas de visualización.",
+      "requirements": [
+        "IN3171",
+        "IN3701",
+        "IN3242",
+        "IN3401",
+        "CC1002"
+      ],
+      "equivalences": [
+        "IN3501"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=88386",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4261",
+      "name": "Marketing",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 67,
+      "approval_rate": 0.98,
+      "purpose": "El Marketing ayuda a generar valor para los clientes, contribuyendo así a garantizar la solidez de uno de los activos más valiosos de una organización. En este contexto, el curso Marketing proporciona algunas de las técnicas de análisis básicas de marketing que las empresas utilizan para generar valor para sus clientes.\r\n\r\nEl propósito principal de este curso es que los y las estudiantes den lineamientos sobre los medios mediante los cuales la empresa puede crear y satisfacer necesidades de los clientes. Para ello, en términos básicos, se debe evaluar la situación actual de la empresa que incluye el análisis del cliente, la compañía y la competencia (las 3 C`s), para proyectar el trabajo de la organización. En consecuencia, se necesita diseñar un plan que involucre decisiones estratégicas y tácticas, considerando diversos criterios y una serie de etapas de procesos para la toma de decisiones en beneficio de la empresa y de la organización.\r\n\r\nAsimismo, los y las estudiante construyen su aprendizaje analizando situaciones y comprendiendo que la toma de decisiones de marketing (segmentación, targeting, posicionamiento, producto, precio, promoción) requiere de un entendimiento profundo de la situación de la empresa (clientes, compañía y competencia). En este contexto, el docente es un mediador del aprendizaje al resolver y corregir dudas sobre estos temas.",
+      "requirements": [
+        "IN3171",
+        "IN3242",
+        "IN3301"
+      ],
+      "equivalences": [
+        "IN4601"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116490",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN4102",
+      "name": "Taller de Concepción y Diseño de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 23,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que estudiantes profundicen en la investigación de un ámbito y que sean capaces de identificar problemas y oportunidades fundados en un conocimiento integral de este espacio de investigación, y que, a partir de esto, se propongan desafíos de transformación generando ideas y soluciones nuevas, y que finalmente, tengan la posibilidad de diseñar y probar a través de iteraciones de prototipos, considerando cómo estas ideas son recibidas por las personas involucradas.\r\n\r\nEl curso tiene como propósito que los y las estudiantes observen la realidad con una mirada crítica, pudiendo identificar problemas y oportunidades en su entorno para formular desafíos dentro de un ámbito u organización, para luego proponer ideas y soluciones que generen valor en el entorno que se encuentran inmersos desde la mirada de un ingeniero industrial.",
+      "requirements": [
+        "IN3171",
+        "IN3701",
+        "IN3101",
+        "IN3001"
+      ],
+      "equivalences": [
+        "IN4002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89078",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN5112",
+      "name": "Dirección Estratégica",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 67,
+      "approval_rate": 0.98,
+      "purpose": "El curso Dirección estratégica tiene como propósito que el estudiantado aborde la problemática estratégica que enfrentan las organizaciones privadas (empresas) y públicas (organismos del Estado y ONGs), las que se desenvuelven en un contexto cada vez más complejo, por efecto de la globalización, la cuarta revolución industrial y los cambios sociales, los que modifican los comportamientos de las personas, acelerando y profundizando los cambios, los que afectan los modelos de negocios y los modelos de gestión. \r\n\r\nPor otra parte, las organizaciones son también más complejas por su tamaño y exigencias que enfrentan sus clientes, reguladores, colaboradores y competencia.\r\n\r\nEn este contexto, se espera que los/las estudiantes revisen y analicen conceptos y metodologías para tomar decisiones con perspectiva estratégica  largo plazo, objetivos últimos y totalidad de la organización , a fin de crear valor para los clientes, los trabajadores y los accionistas; sin descuidar el medio ambiente ni el contexto ciudadano en el que se desenvuelven. Finalmente, la digitalización juega un rol cada vez más importante, por lo que se introduce el concepto de ecosistemas digitales. \r\n\r\nLa metodología del curso es activo  participativa. Se busca que los y las estudiantes se apropien de conocimientos y desarrollen habilidades de gestión (trabajo en equipo, comunicación, la integración de economía, procesos, analytics y teoría competitiva, filosofía política) con visión global y enfoque sistémico y económico, humanista y científico; para lo cual trabajan en equipo y con comunicación profesional. Para ello, se privilegia la participación de los y las estudiantes, vinculando los conceptos con su aplicación a problemas y situaciones reales, tanto nacionales como internacionales. Asimismo, el estudiante aporta en clases, mediante la preparación de lecturas para cada sesión, así como de la lectura de la prensa durante los fines de semana. \r\n\r\nEl cuerpo docente acompaña el proceso de aprendizaje, ayudando a el/la estudiante a resolver dudas, corregir, a reflexionar y tomar conciencia sobre el mundo de las organizaciones y sus procesos de transformación con perspectiva estratégica.",
+      "requirements": [
+        "IN4273",
+        "IN4261",
+        "IN4232"
+      ],
+      "equivalences": [
+        "IN5003"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=126382",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "IN4191",
+      "name": "Práctica Profesional",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 162,
+      "approval_rate": 1.0,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las\r\nprácticas profesionales han sido definidas como hitos evaluativos del Perfil de egreso\r\nde la carrera de la FCFM, pues ellas corresponden a actividades curriculares que\r\npermiten evidenciar y monitorear el logro de una serie de competencias relevantes\r\ncomprometidas en dicho perfil. Además, permite darle la posibilidad a los/las\r\nestudiantes de demostrar de manera auténtica los logros desarrollados en su\r\nformación hasta el momento en donde se ubica la práctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y\r\nprotagónico, pues tendrá la oportunidad para demostrar desempeños tanto de las\r\ncompetencias específicas de su formación como de las competencias genéricas tales\r\ncomo trabajo en equipo, comunicación académica y profesional, compromiso ético e\r\ninnovación.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para\r\nvincular la universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "IN3242",
+        "IN3101",
+        "IN3301",
+        "IN3171",
+        "FI2004",
+        "IQ2212",
+        "FI2002"
+      ],
+      "equivalences": [
+        "IN5902"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124566",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN5111",
+      "name": "Comportamiento Organizacional",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 74,
+      "approval_rate": 1.0,
+      "purpose": "Este curso complementa la educación del/la futuro/a ingeniero/a civil industrial a través del diagnóstico, análisis y evaluación de los desafíos organizacionales. Busca desarrollar aspectos de liderazgo por medio del análisis de los fundamentos de la organización y del uso de herramientas de gestión de personas. Se considera en el análisis y trabajo, los desafíos tanto técnicos como adaptativos que enfrentará el/la ingeniero/a en el ejercicio de su profesión.",
+      "requirements": [
+        "IN4102",
+        "IN4191"
+      ],
+      "equivalences": [
+        "IN5101"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=126378",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 15,
+      "code": "IN6192",
+      "name": "Práctica Profesional Extendida",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.97,
+      "purpose": "El propósito general de la Práctica Profesional Extendida es facilitar la transición desde el mundo universitario al mundo profesional, al tiempo que el estudiante demuestra habilidades para identificar, conceptualizar y proponer alternativas para resolver un problema complejo al interior de una organización como parte de un equipo, agregando valor y aplicando de manera práctica los conocimientos adquiridos en la carrera.\r\n\r\nEl/la estudiante trabaja al menos 22 horas a la semana en una organización o empresa y es evaluado por esta.\r\n\r\nA lo largo de cada una de las sesiones del curso de Práctica Profesional Extendida (IN6192), se espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Trabaja siguiendo una metodología, identificando un problema. \r\n-Planifica la solución adecuada, realiza lo diseñado, y comprueba los resultados mejorando su accionar y efectividad.\r\n-Realiza presentaciones orales efectivas, integrando aspectos centrales del trabajo disciplinar realizado.\r\n-Elabora informes técnicos que permiten dar cuenta de forma clara y concisa del desarrollo del trabajo realizado en la organización en la cual se desempeña.\r\n-Analiza cuáles son las fortalezas y dificultades personales que le permiten aplicar, de manera efectiva, herramientas de trabajo colaborativo para el logro del objetivo común dentro del equipo, resguardando la integridad valórica de cada una de las personas con las que trabaja.",
+      "requirements": [
+        "IN5112",
+        "IN5111"
+      ],
+      "equivalences": [
+        "IN6925",
+        "IN6192P"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=177354",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan301b45f1779c14e0552ae6c0da604d3d",
+      "name": "Ingeniería Electivos Industrial, V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "planb4c577d797763066a75a527717b3a132",
+      "name": "Especialización Industrial V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plan84fb92f1dfdfa4f9c1d4beea6de1da10",
+      "name": "Licenciatura Electivos Industrial V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

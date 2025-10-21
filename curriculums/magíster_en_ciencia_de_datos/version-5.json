@@ -1,0 +1,215 @@
+{
+  "name": "Magíster en Ciencia de Datos",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CC3201",
+      "name": "Bases de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 63,
+      "approval_rate": 0.92,
+      "purpose": "El propósito del curso es que los y las estudiantes aprendan a modelar, gestionar, consultar y analizar datos estructurados, usando las técnicas principales de Bases de Datos (modelos de datos, el modelo relacional, el modelo entidad-relación, el álgebra relacional, el lenguaje SQL, sistemas de bases de datos). \r\n\r\nAl finalizar el curso, los/las estudiantes serán capaces de, a partir de diferentes conjuntos o fuentes de datos, extraer determinados datos, elegir un modelo apropiado, diseñar un esquema y estructura conceptual, usar un sistema, para manejar y consultar dichos datos, que favorezca la construcción de aplicaciones eficientes y seguras a partir de la base de datos resultante. Además, los y las estudiantes utilizarán modelos de datos no tradicionales, basados en árboles y grafos, para representar datos diversos e incompletos.\r\n\r\nPara impartir estas habilidades, se complementarán clases teóricas con tareas prácticas en clase y proyectos grupales que incorporen datos diversos y fomenten familiaridad con los sistemas de bases de datos más populares en la práctica. Además, se reforzarán los requisitos importantes de los sistemas de datos, que van más allá de su eficiencia, como por ejemplo la importancia de tomar medidas de seguridad para asegurar la privacidad de sus usuarios, etc.",
+      "requirements": [
+        "CC3001"
+      ],
+      "equivalences": [
+        "CC42A",
+        "CC432",
+        "CC705"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3499",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MDS7103",
+      "name": "Bases de Datos",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "CC3001",
+        "FI2002"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=81133",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4106",
+      "name": "Inteligencia Computacional",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 31,
+      "approval_rate": 0.93,
+      "purpose": "El curso tiene como propósito que el estudiantado comprenda, diseñe, aplique y evalúe técnicas de inteligencia artificial en la solución de problemas, asociados a la ingeniería eléctrica, de clasificación de patrones, regresión, predicción y clustering.",
+      "requirements": [
+        "EL3204",
+        "EL4003",
+        "EL3203",
+        "EL3005"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3671",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MDS7104",
+      "name": "Aprendizaje de Máquinas",
+      "department": null,
+      "students_per_course": 37,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MA3401",
+        "IN3141",
+        "MA3403",
+        "EL4003",
+        "CC3301",
+        "CC3201"
+      ],
+      "equivalences": [
+        "MA5204"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=95806",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MDS7201",
+      "name": "Proyecto de Ciencia de Datos",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CC5206",
+        "IN6531",
+        "MDS7102",
+        "CC5205",
+        "CC3201",
+        "MDS7103"
+      ],
+      "equivalences": [
+        "CC5214"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=81125",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MDS7202",
+      "name": "Laboratorio de Programación Científica para Ciencia de Datos",
+      "department": null,
+      "students_per_course": 33,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "EL4106",
+        "MA5204",
+        "MDS7104",
+        "MDS7101",
+        "MA3402",
+        "IN3242",
+        "IN3401",
+        "CC6104"
+      ],
+      "equivalences": [
+        "MA6202"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69437",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MDS7305",
+      "name": "Seminario de Tesis I",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MDS7201",
+        "MDS7202"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "MDS8405",
+      "name": "Seminario de Tesis II",
+      "department": null,
+      "students_per_course": 26,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MDS7305"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plandde93c549f0b69dcd64c380634e42d42",
+      "name": "Electivos Mds",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

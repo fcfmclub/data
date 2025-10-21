@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Postítulo en Modelamiento Avanzado en Minería y Metalurgia",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPMINMAMM04",
+      "name": "Analítica Avanzada de procesos mineros y metalúrgicos",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.83,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINMAMM02",
+      "name": "Elementos de aprendizaje estadístico y de máquinas para el modelamiento en minería y metalurgia",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINMAMM01",
+      "name": "Matemática y estadística fundamental para el modelamiento en minería y metalurgia",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINMAMM03",
+      "name": "Modelamiento de incertidumbre y toma de decisiones en geociencias, minería y metalurgia",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINMAMM06",
+      "name": "Modelamiento espacial de recursos minerales y fusión sensorial en exploración minera",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPMINMAMM05",
+      "name": "Modelos y procesamiento de imágenes en minería y metalurgia",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Auditor Interno Sistema Integrado de Gestión ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECAISIG01",
+      "name": "Auditor Interno Sistema Integrado de Gestión ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

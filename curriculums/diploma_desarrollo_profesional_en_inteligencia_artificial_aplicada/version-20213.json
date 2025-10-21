@@ -1,0 +1,23 @@
+{
+  "name": "Diploma Desarrollo Profesional en Inteligencia Artificial Aplicada",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "DDPDCCIAA",
+      "name": "Diploma Desarrollo Profesional en Inteligencia Artificial Aplicada",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

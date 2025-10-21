@@ -1,0 +1,170 @@
+{
+  "name": "Magíster en Minería",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "MI5041",
+      "name": "Evaluación de Yacimientos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "MI4040",
+        "GL4401S"
+      ],
+      "equivalences": [
+        "MI54A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3628",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI7908",
+      "name": "Seminario de Preparación de Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4449",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5071",
+      "name": "Sistemas Mineros",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [
+        "MI4070",
+        "MI4060"
+      ],
+      "equivalences": [
+        "MI58A",
+        "MI5120"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3631",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5051",
+      "name": "Sustentabilidad en Minería",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "MI4070",
+        "MI4020",
+        "MI4100"
+      ],
+      "equivalences": [
+        "MI55D"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3719",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 21,
+      "code": "MI7909",
+      "name": "Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [
+        "MI7908"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4450",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "MI7910",
+      "name": "Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "MI7909"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4451",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan2007594db684c7bf55d583bfd777e1f7",
+      "name": "Cursos Electivos Magíster en Minería",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

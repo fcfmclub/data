@@ -1,0 +1,125 @@
+{
+  "name": "Diploma de Postítulo en Dirección y Gestión de Proyectos V2",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIDGP205",
+      "name": "Control y seguimiento de proyectos. Cierre y conclusión satisfactoria",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDGP203",
+      "name": "Ejecución de proyectos: gestión de personas y equipos de trabajo",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDGP201",
+      "name": "Fundamentos de D&GP (Standard PMI) y factibilidad de proyectos",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDGP206",
+      "name": "Gestión ágil de proyectos",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDGP204",
+      "name": "Gestión de contratos y abastecimiento",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDGP207",
+      "name": "Gestión de proyectos de negocio y emprendimiento",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDGP202",
+      "name": "Iniciación y planificación de proyectos",
+      "department": null,
+      "students_per_course": 47,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

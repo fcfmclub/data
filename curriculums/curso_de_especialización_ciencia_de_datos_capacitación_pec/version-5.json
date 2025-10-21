@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Ciencia de Datos, Capacitación PEC",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDCCPECO2",
+      "name": "Ciencia de Datos",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

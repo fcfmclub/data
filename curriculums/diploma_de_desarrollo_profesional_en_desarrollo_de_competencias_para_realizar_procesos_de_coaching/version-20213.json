@@ -1,0 +1,142 @@
+{
+  "name": "Diploma de Desarrollo Profesional en Desarrollo de Competencias para Realizar Procesos de Coaching",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC08",
+      "name": "Aplicación Contenidos a Casos",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC06",
+      "name": "Comunicación Efectiva en el Rol del Coach",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC05",
+      "name": "Modelos de Gestión del Cambio",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC01",
+      "name": "Proceso de Coaching",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC02",
+      "name": "Roles de un/a Coaching",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC07",
+      "name": "Técnicas de Desarrollo Equipos de Trabajo",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC04",
+      "name": "Técnicas del Proceso de Coaching",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DDPEPDCPC03",
+      "name": "Tipos y Modelos de Coaching",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

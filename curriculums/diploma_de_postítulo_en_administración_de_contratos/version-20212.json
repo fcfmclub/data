@@ -1,0 +1,176 @@
+{
+  "name": "Diploma de Postítulo en Administración de Contratos",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIAC06",
+      "name": "Administración de Contratos de Bienes",
+      "department": null,
+      "students_per_course": 44,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC07",
+      "name": "Administración de Contratos de Servicios",
+      "department": null,
+      "students_per_course": 44,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC05",
+      "name": "Administración de Contratos en Proyectos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC09",
+      "name": "Aspectos Legales en la Administración de Contratos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC10",
+      "name": "Digitalización e Inteligencia Artificial para la Administración de Contratos",
+      "department": null,
+      "students_per_course": 44,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC03",
+      "name": "El Proceso y las Prácticas en Administración de Contratos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC02",
+      "name": "Formación Estratégica de Contratos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC04",
+      "name": "Indicadores y KPI en la Administración de Contratos",
+      "department": null,
+      "students_per_course": 44,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC01",
+      "name": "Módulo Articulador (Introducción, Charlas y Caso)",
+      "department": null,
+      "students_per_course": 44,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIAC08",
+      "name": "Negociación en la Administración de Contratos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

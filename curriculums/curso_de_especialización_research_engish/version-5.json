@@ -1,0 +1,40 @@
+{
+  "name": "Curso de Especialización Research Engish",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPSMIA201",
+      "name": "Research English A2",
+      "department": null,
+      "students_per_course": 10,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEEPSMIB101",
+      "name": "Research English B1",
+      "department": null,
+      "students_per_course": 6,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

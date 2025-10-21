@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización FMNEAR - DGF",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECFMNEAR1",
+      "name": "Determinación de mecanismos focales a distancia local-regional con método FMNEAR",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

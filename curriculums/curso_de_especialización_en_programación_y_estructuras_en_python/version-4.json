@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Programación y Estructuras en Python",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPYEP01",
+      "name": "Programación y Estructuras en Python",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Power BI Intermedio V3",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPBIO03",
+      "name": "V3-Power Bi Intermedio",
+      "department": null,
+      "students_per_course": 64,
+      "approval_rate": 0.77,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

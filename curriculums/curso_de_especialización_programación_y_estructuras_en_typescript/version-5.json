@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización  Programación y Estructuras en TypeScript",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDCCPECO1",
+      "name": "Programación y Estructuras en TypeScript",
+      "department": null,
+      "students_per_course": 43,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Diploma de Postítulo en Inteligencia Artificial Aplicada a los Negocios",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 4,
+      "code": "DPDIIIAAN05",
+      "name": "Aprendizaje profundo (Deep Learning)",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIIAAN02",
+      "name": "Gestión de datos para la Inteligencia Artificial",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIIAAN03",
+      "name": "Introducción a la Inteligencia Artificial",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIIAAN04",
+      "name": "Procesos para la Analítica de Datos",
+      "department": null,
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

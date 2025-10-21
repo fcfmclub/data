@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Postítulo en Cambio Climático y Desarrollo Bajo en Carbono",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIECCDBC05",
+      "name": "Emisiones antrópicas y modelos de mitigación",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIECCDBC01",
+      "name": "M1 Ciencia del Clima",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIECCDBC02",
+      "name": "M2 Mitigación y  Modelación de Políticas Climáticas",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIECCDBC06",
+      "name": "M3  Gobernanza del cambio climático para la mitigación y adaptación",
+      "department": null,
+      "students_per_course": 25,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIECCDBC04",
+      "name": "M4  Taller de Proyectos",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIECCDBC03",
+      "name": "Una Gobernanza resiliente para el cambio climático en Chile",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

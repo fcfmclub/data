@@ -1,0 +1,172 @@
+{
+  "name": "Magíster en Economía Aplicada",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN709",
+      "name": "Econometría",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [
+        "MA3403",
+        "MA3401",
+        "MA3402",
+        "IN3141",
+        "IN2201"
+      ],
+      "equivalences": [
+        "IN514"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN703",
+      "name": "Macroeconomía I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "IN2201"
+      ],
+      "equivalences": [
+        "IN511"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48929",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN701",
+      "name": "Microeconomía I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.82,
+      "purpose": null,
+      "requirements": [
+        "IN41A",
+        "IN2201"
+      ],
+      "equivalences": [
+        "IN510"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 15,
+      "code": "IN7500",
+      "name": "Taller de Tesis I",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 6,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "IN7501",
+      "name": "Taller de Tesis II",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "IN793",
+      "name": "Taller de Economía Aplicada",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IN701",
+        "IN702",
+        "IN703",
+        "IN759",
+        "IN51A"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan1981fb8a5274fb1a663a5fa28d638ea0",
+      "name": "Cursos Electivos Magíster en Economía Aplicada",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

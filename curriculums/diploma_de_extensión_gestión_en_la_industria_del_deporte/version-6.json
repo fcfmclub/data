@@ -1,0 +1,125 @@
+{
+  "name": "Diploma de Extensión Gestión en la Industria del Deporte",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DEDIIGID04",
+      "name": "Aspectos Legales en la Industria del Deporte",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGID06",
+      "name": "Contabilidad y Control de Gestión",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGID02",
+      "name": "Gestión de Operaciones en la Industria del Deporte",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGID05",
+      "name": "Habilidades Directivas",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGID01",
+      "name": "Introducción a la Industria del Deporte",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGID03",
+      "name": "Marketing en la Industria del Deporte",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGID07",
+      "name": "Taller de Gestión en la Industria del Deporte",
+      "department": null,
+      "students_per_course": 2,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

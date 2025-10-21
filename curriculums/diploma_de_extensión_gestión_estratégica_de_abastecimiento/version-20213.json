@@ -1,0 +1,159 @@
+{
+  "name": "Diploma de Extensión Gestión Estratégica de Abastecimiento",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DEDIIGEA06",
+      "name": "Abastecimiento de Servicios",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA07",
+      "name": "Administración de Contratos y Contratistas",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA09",
+      "name": "Charlas",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA03",
+      "name": "Estrategia y Abastecimiento",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA02",
+      "name": "Gestión de Operaciones y Abastecimiento",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA08",
+      "name": "Innovación & Transformación Digital y Abastecimiento",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA05",
+      "name": "Logística y Supply Chain",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA01",
+      "name": "Negociación",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEDIIGEA10",
+      "name": "Transparencia y Aspectos Legales de Abastecimiento",
+      "department": null,
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Minor en Ingeniería para la Sustentabilidad (MI)",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IQ3451",
+      "name": "Introducción a la Sustentabilidad en la Ingeniería",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 36,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1101",
+        "EI2001",
+        "CD1100"
+      ],
+      "equivalences": [
+        "IQ3400"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5110",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EI3002",
+      "name": "Proyecto de Sustentabilidad",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "IQ3451"
+      ],
+      "equivalences": [
+        "IE4400"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=6167",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plancd2b0b7b6a2c66cc96cb5257a8c1ce7f",
+      "name": "Elctivos Minor en Ingeniería para la Sustentabilidad (MI) v3",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

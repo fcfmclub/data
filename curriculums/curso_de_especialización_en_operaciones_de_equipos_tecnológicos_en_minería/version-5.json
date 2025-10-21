@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Operaciones de Equipos Tecnológicos en Minería",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPOETM01",
+      "name": "Operaciones de Equipos Tecnológicos en Minería",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

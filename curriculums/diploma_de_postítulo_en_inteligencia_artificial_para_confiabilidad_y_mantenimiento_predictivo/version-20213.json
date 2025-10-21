@@ -1,0 +1,210 @@
+{
+  "name": "Diploma de Postítulo en Inteligencia Artificial para Confiabilidad y Mantenimiento Predictivo",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "DPMECIACM04",
+      "name": "Adquisición y Procesamiento de Datos",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM07",
+      "name": "Aprendizaje No Supervisado en Detección de Anomalías",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM05",
+      "name": "Aprendizaje Profundo (Redes Neuronales) para el Diagnóstico",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM06",
+      "name": "Aprendizaje Profundo en Pronóstico",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM09",
+      "name": "Aprendizaje de Máquinas",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM08",
+      "name": "Desarrollo de Dashboards",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM01",
+      "name": "Internet de la Cosas (IoT) y Big Data en la Confiabilidad y Mantenimiento",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM11",
+      "name": "Introducción a Large Language Models (LLM) en Mantenimiento Predictivo",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM10",
+      "name": "Optimización para Soporte en la Toma de Decisiones",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM12",
+      "name": "Proyecto Final",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM03",
+      "name": "Taller de Pandas",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "DPMECIACM02",
+      "name": "Taller de Python",
+      "department": null,
+      "students_per_course": 31,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "name": "Magíster en Minería",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 4,
+      "code": "MI66B",
+      "name": "Complemento de Geotecnia",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI46B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2285",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI58B",
+      "name": "Diseño de Minas Subterráneas",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [
+        "MI47A",
+        "MI57G",
+        "MI46B"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2275",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI58A",
+      "name": "Diseño de Minas a Cielo Abierto",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI46B",
+        "MI47A"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2274",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI65A",
+      "name": "Economía Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [
+        "IN42A",
+        "IN46A",
+        "IN47A",
+        "MI54A",
+        "MI59A"
+      ],
+      "equivalences": [
+        "MI530",
+        "MI560",
+        "MI561",
+        "MI526"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2282",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI54A",
+      "name": "Evaluación de Yacimientos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "GL54A",
+        "MA34B",
+        "IN42A"
+      ],
+      "equivalences": [
+        "MI5041"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2259",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 4,
+      "code": "MI68A",
+      "name": "Geoestadística",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "GF30A",
+        "GL54A",
+        "MA34B"
+      ],
+      "equivalences": [
+        "MI4040"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2286",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 5,
+      "code": "MI55D",
+      "name": "Gestión Ambiental en Minería",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MI51G",
+        "MI52C",
+        "MI52E"
+      ],
+      "equivalences": [
+        "MI5051"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=2267",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI79C",
+      "name": "Seminario de Preparación de Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "MI79D",
+      "name": "Taller de Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 5,
+      "approval_rate": 0.89,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5879",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "plan565bfbbed3da185d54d5bd7cdf113b8d",
+      "name": "Electivos Magíster en Minería",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

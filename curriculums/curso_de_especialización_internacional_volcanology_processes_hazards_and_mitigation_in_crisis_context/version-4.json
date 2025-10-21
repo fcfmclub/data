@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Internacional Volcanology: Processes, Hazards and Mitigation in Crisis Context",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECVOLC01",
+      "name": "Volcanology: Processes, Hazards and Mitigation in Crisis Context",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

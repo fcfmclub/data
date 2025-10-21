@@ -1,0 +1,91 @@
+{
+  "name": "Diploma de Postítulo en Cambio Climático y Desarrollo Bajo en Carbono",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "DPDIECCDC02",
+      "name": "Ciencia del Clima y Resiliencia",
+      "department": null,
+      "students_per_course": 10,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIECCDC01",
+      "name": "Desafios del Cambio Climático y Desarrollo bajo en Carbono",
+      "department": null,
+      "students_per_course": 10,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIECCDC04",
+      "name": "Institucionalidad y Proceso",
+      "department": null,
+      "students_per_course": 10,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIECCDC03",
+      "name": "Modelación y Mitigación de Políticas Climáticas",
+      "department": null,
+      "students_per_course": 11,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIECCDC05",
+      "name": "Taller Práctico y Cierre del Diploma",
+      "department": null,
+      "students_per_course": 10,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

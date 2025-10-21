@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización de Hidrógeno Verde - ME",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CECENHVME01",
+      "name": "Hidrógeno Verde - ME",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

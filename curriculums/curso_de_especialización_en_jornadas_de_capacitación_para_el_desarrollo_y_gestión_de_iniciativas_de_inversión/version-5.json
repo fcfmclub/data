@@ -1,0 +1,57 @@
+{
+  "name": "Curso de Especialización en Jornadas de Capacitación para el Desarrollo y Gestión de Iniciativas de Inversión",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CECSPDGII01",
+      "name": "Jornada 1- GORE RM: Herramientas de Apoyo a la Formulación de Proyectos",
+      "department": null,
+      "students_per_course": 77,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECSPDGII02",
+      "name": "Jornada 2 - GORE RM: Herramientas de Apoyo a la Evaluación de Proyectos",
+      "department": null,
+      "students_per_course": 77,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECSPDGII03",
+      "name": "Jornada 3 - GORE RM: Herramientas de Apoyo a la Gestión",
+      "department": null,
+      "students_per_course": 77,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Magíster en Gestión de Operaciones",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IN79O",
+      "name": "Modelos Estocásticos en Sistemas de Ingeniería",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 27,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [
+        "IN3171",
+        "IN3701",
+        "MA3711",
+        "MA34B",
+        "MA34A",
+        "MA3403",
+        "MA3402",
+        "IN3141"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1075",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN77O",
+      "name": "Modelos y Algoritmos de Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [
+        "IN34A",
+        "IN3171",
+        "IN3701",
+        "MA3701",
+        "EL4114",
+        "IN3141",
+        "IN3242",
+        "IN3401",
+        "MA3401",
+        "MA3402",
+        "MA3403",
+        "EL3104",
+        "IN41A",
+        "IN2201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1081",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN79L",
+      "name": "Seminario de Preparación de Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "CR24"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1076",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "IN79K",
+      "name": "Seminario de Tesis",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 8,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [
+        "IN77O",
+        "IN79O",
+        "IN79L"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=1077",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 18,
+      "code": "planc024072a9a23f46051ce14d1b252b530",
+      "name": "Obligatorios Opcionales",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "planc80476c3a7f8a356b0a3c0ca2610f3f3",
+      "name": "Electivos Magíster en Gestión de Operaciones",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 30 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Magíster en Ciencias, Mención Geofísica",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 18,
+      "code": "GF797",
+      "name": "Trabajo de Tesis I",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "GF798",
+      "name": "Trabajo de Tesis II",
+      "department": {
+        "name": "Departamento de Geofísica",
+        "code": "DGF",
+        "id": 15
+      },
+      "students_per_course": 3,
+      "approval_rate": 0.93,
+      "purpose": null,
+      "requirements": [
+        "GF797S",
+        "GF797"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 60,
+      "code": "plan59bf55d2ef0a324d0a9af9e0500f8571",
+      "name": "Electivos Magíster en Ciencias mención Geofísica",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 60 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan95e5d2bc1d6c1fe18e593b0d1180b5d7",
+      "name": "Cursos Otros Deptos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

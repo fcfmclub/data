@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Ethical Hacking",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECEH01",
+      "name": "Ethical Hacking",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

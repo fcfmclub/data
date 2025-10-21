@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Lenguaje SQL Básico",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPSQLB01",
+      "name": "Lenguaje SQL Básico",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

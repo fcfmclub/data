@@ -1,0 +1,99 @@
+{
+  "name": "Minor en Energías Renovables (GF)",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "BT4551",
+      "name": "Energía Renovable a Partir de Biomasas",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que el/la estudiante aplique los procesos de transformación de termoquímica, fisicoquímica y bioquímica para producir diferentes biocombustibles y bioproductos a partir de biomasa en forma sustentable, mediante el desarrollo de un proyecto grupal y de trabajo en laboratorio.",
+      "requirements": [
+        "FI2004",
+        "CM2004",
+        "QI32A",
+        "IQ2212"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3720",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL6000",
+      "name": "Generación de Energía Eléctrica con Fuentes Renovables",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 33,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "FI2002"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4417",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "GL4009",
+      "name": "Principios de Geotermia",
+      "department": {
+        "name": "Departamento de Geología",
+        "code": "DGL",
+        "id": 16
+      },
+      "students_per_course": 49,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [
+        "MA2002",
+        "MA26B"
+      ],
+      "equivalences": [
+        "GL614",
+        "GL5004"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4572",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plandd122935b72e657a2d564060956c7493",
+      "name": "ME6000/ME7160",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

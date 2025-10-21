@@ -1,0 +1,70 @@
+{
+  "name": "Minor en Ingeniería para la Sustentabilidad (MI)",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "IQ3400",
+      "name": "Introducción a la Sustentabilidad en la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 29,
+      "approval_rate": 0.99,
+      "purpose": "El curso Introducción a la Sustentabilidad en la Ingeniería corresponde al curso inicial del Minor\r\nen Sustentabilidad de la FCFM.\r\nEl propósito de este curso es lograr que el/la estudiante vincule la sustentabilidad con el\r\nquehacer profesional, distinguiendo impactos sociales, ambientales y económicos de\r\nproductos, proyectos o soluciones tecnológicas.\r\nSe busca, además, que el/la estudiante conozca herramientas cuantitativas y cualitativas para\r\nla evaluación ambiental y social, y discrimine la pertinencia de cada una en un proyecto,\r\nteniendo en cuenta la complejidad y los aspectos éticos de la toma de decisión. Esto permitirá\r\na el/la estudiante y futuro/a profesional transformarse en un agente de cambio en pos de la\r\nsustentabilidad y la acción climática.\r\nDurante el curso, los y las estudiantes desarrollan trabajo en equipo, el análisis crítico de casos\r\ny la investigación en temáticas de medio ambiente y sociedad.\r\nLo anterior permitirá que el/la estudiante logre una preparación basal sobre desarrollo\r\nsustentable, a modo de introducción a otros conocimientos abordados en el Minor.",
+      "requirements": [
+        "CD2201",
+        "EI2001"
+      ],
+      "equivalences": [
+        "IQ3451"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=184054",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IE4400",
+      "name": "Proyecto de Sustentabilidad para Ingeniería y Ciencias",
+      "department": null,
+      "students_per_course": 11,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "IQ3400"
+      ],
+      "equivalences": [
+        "EI3002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=178986",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan5bcab00fef99a67213c12211ebe169b3",
+      "name": "Electivos Minor en Ingeniería para la Sustentabilidad (Mi) V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Introducción a la Mecánica de Falla (CIMF)",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEMECIMF01",
+      "name": "Introducción a la Mecánica de Falla (CIMF)",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

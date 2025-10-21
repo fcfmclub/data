@@ -1,0 +1,57 @@
+{
+  "name": "Curso de Especialización en Habilidades  Directivas",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEDIIHD001",
+      "name": "Habilidades  Directivas",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOHDHBA01",
+      "name": "Habilidades Directivas Hospital San Borja Arriarán",
+      "department": null,
+      "students_per_course": 27,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CECIOHDHBA02",
+      "name": "Habilidades Directivas Hospital San Borja Arriarán-Versión 2",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

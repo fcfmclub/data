@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización Power Bi Inicial V5.24",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECV6PB01",
+      "name": "Power BI Inicial",
+      "department": null,
+      "students_per_course": 91,
+      "approval_rate": 0.9,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

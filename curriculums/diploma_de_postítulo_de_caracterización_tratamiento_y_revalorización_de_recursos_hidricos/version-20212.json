@@ -1,0 +1,23 @@
+{
+  "name": "Diploma de Postítulo de Caracterización, Tratamiento y Revalorización de Recursos Hidricos",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDICCTRRH01",
+      "name": "Diploma en Caracterización, Tratamiento y Revalorización de Recursos Hídricos",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

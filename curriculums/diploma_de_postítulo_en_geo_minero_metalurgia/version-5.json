@@ -1,0 +1,210 @@
+{
+  "name": "Diploma de Postítulo en Geo-Minero Metalurgia",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM14",
+      "name": "Análisis Estadístico de Datos-Evaluación de Recursos y Reservas",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMINGMM11",
+      "name": "Análisis Estadístico de Datos/Muestreo",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM03",
+      "name": "Diseño Minero",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM15",
+      "name": "Estudio de Caso",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM05",
+      "name": "Fundamentos de Procesos Metalúrgicos",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.98,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM04",
+      "name": "Fundamentos de Procesos Mineralúrgicos",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM10",
+      "name": "Introducción a la Planificación Minera / Gestión y Evaluación de Proyectos Mineros",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM13",
+      "name": "Modelos Yacimientos- Muestreo",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 1,
+      "code": "DPDIMINGMM12",
+      "name": "Modelos de Yacimientos/ Evaluación de Recursos",
+      "department": null,
+      "students_per_course": 12,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM09",
+      "name": "Taller de Sustentabilidad y Estudio de Caso",
+      "department": null,
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM16",
+      "name": "Taller de Sustentabilidad y Relaves",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINGMM17",
+      "name": "Taller de Sustentabilidad y Relaves - Estudio de Caso",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

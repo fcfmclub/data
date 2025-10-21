@@ -1,0 +1,40 @@
+{
+  "name": "Curso de Especialización Bootcamp Diseño UX/UI",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEDCCDUX01",
+      "name": "Bootcamp Diseño UX/UI",
+      "department": null,
+      "students_per_course": 23,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "CEDCCTABOO01",
+      "name": "Taller de Bootcamps",
+      "department": null,
+      "students_per_course": 59,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

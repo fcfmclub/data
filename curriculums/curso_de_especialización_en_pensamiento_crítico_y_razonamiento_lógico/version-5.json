@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Pensamiento Crítico y Razonamiento Lógico",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPPCRL01",
+      "name": "Pensamiento Crítico y Razonamiento Lógico",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

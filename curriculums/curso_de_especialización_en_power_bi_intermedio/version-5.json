@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Power Bi Intermedio",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPECPB02",
+      "name": "Power Bi Intermedio",
+      "department": null,
+      "students_per_course": 41,
+      "approval_rate": 0.84,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

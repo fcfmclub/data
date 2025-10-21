@@ -1,0 +1,108 @@
+{
+  "name": "Diploma de Postítulo en Evaluación Geoestadística de Yacimientos",
+  "version": 3,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIMINEG06",
+      "name": "Categorización y Reporte de Recursos y Reservas",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEG02",
+      "name": "Geoestadística Aplicada a la Evaluación de Yacimientos",
+      "department": null,
+      "students_per_course": 22,
+      "approval_rate": 0.96,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEG01",
+      "name": "Modelos  Geológicos de Yacimientos",
+      "department": null,
+      "students_per_course": 20,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEG03",
+      "name": "Muestreo y Control de Calidad para Evaluación de Yacimientos",
+      "department": null,
+      "students_per_course": 24,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEG04",
+      "name": "Simulación Geoestadística de Geología y Leyes",
+      "department": null,
+      "students_per_course": 21,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIMINEG05",
+      "name": "Tópicos Especiales de Geoestadística",
+      "department": null,
+      "students_per_course": 19,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

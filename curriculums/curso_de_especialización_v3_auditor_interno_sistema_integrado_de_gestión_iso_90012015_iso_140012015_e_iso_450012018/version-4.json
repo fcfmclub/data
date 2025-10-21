@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización V3 - Auditor Interno Sistema Integrado de Gestión ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018",
+  "version": 4,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "CEEPEAISIG01",
+      "name": "V2 - 22 Auditor Interno Sistema Integrado de Gestión ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.91,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

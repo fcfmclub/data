@@ -1,0 +1,142 @@
+{
+  "name": "Diploma de Postitulo en Dirección Financiera",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DPDIIDFAEF01",
+      "name": "Análisis Estados Financieros",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.94,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFEDP02",
+      "name": "Evaluación de Proyectos",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.97,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFGFC03",
+      "name": "Gestión Financiera de Corto Plazo",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.75,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFGRF06",
+      "name": "Gestión de Riesgos Financieros",
+      "department": null,
+      "students_per_course": 17,
+      "approval_rate": 0.8,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFFAF08",
+      "name": "Las Fintechs y Las Nuevas Alternativas de Financiamiento",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.86,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFMCI04",
+      "name": "Mercado de Capitales e Ingeniería Financiera",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=114402",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFTFC07",
+      "name": "Tópicos en Finanzas Corporativas",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.88,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DPDIIDFVFA05",
+      "name": "Valorización, Fusiones y Adquisiciones de Empresas",
+      "department": null,
+      "students_per_course": 16,
+      "approval_rate": 0.85,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

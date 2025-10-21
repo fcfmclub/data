@@ -1,0 +1,78 @@
+{
+  "name": "Minor en Computación Científica (FI)",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CC3501",
+      "name": "Modelación y Computación Gráfica para Ingenieros",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 56,
+      "approval_rate": 0.92,
+      "purpose": "El curso se ubica en el V semestre, en el ciclo de Licenciatura. Introduce a las y los estudiantes en la disciplina de la computación gráfica, sus principales problemáticas y aplicaciones en el contexto de las ciencias y la ingeniería. Al término del curso se espera que los y las estudiantes modelen, solucionen y visualicen computacionalmente problemas aplicados, que involucren datos, geometrías y escenas complejas en 2 y 3 dimensiones (2D y 3D). En las actividades prácticas se programa la GPU, utilizando la librería de bajo nivel OpenGL.\r\n\r\nA modo de ejemplo, se pueden desarrollar aplicaciones gráficas interactivas funcionales simples como videojuegos, y adquirir herramientas con las cuales se podrían trabajar simulaciones físicas, sistemas CAD, visualización arquitectónica, modelación de terrenos, entre otras aplicaciones posibles.",
+      "requirements": [
+        "CC1002",
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3501",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3001",
+      "name": "Algoritmos y Estructuras de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 65,
+      "approval_rate": 0.91,
+      "purpose": "El curso Algoritmos y Estructuras de Datos tiene como propósito que los y las estudiantes logren un dominio de los conceptos básicos de diseño de algoritmos eficientes (iterativos y recursivos), de análisis de algoritmos, y de estructuras de datos (arreglos, estructuras enlazadas, grafos). \r\n\r\nLos y las estudiantes deben ser capaces de aplicar estos conceptos al diseño, implementación, y evaluación de los tipos de datos abstractos más usados (listas, pilas, colas, colas de prioridad, diccionario), así como de los algoritmos fundamentales (búsqueda, ordenación, algoritmos para grafos y para búsqueda en texto) utilizados en Ciencias de la Computación.",
+      "requirements": [
+        "CC1001",
+        "CC1002",
+        "CR90"
+      ],
+      "equivalences": [
+        "CC30A",
+        "CC253",
+        "CC211"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3935",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan2226e430f6bed85d2c0a4e5c9e237d75",
+      "name": "Electivos Minor en Computación Científica (FI) V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

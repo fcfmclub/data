@@ -1,0 +1,1267 @@
+{
+  "name": "Ingeniería Civil en Computación",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 24,
+      "code": "CC6930",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "CC6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3501",
+      "name": "Modelación y Computación Gráfica para Ingenieros",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 56,
+      "approval_rate": 0.92,
+      "purpose": "El curso se ubica en el V semestre, en el ciclo de Licenciatura. Introduce a las y los estudiantes en la disciplina de la computación gráfica, sus principales problemáticas y aplicaciones en el contexto de las ciencias y la ingeniería. Al término del curso se espera que los y las estudiantes modelen, solucionen y visualicen computacionalmente problemas aplicados, que involucren datos, geometrías y escenas complejas en 2 y 3 dimensiones (2D y 3D). En las actividades prácticas se programa la GPU, utilizando la librería de bajo nivel OpenGL.\r\n\r\nA modo de ejemplo, se pueden desarrollar aplicaciones gráficas interactivas funcionales simples como videojuegos, y adquirir herramientas con las cuales se podrían trabajar simulaciones físicas, sistemas CAD, visualización arquitectónica, modelación de terrenos, entre otras aplicaciones posibles.",
+      "requirements": [
+        "CC1002",
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3501",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3403",
+      "name": "Probabilidades y Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.84,
+      "purpose": "El propósito de este curso es que el/la estudiante aplique los conceptos fundamentales de la\r\nteoría de probabilidades en la modelación y solución de problemas concretos que involucran\r\nfenómenos aleatorios. También que enuncie leyes clásicas de probabilidad discretas y continuas, que calcule con ellas y que las asocie a situaciones específicas de modelación. Además que aplique la Ley de Grandes Números y del Teorema Central del Límite.\r\nOtra parte del propósito de este curso es que el/la estudiante conozca los conceptos\r\nfundamentales de la Inferencia Estadística y de los modelos lineales, y los aplique junto a los\r\nconceptos de probabilidad. Junto a esto, que conozca lo que es un muestreo aleatorio y la\r\nimportancia de la distribución Normal y su rol en el Teorema Central del Límite, que estime\r\nparámetros de una distribución y reconozca sus propiedades, y que conozca el Lema de Neyman Pearson y su aplicación en la toma de decisiones con un test de hipótesis. Adicionalmente, que aplique un modelo de regresión lineal y evalúe sus resultados. Finalmente, que aplique la teoría de tests en casos clásicos como son: la comparación de dos poblaciones, la comprobación que un conjunto de valores muestrales siguen una determinada distribución, el test de independencia en una tabla de contingencia.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3754",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3001",
+      "name": "Algoritmos y Estructuras de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 65,
+      "approval_rate": 0.91,
+      "purpose": "El curso Algoritmos y Estructuras de Datos tiene como propósito que los y las estudiantes logren un dominio de los conceptos básicos de diseño de algoritmos eficientes (iterativos y recursivos), de análisis de algoritmos, y de estructuras de datos (arreglos, estructuras enlazadas, grafos). \r\n\r\nLos y las estudiantes deben ser capaces de aplicar estos conceptos al diseño, implementación, y evaluación de los tipos de datos abstractos más usados (listas, pilas, colas, colas de prioridad, diccionario), así como de los algoritmos fundamentales (búsqueda, ordenación, algoritmos para grafos y para búsqueda en texto) utilizados en Ciencias de la Computación.",
+      "requirements": [
+        "CC1001",
+        "CC1002",
+        "CR90"
+      ],
+      "equivalences": [
+        "CC30A",
+        "CC253",
+        "CC211"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3935",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3201",
+      "name": "Bases de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 63,
+      "approval_rate": 0.92,
+      "purpose": "El propósito del curso es que los y las estudiantes aprendan a modelar, gestionar, consultar y analizar datos estructurados, usando las técnicas principales de Bases de Datos (modelos de datos, el modelo relacional, el modelo entidad-relación, el álgebra relacional, el lenguaje SQL, sistemas de bases de datos). \r\n\r\nAl finalizar el curso, los/las estudiantes serán capaces de, a partir de diferentes conjuntos o fuentes de datos, extraer determinados datos, elegir un modelo apropiado, diseñar un esquema y estructura conceptual, usar un sistema, para manejar y consultar dichos datos, que favorezca la construcción de aplicaciones eficientes y seguras a partir de la base de datos resultante. Además, los y las estudiantes utilizarán modelos de datos no tradicionales, basados en árboles y grafos, para representar datos diversos e incompletos.\r\n\r\nPara impartir estas habilidades, se complementarán clases teóricas con tareas prácticas en clase y proyectos grupales que incorporen datos diversos y fomenten familiaridad con los sistemas de bases de datos más populares en la práctica. Además, se reforzarán los requisitos importantes de los sistemas de datos, que van más allá de su eficiencia, como por ejemplo la importancia de tomar medidas de seguridad para asegurar la privacidad de sus usuarios, etc.",
+      "requirements": [
+        "CC3001"
+      ],
+      "equivalences": [
+        "CC42A",
+        "CC432",
+        "CC705"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3499",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC4102",
+      "name": "Diseño y Análisis de Algoritmos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 50,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que los y las estudiantes diseñen, analicen e implementen algoritmos y estructuras de datos, considerando técnicas avanzadas (cotas inferiores, análisis amortizado, dominios discretos) y el uso de modelos avanzados de computación (memoria secundaria, algoritmos probabilísticos y aleatorizados, aproximados y paralelos) para la resolución eficiente de problemas computacionales.",
+      "requirements": [
+        "MA3403",
+        "MA3402",
+        "CC3001",
+        "CC3102"
+      ],
+      "equivalences": [
+        "CC40A",
+        "CC412"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3589",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC4402",
+      "name": "Formulación, Evaluación y Gestión de Proyectos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 44,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que el estudiante aplique conocimientos básicos para definir (formular), gestionar y evaluar un proyecto de software, tanto de renovación como de implantación de tecnología en una organización, frente a un desafío que se le presenta. Debido a eso el curso está dividido en cuatro grandes módulos (o fases de un proyecto): 1) la formulación, 2) la gestión, 3) la evaluación de un proyecto, y 4) la formulación de la evolución del mismo. \r\n\r\nEstas fases se realizan en secuencia a través de un ciclo que se retroalimenta (formulación -> gestión -> evaluación -> reformulación) y permite la evolución de proyectos y productos.",
+      "requirements": [
+        "CC4401",
+        "CD2201",
+        "IN2201"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116942",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC4401",
+      "name": "Ingeniería de Software",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 43,
+      "approval_rate": 0.98,
+      "purpose": "El propósito del curso Ingeniería de Software es que los y las estudiantes construyan, con su equipo de trabajo, un sistema web con dos a tres perfiles de usuario, considerando el diseño de interfaces gráficas, el dominio de negocio y el uso de frameworks para desarrollar aplicaciones web, según el problema a resolver.\r\n\r\nPor otra parte, manejan técnicas de especificación de requisitos funcionales y no funcionales, así como estrategias de diseño basadas en patrones arquitectónicos, y técnicas de mantención, evolución, verificación y validación de software.",
+      "requirements": [
+        "CC3002",
+        "CC3201"
+      ],
+      "equivalences": [
+        "CC31B",
+        "CC332",
+        "CC355"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3504",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC6907",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.86,
+      "purpose": "El propósito principal del curso CC6907 es que los/las estudiantes estén bien preparados/as para completar sus Trabajos de Títulos.\r\n\r\nAl finalizar el curso los/las estudiantes comprenderán los procesos de titulación de Ingeniería Civil en Computación, y los criterios aplicables a un Trabajo de Título. Para ello, encontrarán un tema de Trabajo de Título, y un profesor guía.\r\n\r\nComo parte de su quehacer, y en relación con el tema, habrán identificado el contexto, el problema, los objetivos, el estado del arte, una solución potencial, y estrategias para evaluar la solución. Además, habrán planificado el trabajo futuro que realizarán en el contexto del curso Trabajo de Título. Finalmente, tomarán los primeros pasos para desarrollar dicho trabajo.\r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Trabaja siguiendo una metodología que considera: la identificación un problema, la revisión del estado del arte asociado con el problema, el diseño preliminar de una solución eficiente y efectiva, y la planificación del trabajo necesario para desarrollar y evaluar la solución en el contexto del problema identificado.\r\n--Lidera la planificación y el desarrollo de su propio trabajo, algo que involucra:\r\n\tencontrar su propio tema de Trabajo de título,\r\n\tencontrar un profesor guía, \r\n\tcoordinar con el Profesor Guía para discutir el trabajo, \r\n\tgestionar las fases de propuesta y planificación de su trabajo, \r\n\trealizar una indagación bibliográfica, en relación con literatura u otras fuentes de información relevantes para el trabajo.\r\n\tgestionar bien su tiempo con respecto a los plazos. \r\n\r\n-Elabora informes técnicos que permiten dar cuenta de forma clara y concisa acerca de la motivación, el estado del arte, la planificación, el desarrollo y los resultados relacionados con un proyecto técnico.",
+      "requirements": [
+        "CC4402",
+        "CR267"
+      ],
+      "equivalences": [
+        "CC6908"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=176582",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC4101",
+      "name": "Lenguajes de Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 52,
+      "approval_rate": 0.78,
+      "purpose": "Al término del curso, los y las estudiantes demuestran que manejan conceptos y mecanismos asociados a los lenguajes de programación, su semántica, implementación y aplicaciones. Los y las estudiantes definen incrementalmente lenguajes de programación, con su respectiva sintaxis y semántica, a través de la construcción de un intérprete, estudiando paso a paso distintos mecanismos, como funciones, recursión, estado, y finalmente objetos. Asimismo, identifican mecanismos para extender lenguajes existentes, en particular macros. Como la definición de los lenguajes (construcción de intérpretes) se hace en Scheme, los y las estudiantes manejan este lenguaje y la programación funcional en general. \r\nAdemás, el curso entrega elementos precisos para comparar, clasificar, relacionar y evaluar lenguajes de programación en general, incluyendo tanto lenguajes ya existentes (C, Java, Lisp, bash, Haskell, ML, JavaScript, Scala, Self, y Smalltalk, etc.), como lenguajes que emergerán durante la vida profesional de los y las estudiantes. \r\nComo la casi totalidad del material bibliográfico está en inglés, los y las estudiantes profundizan, a través de la lectura, su manejo de inglés técnico.",
+      "requirements": [
+        "CC3102"
+      ],
+      "equivalences": [
+        "CC41A",
+        "CC362",
+        "CC251"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3101",
+      "name": "Matemáticas Discretas para la Computación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 63,
+      "approval_rate": 0.8,
+      "purpose": "El curso tiene como propósito que los y las estudiantes identifiquen y utilicen herramientas matemáticas formales necesarias para analizar y resolver problemas que involucren elementos discretos. Dichas herramientas incluyen trabajar con el lenguaje de la lógica formal, con demostraciones, combinatoria y estructuras discretas como relaciones y grafos. \r\n\r\n.",
+      "requirements": [
+        "CC1002",
+        "MA1101",
+        "CR90"
+      ],
+      "equivalences": [
+        "CC40C"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3497",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3002",
+      "name": "Metodologías de Diseño y Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 63,
+      "approval_rate": 0.8,
+      "purpose": "El curso, que se se ubica en el VI semestre, en el ciclo de Licenciatura, tiene como propósito que las y los estudiantes desarrollen software de pequeña y mediana complejidad, considerando técnicas de diseño y programación orientada a objetos. Para ello, aplican patrones de diseño, metodologías de testeo y depuración para producir un software flexible, abierto y robusto.\r\nAsimismo, analizan dilemas éticos asociados al desarrollo e implementación de software,\r\nconsiderando, desde un punto de vista ético, el respeto por la propiedad intelectual, el uso de software libre y licencias de software, y el uso de sistemas de escritura universales más inclusivos como, por ejemplo, Unicode.",
+      "requirements": [
+        "CC3001",
+        "CC30A"
+      ],
+      "equivalences": [
+        "CC51H"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3496",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC5205",
+      "name": "Minería de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 51,
+      "approval_rate": 0.99,
+      "purpose": "Al finalizar este curso se espera que los/las estudiantes generen conocimiento a partir de diversos tipos de datos, aplicando el proceso de knowledge discovery in databases, con énfasis en las técnicas principales de Minería de Datos (limpieza de datos, clasificación, clustering, análisis de asociación, etc).\r\n\r\nLos y las estudiantes tendrán oportunidad de identificar y seleccionar las técnicas básicas de análisis que, según los criterios presentados en el curso, mejor se apliquen al objetivo de generación de conocimiento, según el dominio del problema planteado. Para esto se analizarán casos que incorporen problemáticas y datos de áreas tan diversas como, por ejemplo, Astronomía, Economía, Medicina, Marketing, Redes Sociales, entre otras.  Se espera, además, acercar a los y las estudiantes a la problemática del análisis de grandes volúmenes de datos y que puedan adquirir técnicas más avanzadas sobre estos temas. \r\n\r\nEs un curso introductorio, donde los ejemplos son referenciales y los y las estudiantes para su trabajo semestral eligen un área de interés, al que se le aplica la metodología estándar de la minería de datos.\r\n\r\nLas y los estudiantes identificarán el problema de sobreajuste en modelos de procesamiento de información que impiden un análisis objetivo de los datos. Finalmente, desarrollarán habilidades éticas de desempeño profesional en el ámbito de Ingeniería de datos.",
+      "requirements": [
+        "CC3001"
+      ],
+      "equivalences": [
+        "CC5206"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89058",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CC4901",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 37,
+      "approval_rate": 0.99,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las\r\nprácticas profesionales han sido definidas como hitos evaluativos del Perfil de egreso\r\nde la carrera de la FCFM, pues ellas corresponden a actividades curriculares que\r\npermiten evidenciar y monitorear el logro de una serie de competencias relevantes\r\ncomprometidas en dicho perfil. Además, permite darle la posibilidad a los/las\r\nestudiantes de demostrar de manera auténtica los logros desarrollados en su\r\nformación hasta el momento en donde se ubica la práctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y\r\nprotagónico, pues tendrá la oportunidad para demostrar desempeños tanto de las\r\ncompetencias específicas de su formación como de las competencias genéricas tales\r\ncomo trabajo en equipo, comunicación académica y profesional, compromiso ético e\r\ninnovación.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para\r\nvincular la universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "CC3002",
+        "CC3201",
+        "CC3301"
+      ],
+      "equivalences": [
+        "CC49A",
+        "CC399"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3505",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 7,
+      "code": "CC5901",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 30,
+      "approval_rate": 0.98,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las\r\nprácticas profesionales han sido definidas como hitos evaluativos del Perfil de egreso\r\nde la carrera de la FCFM, pues ellas corresponden a actividades curriculares que\r\npermiten evidenciar y monitorear el logro de una serie de competencias relevantes\r\ncomprometidas en dicho perfil. Además, permite darle la posibilidad a los/las\r\nestudiantes de demostrar de manera auténtica los logros desarrollados en su\r\nformación hasta el momento en donde se ubica la práctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y\r\nprotagónico, pues tendrá la oportunidad para demostrar desempeños tanto de las\r\ncompetencias específicas de su formación como de las competencias genéricas tales\r\ncomo trabajo en equipo, comunicación académica y profesional, compromiso ético e\r\ninnovación. Esta es la segunda práctica y considera desempeños observables,\r\nconsiderando el avance curricular del/la estudiante.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para\r\nvincular la universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "CC4901",
+        "CC4401",
+        "CC4101"
+      ],
+      "equivalences": [
+        "CC59A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3712",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3301",
+      "name": "Programación de Software de Sistemas",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.87,
+      "purpose": "El propósito del curso Programación de software de sistemas es que los/las estudiantes escriban y mejoren programas en lenguaje C, que requieren hacer un uso eficiente de la plataforma y, por lo tanto, necesitan conocer su arquitectura de hardware y la interfaz de programación de aplicaciones (API) del sistema operativo.",
+      "requirements": [
+        "CC3001"
+      ],
+      "equivalences": [
+        "CC31A",
+        "CC212",
+        "CC252"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3500",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 12,
+      "code": "CC5402",
+      "name": "Proyecto de Software",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": "El curso Proyecto de Software es un curso integrador de todos los aprendizajes adquiridos a lo largo de la carrera de Ingeniería Civil en Computación (capstone course). Su propósito es la realización de un proyecto, auténtico reflejo de la práctica profesional que desempeñarán los y las estudiantes al titularse. Este trabajo se realiza mediante el desarrollo de un proyecto basado en software para una organización externa al departamento de computación.\r\n\r\nEl curso sigue un enfoque de vinculación con el medio guiado por proyectos basado fundamentalmente en metodologías ágiles de desarrollo de software. Se sigue una estrategia incremental organizada en tres iteraciones. El desarrollo del proyecto de software se realiza en equipos interactuando sincrónicamente de forma virtual. \r\n\r\nEl curso comprende además una serie de actividades sincrónicas principalmente relativas a los aspectos docentes del curso:\r\n\r\nFormato presencial:\r\n\r\n\tdos semanas introductorias dedicadas a presentar a los estudiantes tanto los proyectos como las metodologías a aplicar.\r\n\tuna presentación pública al final de cada iteración, donde se expone el trabajo realizado hasta el momento, así como la planificación, los desafíos enfrentados y las reflexiones del trabajo realizado. \r\n\r\nFormato Virtual:\r\n\r\n\treuniones semanales de coordinación, reflexión y guía con el cuerpo docente.\r\nModalidad de trabajo:\r\n\r\nLa modalidad de trabajo es híbrida. Los y las estudiantes deben considerar 16 horas de trabajo asincrónico del equipo completo en el desarrollo del proyecto de software (esto se relaciona con el desarrollo del software y reuniones con los clientes). Asimismo, se consideran dos horas semanales de reuniones sincrónicas con el cuerpo docente, para retroalimentar a los equipos de trabajo, tomando en cuenta sus avances.\r\n\r\nLos equipos se organizan en torno a horarios de trabajo, considerando el contacto con clientes quienes determinan que es necesario o conveniente resolver cierto problema mediante un proyecto. Estos actores son quienes presentan los proyectos y van interactuando activamente con los/las estudiantes para mantener alineados el problema y la solución que se va desarrollando. También son fundamentales los/las usuarios/as, que no necesariamente son los clientes, donde serán los/las usuarios /as, quienes usarán el software desarrollado. \r\n\r\nLos y las estudiantes deberán interactuar con las/los clientes a partir de tener un producto parcialmente construido para validar la potencialidad de adopción efectiva. Cabe destacar que los/las usuarios/as pueden ser los propios clientes, aunque por lo general no lo son.",
+      "requirements": [
+        "CC4402",
+        "CC5205",
+        "IN3301",
+        "CC5401",
+        "CC4303",
+        "CC4102"
+      ],
+      "equivalences": [
+        "CC61A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3933",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC4303",
+      "name": "Redes",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 35,
+      "approval_rate": 0.92,
+      "purpose": "El curso tiene como propósito que los y las estudiantes diseñen, modelen e implementen aplicaciones en red, protocolos de transporte y redes de datos eficientes y correctas, para lograr hacer un uso optimizado de Internet. Asimismo, utilizan los principios básicos del funcionamiento de Internet, para diagnosticar y resolver problemas de operación de una red, considerando cómo funcionan los sistemas de transporte y las redes físicas utilizadas por Internet (TCP/IP, por ejemplo).",
+      "requirements": [
+        "CC4302"
+      ],
+      "equivalences": [
+        "CC51C",
+        "CC458",
+        "EL4107"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3632",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC4302",
+      "name": "Sistemas Operativos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 45,
+      "approval_rate": 0.89,
+      "purpose": "El propósito del curso sistemas operativos es que los/las estudiantes escriban programas que hagan un uso eficiente de los procesadores multi-core y que sean capaces de evaluar el impacto que tienen en el desempeño del software, la arquitectura del hardware y las estrategias que usa el núcleo del sistema operativo para administrar los recursos de hardware (CPU, memoria primaria y disco/ssd).",
+      "requirements": [
+        "CC3301"
+      ],
+      "equivalences": [
+        "CC41B",
+        "CC582",
+        "CC452"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3590",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC3102",
+      "name": "Teoría de la Computación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.85,
+      "purpose": "de lenguajes formales, computabilidad y complejidad computacional, estableciendo así\r\nalgunos límites de la computación.\r\nAsimismo, el/la estudiante será capaz de clasificar lenguajes formales en la jerarquía de\r\nregulares, libres del contexto, decidibles, aceptables y no aceptables, así como la jerarquía de\r\nlenguajes P, NP, y NP-completos. Adquirirá herramientas formales para clasificar lenguajes,\r\nasí como herramientas para resolver problemas prácticos que involucran describir y procesar\r\nlenguajes regulares y libres del contexto, particularmente, usando gramáticas y autómatas.",
+      "requirements": [
+        "CC3101",
+        "MA3705"
+      ],
+      "equivalences": [
+        "MA5201"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 21,
+      "code": "CC6910",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 1,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "CC6908",
+        "EI4205",
+        "EI2090",
+        "CC5402"
+      ],
+      "equivalences": [
+        "CC69H"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5233",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "CC6919",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 6,
+      "approval_rate": 0.92,
+      "purpose": null,
+      "requirements": [
+        "CC6907"
+      ],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 36,
+      "code": "plan5b9b32e6282f315fc6ea589a11ed87df",
+      "name": "Ingeniería Electivos Computación, V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 36 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "planbd228d6faba04e4f650162e487c85b4f",
+      "name": "Nucleo Gestión para Ingenieros V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan0352968cf382f22665119976b6c33c4b",
+      "name": "Formación Integral Especialidad Computación V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plane5ebc4d66a413234c212a3cd6cf52a99",
+      "name": "Licenciatura Electivos Computación V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

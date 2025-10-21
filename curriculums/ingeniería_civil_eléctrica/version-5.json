@@ -1,0 +1,1295 @@
+{
+  "name": "Ingeniería Civil Eléctrica",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 27,
+      "code": "EL6930",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EL6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3104",
+      "name": "Probabilidad y Procesos Estocásticos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 46,
+      "approval_rate": 0.83,
+      "purpose": "El curso entrega nociones fundamentales de la teoría de probabilidades y procesos estocásticos. Los y las estudiantes resuelven problemas asociados a distintas áreas de la ingeniería eléctrica, que involucren conceptos de la compresión de datos y/o identificación de sistemas lineales. Para esto, por una parte, caracterizan y cuantifican fuentes de incertidumbre y, por otra, modelan fenómenos físicos dentro del ámbito de la ingeniería eléctrica, utilizando conceptos tales como objetos aleatorios discretos, de dimensión finita y procesos estocásticos.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69141",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3204",
+      "name": "Análisis de Sistemas Dinámicos y Estimación",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 55,
+      "approval_rate": 0.86,
+      "purpose": "El curso tiene como propósito final que los y las estudiantes obtengan las herramientas para analizar y proponer soluciones a problemas de estimación y detección en ámbitos de la ingeniería eléctrica y disciplinas afines. Para esto, los y las estudiantes analizan y evalúan modelos de sistemas dinámicos en función de propiedades fundamentales tales como estabilidad, controlabilidad y observabilidad.\r\n\r\nAsimismo, serán capaces de diseñar algoritmos de clasificación, detección y estimación, a partir de una formulación probabilística (paramétrica y Bayesiana) de las fuentes de incertidumbre existentes en problemas de categorización e inferencia de variables (discretas y continuas), para proponer soluciones creativas. \r\n\r\nComo parte de su proceso de aprendizaje, los y las estudiantes podrán diseñar estimadores de estado para sistemas dinámicos lineales y observables, usando herramientas de inferencia Bayesiana y estimará parámetros de sistemas dinámicos a partir de entradas y salidas aleatorias.",
+      "requirements": [
+        "EL3104",
+        "EL3005"
+      ],
+      "equivalences": [
+        "EL4003"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=77649",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3101",
+      "name": "Análisis y Diseño de Circuitos Eléctricos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 37,
+      "approval_rate": 0.91,
+      "purpose": "Al término del curso los y las estudiantes demostrarán su capacidad para aplicar métodos y técnicas de análisis para la simulación, diseño e implementación de circuitos eléctricos lineales e invariantes.",
+      "requirements": [
+        "MA2002",
+        "FI2002"
+      ],
+      "equivalences": [
+        "EL3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69129",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3103",
+      "name": "Electromagnetismo Aplicado",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 42,
+      "approval_rate": 0.94,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen métodos y técnicas analíticas para resolver problemas de campos electromagnéticos, tanto en sistemas eléctricos de potencia como en propagación de ondas.",
+      "requirements": [
+        "FI2002"
+      ],
+      "equivalences": [
+        "EL3002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69137",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4114",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 51,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes modelen y formulen problemas de optimización en ingeniería para obtener soluciones óptimas, considerando restricciones técnicas, económicas, medioambientales, entre otras. \r\n\r\nPara esto, utilizan metodologías de programación continua y entera, evaluando dichas metodologías en términos de su eficiencia para dar solución a problemas específicos de optimización e interpretando los resultados de la solución y las limitaciones de aplicarlas en situaciones reales.",
+      "requirements": [
+        "EL3104"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89206",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3105",
+      "name": "Seminario de Ingeniería Eléctrica e innovación tecnológica",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que los y las estudiantes identifiquen las opciones de desarrollo que el Departamento de Ingeniería Eléctrica (DIE) ofrece a través de sus Áreas, Centros y líneas de investigación, considerando los avances tecnológicos, los desafíos actuales y la innovación como línea de desarrollo de la carrera. Además, este curso busca que los y las estudiantes analicen un desafío propuesto, diseñen e implementan un prototipo de baja resolución, como propuesta de valor de carácter conceptual, que demuestre total o parcialmente la solución a un problema, considerando el uso de software, hardware, modelos o cualquier soporte audiovisual. Los prototipos de baja resolución implementan aspectos generales del sistema sin entrar en detalles. \r\nEn este contexto, los y las estudiantes deberán elaborar una propuesta de valor de carácter conceptual de la solución al desafío o problemática.",
+      "requirements": [
+        "CD2201"
+      ],
+      "equivalences": [
+        "EL3006"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69149",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3102",
+      "name": "Sistemas Digitales",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 32,
+      "approval_rate": 0.94,
+      "purpose": "El curso tiene como propósito que los y las estudiantes diseñen y construyan sistemas digitales o hardware funcional, eficiente y de máximo desempeño, considerando especificaciones técnicas, económicas y ambientales. Para esto, utilizan conceptos y principios de la física (energía y calor) y matemáticas (lógica y álgebra), en el diseño de circuitos digitales simplificados.",
+      "requirements": [
+        "CD2201",
+        "FI2002"
+      ],
+      "equivalences": [
+        "EL4002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=72309",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3203",
+      "name": "Análisis de Señales",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 36,
+      "approval_rate": 0.96,
+      "purpose": "El curso tiene como propósito que los y las estudiantes realicen análisis mediante transformadas a señales y sistemas continuos y discretos para determinar cómo las señales se pueden representar en diferentes dominios. \r\n\r\nAsimismo, se espera que los y las estudiantes puedan seleccionar y utilizar métodos para resolver problemas de procesamiento de señales.",
+      "requirements": [
+        "EL3101",
+        "EL3001"
+      ],
+      "equivalences": [
+        "EL3005"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84773",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3202",
+      "name": "Circuitos Eléctricos Analógicos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 60,
+      "approval_rate": 0.87,
+      "purpose": "El curso que se ubica en el VI semestre tiene como propósito que los y las estudiantes diseñen, implementen y evalúen, a nivel teórico, circuitos electrónicos con elementos no-lineales activos y pasivos, considerando diversas aplicaciones en ingeniería. Asimismo, modelan elementos circuitales no-lineales pasivos y activos, con elementos lineales, considerando los principios físicos de los semiconductores.",
+      "requirements": [
+        "EL3101",
+        "EL3001"
+      ],
+      "equivalences": [
+        "EL3004"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84769",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4111",
+      "name": "Conversión de la Energía y Sistemas Eléctricos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 57,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes evalúen el comportamiento eléctrico, magnético y mecánico de máquinas eléctricas y otros sistemas de conversión de energía, convencional y renovables, utilizando modelos analíticos. Para ello, resuelven problemas que involucren conversión de energía, mediante un modelamiento físico-matemático y modelos circuitales. \r\n\r\nAsimismo, utilizan distintos métodos para determinar parámetros de los modelos que representan los diferentes sistemas de conversión de energía. Los y las estudiantes trabajan con datos de laboratorio de carácter demostrativo.",
+      "requirements": [
+        "EL3101",
+        "EL3001"
+      ],
+      "equivalences": [
+        "EL4001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=128814",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL3201",
+      "name": "Laboratorio de Ingeniería Eléctrica",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 34,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que los y las estudiantes diseñen e implementen circuitos y dispositivos eléctricos y electrónicos de diversa naturaleza, utilizando las leyes fundamentales de los campos electromagnéticos, así como principios básicos de operación para el manejo de redes eléctricas. Para ello, ejecutan un trabajo prolijo y bien estructurado en las actividades experimentales de laboratorio, considerando aspectos de seguridad que permitan prevenir accidentes en el manejo de la corriente eléctrica y de fuentes de poder.",
+      "requirements": [
+        "EL3101",
+        "EL3001",
+        "EL3103",
+        "EL3002"
+      ],
+      "equivalences": [
+        "EL3003"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84765",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 1,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 7,
+      "code": "EL4115",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 39,
+      "approval_rate": 0.99,
+      "purpose": null,
+      "requirements": [
+        "EL3101",
+        "EL3102",
+        "EL3105"
+      ],
+      "equivalences": [
+        "EL4901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124622",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4203",
+      "name": "Programación Avanzada",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 40,
+      "approval_rate": 1.0,
+      "purpose": "El curso de Programación avanzada tiene como propósito que los y las estudiantes diseñen y codifiquen algoritmos en diversos lenguajes de programación aplicables a problemas en diversas áreas de la Ingeniería Eléctrica, ejecutando y documentando las soluciones que permitan la replicabilidad de estas. Para esto, utilizan herramientas de programación orientada a objetos, estructuras de datos, métodos de ordenamiento y búsqueda, y metodologías de diseño y programación, con foco en la integración de las herramientas de software en los sistemas y servicios de la ingeniería eléctrica.\r\n\r\nAsimismo, se busca habilitar a los y las estudiantes en competencias de programación estructurada, con énfasis en el desarrollo de códigos óptimos en cuanto a su eficiencia y eficacia, útiles en la implementación de dispositivos inteligentes, integrando aspectos ético-profesionales y estándares de calidad asociados.",
+      "requirements": [
+        "EL3102",
+        "EL4114"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116558",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4204",
+      "name": "Formulación y Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso tiene como propósito que los y las estudiantes formulen y evalúen proyectos de inversión públicos y privados en ingeniería eléctrica, con sus respectivas etapas y componentes, integrando a su formulación criterios técnicos, económicos, sociales, ambientales y éticos.\r\n\r\nAsimismo, los y las estudiantes calculan indicadores de rentabilidad de un proyecto en ingeniería eléctrica, desde una perspectiva privada y social, a fin de determinar su viabilidad.\r\n\r\nLa metodología del curso permite que el estudiante construya de manera activa su aprendizaje. Esto incluye un trabajo que une teoría y práctica, aplicable a casos, con ejemplos reales y significativos.",
+      "requirements": [
+        "EL4115"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115630",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4113",
+      "name": "Fundamentos de Control de Sistemas",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 59,
+      "approval_rate": 0.8,
+      "purpose": "El curso tiene como propósito que los y las estudiantes diseñen controladores los cuales permiten a un sistema operar de acuerdo a un conjunto de especificaciones. Para ello, analizan y modelan sistemas lineales continuos y discretos. Además, emplean métodos y técnicas básicas de control para sistemas dinámicos lineales, tanto de tiempo continuo como discreto, utilizando herramientas analíticas y/o computacionales.",
+      "requirements": [
+        "EL3203",
+        "EL3005",
+        "EL3204",
+        "EL4003"
+      ],
+      "equivalences": [
+        "EL4004"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116562",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL4112",
+      "name": "Principios de Comunicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 49,
+      "approval_rate": 0.96,
+      "purpose": "El curso tiene como propósito que los y las estudiantes utilicen los modelos OSI, TCP/IP, para resolver problemas asociados al comportamiento de una red de comunicaciones, considerando las últimas las últimas tendencias tecnológicas. Asimismo, aplican conceptos básicos de teoría de la información y capacidad de canal de Shannon, para la caracterización de un canal de ancho de banda limitado y ruido aditivo blanco Gaussiano.\r\n\r\nPor último, los y las estudiantes evalúan sistemas de transmisión digital sobre un canal ideal, descomponiéndolos en sus bloques funcionales de codificación, modulación y detección y resuelven problemas de estimación de la tasa de error en el proceso de la transmisión-recepción de la información.",
+      "requirements": [
+        "EL3203",
+        "EL4003",
+        "EL3104"
+      ],
+      "equivalences": [
+        "EL4005"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89198",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 14,
+      "code": "EL5115",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 41,
+      "approval_rate": 0.99,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las prácticas\r\nprofesionales han sido definidas como hitos evaluativos del Perfil de egreso de la carrera de\r\nla FCFM, pues ellas corresponden a actividades curriculares que permiten evidenciar y\r\nmonitorear el logro de una serie de competencias relevantes comprometidas en dicho\r\nperfil. Además, permite darle la posibilidad a los/las estudiantes de demostrar de manera\r\nauténtica los logros desarrollados en su formación hasta el momento en donde se ubica la\r\npráctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y protagónico,\r\npues tendrá la oportunidad para demostrar desempeños tanto de las competencias\r\nespecíficas de su formación como de las competencias genéricas tales como trabajo en\r\nequipo, comunicación académica y profesional, compromiso ético e innovación. Esta es la\r\nsegunda práctica y considera desempeños observables, considerando el avance curricular\r\ndel/la estudiante.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para vincular\r\nla universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "EL4204",
+        "EL4111",
+        "EL4112",
+        "EL4113"
+      ],
+      "equivalences": [
+        "EL5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124578",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "EL6101",
+      "name": "Taller de Proyectos Tecnológicos",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.99,
+      "purpose": "El curso tiene como propósito que el estudiantado trabaje y desarrolle un proyecto que consiste en un estudio de ingeniería y/o desarrollo de producto, cuyo objetivo y estándar sea definido por el cuerpo académico, en conformidad con los y las estudiantes o, por los y las estudiantes y sea aceptado por los y las académicos/as.\r\n\r\nEl objetivo del proyecto puede situarse en alguna de las siguientes etapas, según línea o tipo de proyecto: Ingeniería conceptual, anteproyecto, estudio de factibilidad, ingeniería básica e ingeniería de detalle. \r\n\r\nLos y las estudiantes entregarán avances del estudio de ingeniería y/o diseño de un producto, realizando ajustes, según las indicaciones derivadas de las revisiones y sugerencias del cuerpo académico.\r\n\r\nLíneas de trabajo para el estudio de ingeniería y/o desarrollo de un producto:\r\n\r\nLas líneas de trabajo para el proyecto tecnológico se relacionan con las diferentes especialidades que ofrece la carrera de Ingeniería Civil Eléctrica de la Universidad de Chile; a modo de ejemplo se pueden mencionar: Energía, TICS, Control, Instrumentación, Inteligencia computacional y Robótica.\r\n\r\nModalidad para el desarrollo del taller de proyecto tecnológico\r\n\r\nLa modalidad de trabajo es grupal. Los equipos deberán estar constituidos por un mínimo de tres integrantes. Con esta metodología se pretende emular la forma de trabajo en un proyecto real, y se evaluará la interacción entre los integrantes, respecto de sus responsabilidades, liderazgos, organización, comunicación y relaciones humanas. Se trabajará como si fuese una oficina de ingeniería donde el equipo de especialistas (estudiantado) debe cumplir con la actividad, en un plazo determinado y con un presupuesto limitado.\r\n\r\nLa modalidad de trabajo y desarrollo deberá incluir al menos los siguientes puntos:\r\n\r\n\tPreparar y presentar un plan de trabajo.\r\n\tDefinición y alcance del proyecto a desarrollar (recogida de antecedentes). En esta etapa se debe diferenciar lo que es diseño y lo que es proyecto.\r\n\tDesarrollo del proyecto al nivel que se defina: de ingeniería conceptual, anteproyecto, ingeniería básica o de detalle o desarrollo de un producto mínimo viable.\r\n\tCriterios de diseño y funcionalidades requeridas por el estudio de ingeniería y/o desarrollo del producto.\r\n\tRequerimientos medioambientales.\r\n\tEstudio de alternativas de solución.\r\n\tDefinición de los entregables.\r\n\tElaboración de especificaciones técnicas, planos y análisis de costos.\r\n\tConsideraciones para la construcción y montaje de equipos.\r\n\tPruebas finales, puesta en servicio, prototipado, recepción de las obras del proyecto si corresponde.",
+      "requirements": [
+        "EL4203",
+        "EL4204",
+        "EL4102",
+        "EL4103",
+        "EL4105",
+        "EL4106",
+        "EL4107",
+        "EL4108"
+      ],
+      "equivalences": [
+        "EL5001",
+        "EL5002",
+        "EL5003",
+        "EL5004"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=128646",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL6908",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.77,
+      "purpose": "En este curso se busca que los y las estudiantes ejecuten una investigación bibliográfica sobre la naturaleza de un problema relevante en el área de la Ingeniería Eléctrica. \r\n\r\nDurante este curso se define el proyecto original o investigación a desarrollar.",
+      "requirements": [
+        "EL5115"
+      ],
+      "equivalences": [
+        "EL69E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3747",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "EL6301",
+      "name": "Taller de Desempeño Profesional",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 51,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el/la estudiante reconozca las características relevantes del mercado laboral, así como las principales competencias y habilidades requeridas por este y obtener herramientas que le permitan insertarse exitosamente en él. \r\n\r\nMediante un trabajo práctico, es capaz de revisar dichas competencias y habilidades, contrastándolas con las propias, considerando la relevancia de desarrollar redes profesionales, habilidades de liderazgo y equipos de trabajo. Así mismo trabaja en actividades intrínsecas al trabajo como ingeniero(a) como son la persuasión y negociación, siempre con un enfoque con altos principios éticos.\r\n\r\nLa metodología del curso considera: clases expositivas, análisis crítico de la realidad laboral, talleres de empleabilidad, paneles o conversatorios con egresados, trabajos prácticos (talleres, discusiones grupales), así como lecturas y videos complementarios. Se busca una participación permanente de parte de los y las estudiantes, donde sean capaces de discutir y debatir en un ambiente de respeto y honestidad.",
+      "requirements": [
+        "EL6101"
+      ],
+      "equivalences": [
+        "EL5900"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=176026",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "EL6201",
+      "name": "Taller de Emprendimiento e Innovación",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 18,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el estudiante sea capaz de desarrollar un proyecto innovador y original, considerando una necesidad o dolor comercial o social, oportunidad y tamaño del problema, así como una evaluación económica de este proyecto, iterando este plan con técnicas como Design Thinking, elaboración de maquetas y uso de Canvas. \r\n\r\nComo se ha señalado, este proyecto se trabaja de manera iterativa en un proceso de descubrimiento y definición del dolor no resuelto u oportunidad no explotada. Se desarrolla una solución para el problema en un trabajo dinámico, organizado en fases o hitos: planificación, El dolor o necesidad y la solución, generación de alternativas: evolución de la maqueta y desarrollo de un plan de negocios.",
+      "requirements": [
+        "EL6101"
+      ],
+      "equivalences": [
+        "EL6020"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=142206",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 27,
+      "code": "EL6919",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería Eléctrica",
+        "code": "DIE",
+        "id": 10
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.9,
+      "purpose": "En este curso se busca que los y las estudiantes desarrollen y finalicen su investigación o proyecto original sobre la naturaleza de un problema relevante en el área de la Ingeniería Eléctrica. \r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Desarrolla el trabajo de título, de acuerdo al objetivo general y los objetivos específicos planteados en Introducción al Trabajo de Título (EL6908).\r\n-Aplica herramientas de ingeniería eléctrica (modelamiento, simulación, análisis de datos, entre otros) para obtener una solución a su problema de investigación o proyecto original.\r\n-Obtiene los resultados comprometidos, de acuerdo con los objetivos propuestos en el curso Introducción al Trabajo de Título, que puede considerar aspectos experimentales y/o de simulación.\r\n-Interpreta y sintetiza los resultados obtenidos, con base en un análisis de su investigación o proyecto.\r\n-Comunica avances de su Trabajo de Título en presentaciones y en informes escritos, identificando factores críticos para el desarrollo de su proyecto y planteando las soluciones respectivas. \r\n-Explica de manera sintética los resultados obtenidos, demostrando dominio del tema para exponer lo central de su propuesta.\r\n-Redacta el informe final que permite dar cuenta de forma clara y concisa sobre la motivación, el estado del arte, metodología, planificación y planteamiento del proyecto desarrollado, contribución, resultados esperados y conclusiones respecto de sus avances e incorporación de referencias bibliográficas actualizadas en su informe.",
+      "requirements": [
+        "EL6908"
+      ],
+      "equivalences": [
+        "EL6909"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=189298",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 36,
+      "code": "plan51fbaa9a3b82ad5637c5c9b99aab887a",
+      "name": "Ingeniería Electivos Eléctrica, V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 36 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 12,
+      "code": "plana9521f84538970c977ff8bc5e09fdd26",
+      "name": "Licenciatura Electivos Eléctrica V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 12 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 18,
+      "code": "plan1d6910bc8a8751aaba090fc93eff970c",
+      "name": "Electivos Otros Departamentos",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 18 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan9a655ef52da89c8d7ff7579286f95174",
+      "name": "Núcleo Línea de Especialización Eléctrica V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan7c10f3c4f8adb100e5df9265349af30b",
+      "name": "Laboratorio de Línea de Especialización Eléctrica V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

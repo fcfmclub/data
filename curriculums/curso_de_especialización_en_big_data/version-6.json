@@ -1,0 +1,23 @@
+{
+  "name": "Curso de Especialización en Big Data",
+  "version": 6,
+  "courses": [
+    {
+      "credits": 1,
+      "code": "CEEPBDATA01",
+      "name": "Big Data",
+      "department": null,
+      "students_per_course": 30,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

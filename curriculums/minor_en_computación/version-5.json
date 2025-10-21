@@ -1,0 +1,52 @@
+{
+  "name": "Minor en Computación",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 6,
+      "code": "CC3001",
+      "name": "Algoritmos y Estructuras de Datos",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 65,
+      "approval_rate": 0.91,
+      "purpose": "El curso Algoritmos y Estructuras de Datos tiene como propósito que los y las estudiantes logren un dominio de los conceptos básicos de diseño de algoritmos eficientes (iterativos y recursivos), de análisis de algoritmos, y de estructuras de datos (arreglos, estructuras enlazadas, grafos). \r\n\r\nLos y las estudiantes deben ser capaces de aplicar estos conceptos al diseño, implementación, y evaluación de los tipos de datos abstractos más usados (listas, pilas, colas, colas de prioridad, diccionario), así como de los algoritmos fundamentales (búsqueda, ordenación, algoritmos para grafos y para búsqueda en texto) utilizados en Ciencias de la Computación.",
+      "requirements": [
+        "CC1001",
+        "CC1002",
+        "CR90"
+      ],
+      "equivalences": [
+        "CC30A",
+        "CC253",
+        "CC211"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3935",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 24,
+      "code": "plan5147e32efa3acbc7736ec3d943ce63e4",
+      "name": "Electivos Minor en Computación V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 24 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

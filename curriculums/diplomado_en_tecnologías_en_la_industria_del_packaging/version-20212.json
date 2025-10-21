@@ -1,0 +1,125 @@
+{
+  "name": "Diplomado en Tecnologías en la Industria del Packaging",
+  "version": 20212,
+  "courses": [
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP01",
+      "name": "01. Introducción al Packaging",
+      "department": null,
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP02",
+      "name": "02. Sustentabilidad",
+      "department": null,
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP03",
+      "name": "03. Innovación",
+      "department": null,
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP04",
+      "name": "04. Materias Primas y Procesos",
+      "department": null,
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP05",
+      "name": "05. Aplicaciones Industriales",
+      "department": null,
+      "students_per_course": 18,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP06",
+      "name": "06. Taller",
+      "department": null,
+      "students_per_course": 14,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 0,
+      "code": "DEIQBTDPIP07",
+      "name": "07 Procesos de envasado",
+      "department": null,
+      "students_per_course": 13,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

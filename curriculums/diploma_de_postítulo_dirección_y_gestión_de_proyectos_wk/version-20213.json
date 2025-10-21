@@ -1,0 +1,125 @@
+{
+  "name": "Diploma de Postítulo Dirección y Gestión de Proyectos WK",
+  "version": 20213,
+  "courses": [
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK01",
+      "name": "1. Fundamentos de D&GP (Standard PMI) y Factibilidad de Proyectos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK02",
+      "name": "2. Iniciación y Planificación de Proyectos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK03",
+      "name": "3. Ejecución de Proyectos: Gestión de Personas y Equipos de Trabajo",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK04",
+      "name": "4. Gestión de Contratos y Abastecimiento",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK05",
+      "name": "5. Control y Seguimiento de Proyectos: Cierre y Conclusión Satisfactoria",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK06",
+      "name": "6. Gestión Ágil de Proyectos",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 4,
+      "code": "DPDIIDGPWK07",
+      "name": "7. Gestión de Proyectos de Negocio y Emprendimiento",
+      "department": null,
+      "students_per_course": 45,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}

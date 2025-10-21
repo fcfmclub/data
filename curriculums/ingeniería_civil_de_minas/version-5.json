@@ -1,0 +1,1494 @@
+{
+  "name": "Ingeniería Civil de Minas",
+  "version": 5,
+  "courses": [
+    {
+      "credits": 3,
+      "code": "BT1211",
+      "name": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 88,
+      "approval_rate": 0.96,
+      "purpose": "El curso Aplicaciones de la Biología a la Ingeniería y Ciencias tiene como propósito que el estudiante comprenda la relación existente entre la biología, la física y la química, y su aplicación en ciencias y en ingeniería. Para ello, se utilizan ejemplos prácticos de esta relación, a través de conceptos biológicos nuevos y ya conocidos, con lo cual se introduce al estudiante en el quehacer profesional científico e ingenieril. Mediante estos ejemplos, se considera la aplicación del método científico y sus etapas. \r\nEl curso está planteado para comprender la biología con criterio analítico. Con ello, se logra  que el estudiante comprenda que los sistemas biológicos son complejos, interactivos y dinámicos. Junto con lo anterior el estudiante visualiza soluciones biológicas a partir de casos reales que consideran dimensiones éticas asociadas a las nuevas tecnologías.\r\nLa metodología de este curso permite que el estudiante  participe  activamente de manera individual y colectiva en la construcción de su aprendizaje.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48665",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CD1100",
+      "name": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 64,
+      "approval_rate": 0.99,
+      "purpose": "El curso de Desafíos de Innovación en Ingeniería y Ciencias  corresponde al primero de tres cursos del Plan Común que abordan la formación de los estudiantes en el proceso de innovación en ingeniería y ciencias. \r\nA lo largo del curso el estudiante tendrá oportunidades para conocer demandas de un usuario real,  describir en profundidad la necesidad y su contexto, definir un problema a resolver y proponer soluciones innovadoras que mejoren la vida de los usuarios. \r\nDurante el curso los estudiantes desarrollan trabajo en equipo, haciendo especial énfasis tanto al cumplimiento de compromisos adquiridos como en la revisión crítica del desempeño de cada integrante, para el logro del propósito común del equipo que es dar solución a los desafíos encomendados.",
+      "requirements": [],
+      "equivalences": [
+        "EI1101",
+        "EI1102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=49257",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI1090",
+      "name": "Examen de Suficiencia en Inglés I",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 336,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [],
+      "equivalences": [
+        "EI19A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16498",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3235",
+      "name": "Fenómenos de Transporte",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.85,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen principios básicos de conservación de masa y momentum para el planteamiento y resolución de problemas simples de fluidodinámica en el contexto de la Ingeniería de Minas.\r\n\r\nPara ello, utilizan herramientas de cálculo diferencial, ecuaciones diferenciales y matemáticas aplicadas para resolver problemas planteados de transporte de momentum, masa y energía en medios continuos dependientes del espacio y del tiempo.\r\n\r\n.",
+      "requirements": [
+        "FI2004",
+        "IQ2212",
+        "CM2004"
+      ],
+      "equivalences": [
+        "MI3010"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=84873",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3230",
+      "name": "Fisicoquímica Metalúrgica",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.8,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen herramientas de la fisicoquímica, cinética y termodinámica tales como funciones de estado y constantes de equilibrio, entre otros, mediante el uso de modelos matemáticos para evaluar la eficiencia en estado estacionario de los procesos metalúrgicos y transformaciones, considerando diferentes tipos de reacciones y/o separaciones. Asimismo, determinan las concentraciones reales de especies químicas y su impacto en procesos metalúrgicos, en equilibrio químico homo y heterogéneo, considerando soluciones diluidas y concentradas.\r\n\r\nPor otra parte, busca resolver un problema técnico de metalurgia asociado tratamientos de agua y drenaje de ácido de rocas, considerando restricciones, ventajas y desventajas, análisis económico preliminar y puesta en valor de la propuesta.",
+      "requirements": [
+        "FI2004",
+        "IQ2212",
+        "CM2004"
+      ],
+      "equivalences": [
+        "MI4110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=83505",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1101",
+      "name": "Introducción al Álgebra",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.75,
+      "purpose": "El curso Introducción al Álgebra tiene como propósito desarrollar la habilidad de abstracción y de razonamiento lógico del estudiante, familiarizándolo con el lenguaje matemático básico de forma que lo comprenda y lo utilice para formular, escribir y demostrar proposiciones matemáticas simples, obteniendo, de esta forma, herramientas fundamentales para los cursos de ciencias e ingeniería posteriores.\r\n\r\nAsimismo, el curso brinda las herramientas necesarias para que el estudiante utilice técnicas de demostración como la inducción, demostraciones directas e indirectas, demostraciones por casos, y demostraciones por reducción al absurdo.\r\n\r\nPara entender el lenguaje matemático básico el estudiante debe ser capaz de comprender la lógica simbólica, el álgebra de conjuntos, las nociones de función y relación, conceptos básicos de conteo y estructuras algebraicas, adquiriendo soltura en la manipulación y operación de proposiciones, cuantificadores, conjuntos, sumatorias, números complejos y polinomios.",
+      "requirements": [],
+      "equivalences": [
+        "MA110"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3533",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1001",
+      "name": "Introducción al Cálculo",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.75,
+      "purpose": "El curso MA1001, Introducción al Cálculo, entrega las herramientas y conceptos básicos que el estudiante requiere para seguir la línea de cursos de cálculo en Plan común. El curso provee además una primera aproximación a la rigurosidad necesaria en los cursos matemáticos del Plan Común.\r\nEl curso comienza con algunos complementos a la formación básica de los estudiantes en matemáticas, incluyendo contenidos de propiedades de los números reales, geometría analítica y trigonometría. La mayor parte del curso se enfoca en establecer los conceptos básicos que subyacen al cálculo diferencial e integral, incluyendo funciones de una variable real, el estudio de límites de sucesiones, límites de funciones y cálculo de asíntotas. Finalmente se introducen el concepto y la operatoria de derivadas, que son estudiadas en mayor detalle en el siguiente curso de la Línea de Cálculo.\r\nLa metodología de trabajo incluye clases de cátedra expositivas y clases auxiliares enfocadas en el desarrollo y la resolución de problemas por parte de los estudiantes con apoyo del equipo docente.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o Código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [],
+      "equivalences": [
+        "MA100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=12398",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1000",
+      "name": "Introducción a la Física Clásica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se dicta durante el primer semestre del Plan Común. Al finalizar el curso el estudiante manejará conceptos fundamentales de mecánica, como cinemática, leyes de Newton y leyes de conservación, para una partícula puntual, sistemas de partículas puntuales, sólidos rígidos y fluidos. Estos conceptos son necesarios para avanzar en el aprendizaje de la física, tanto en el Plan Común como en las distintas especialidades que ofrece la Facultad.\r\nEl curso ofrecerá distintas experiencias de laboratorio para verificar la validez de los conceptos planteados, permitiendo desarrollar competencias experimentales y de trabajo en equipo. El equipo docente promoverá que estas experiencias se desarrollen en un contexto de responsabilidad y honestidad.",
+      "requirements": [],
+      "equivalences": [
+        "FI1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=47473",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1102",
+      "name": "Álgebra Lineal",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 89,
+      "approval_rate": 0.89,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del álgebra lineal desde un punto de vista teórico y práctico, con un énfasis especial en tópicos que serán relevantes para cursos posteriores en la comprensión y modelamiento de fenómenos lineales, y en la aproximación de fenómenos no lineales.\r\n\r\nSe espera que el estudiante comprenda las operaciones básicas de matrices, sus propiedades y su relación con distintos problemas del álgebra lineal y otras aplicaciones; que asimile el concepto de espacio vectorial y conozca ejemplos importantes que se aplicarán en cursos posteriores; que comprenda y conozca los principales resultados asociados a subespacios vectoriales y dimensión; que comprenda la geometría de espacios vectoriales reales y complejos y conceptos como ortogonalidad, paralelismo y proyecciones; y que asimile el concepto de transformaciones lineales definidas en espacios vectoriales de dimensión finita, que comprenda su representación a través de matrices, que calcule sus valores y vectores propios y que, cuando sea posible, obtenga su forma diagonal.\r\nSe espera que el estudiante actúe en las actividades que se le \r\n proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas",
+      "requirements": [
+        "MA1101",
+        "MA110"
+      ],
+      "equivalences": [
+        "MA1B2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3462",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA1002",
+      "name": "Cálculo Diferencial e Integral",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 94,
+      "approval_rate": 0.77,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en una variable real. Se espera que el estudiante asimile los conceptos de derivada y de integral, así como la relación entre ambos conceptos dado por el Teorema Fundamental del Cálculo. \r\n\r\nGran parte del curso se enfoca en el uso de las derivadas para estudiar el comportamiento de las funciones reales en una variable real; y en la aplicación de las integrales para el cálculo de áreas, volúmenes de revolución y centros de masa de curvas, entre otros, que son elementales para el planteamiento y resolución de problemas en ingeniería. El curso concluye con el tratamiento de integrales impropias, series infinitas, series de potencia y un estudio inicial de curvas en el espacio.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1001",
+        "MA100"
+      ],
+      "equivalences": [
+        "MA1A2"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3459",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 0,
+      "code": "EI2090",
+      "name": "Examen de Suficiencia en Inglés II",
+      "department": {
+        "name": "Escuela de Ingeniería",
+        "code": "EI",
+        "id": 27
+      },
+      "students_per_course": 203,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "EI1090"
+      ],
+      "equivalences": [
+        "EI29A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=16502",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CC1000",
+      "name": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 47,
+      "approval_rate": 0.98,
+      "purpose": "El curso Herramientas Computacionales para Ingeniería y Ciencias tiene por finalidad asegurar que todos los estudiantes, independientemente de sus conocimientos previos, logren un nivel de manejo de las herramientas computacionales básicas tales como: Excel, R, MATLAB, Maple, LaTeX, entre otros, que permita la resolución de problemas simples de la ingeniería y ciencias.\r\n\r\nEl curso es eminentemente práctico y se orienta a la resolución de problemas, motivando la introducción de las herramientas necesarias para resolverlos, y profundizando en las características de estas herramientas a medida que los problemas planteados lo requieren.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=4593",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 1,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI1100",
+      "name": "Introducción a la Física Moderna",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene como propósito que el estudiante aplique conceptos de la física fundamental tales como conceptos de oscilaciones y ondas, óptica geométrica y ondulatoria, así como temáticas desarrolladas a partir del siglo XX, en particular relatividad especial y física cuántica. Durante el curso se destacarán las observaciones que llevaron al desarrollo de estas áreas y las aplicaciones tecnológicas que han surgido de ellas, lo cual se reforzará mediante varias experiencias de laboratorio.\r\nLos conceptos vistos en este curso entregarán al estudiante una visión crítica de los desarrollos tecnológicos más recientes.\r\nLas experiencias de laboratorio ofrecidas en este curso permitirán desarrollar competencias experimentales, de trabajo en equipo, de comunicación y de compromiso ético, basado en la responsabilidad y honestidad.",
+      "requirements": [
+        "FI1000",
+        "MA1101",
+        "MA1001"
+      ],
+      "equivalences": [
+        "FI1002"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48273",
+      "weekly_modules": {
+        "labs": 2,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "CC1002",
+      "name": "Introducción a la Programación",
+      "department": {
+        "name": "Departamento de Ciencias de la Computación",
+        "code": "DCC",
+        "id": 5
+      },
+      "students_per_course": 83,
+      "approval_rate": 0.89,
+      "purpose": "Este curso tiene por finalidad que los estudiantes resuelvan problemas de baja complejidad,\r\nsiguiendo una ruta metodológica y generando programas capaces de dar respuestas a las\r\ndistintas peticiones y finalidades de éstos. Los problemas estarán definidos en diversos\r\ndominios de aplicación, pudiendo tener representación en el ámbito de la ingeniería. Los\r\nestudiantes podrán centrarse fundamentalmente en el desarrollo de una metodología de\r\ntrabajo que los llevará a adquirir rigor procedimental para enfrentarse a la resolución de estas\r\ntareas en base al razonamiento algorítmico y lógico. Por ello, las clases tendrán una estructura\r\nteórico-práctica en las que se introducirán las nuevas temáticas a partir de problemas\r\nseleccionados y se contará con orientaciones metodológicas por parte de los ayudantes de la\r\ncátedra",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5571",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD1201",
+      "name": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 62,
+      "approval_rate": 0.99,
+      "purpose": "El curso Proyecto de Innovación en Ingeniería y Ciencias tiene como propósito que el estudiante reconozca y entienda un problema de manera fundada y dimensionada, levantando y gestionando herramientas y fuentes de información, en torno a un contexto y usuario, lo cual le permitirá encontrar a través de herramientas de validación y experimentación, espacios de oportunidad explorando nuevas perspectivas o puntos vista del problema definido inicialmente. El estudiante logrará definir un problema y un desafío reencuadrado lo que le permitirá comunicar un proyecto conducente al desarrollo de soluciones con base tecnológica. El estudiante a través del uso de herramientas análogas y digitales logrará conceptualizar y materializar una propuesta de solución, desarrollando prototipos de resolución baja y media que someterá a pruebas y validaciones de funcionalidad y usabilidad con pares y usuarios, lo cual le permitirá presentar una propuesta final que integre lo aprendido a través de las iteraciones, comunicando y documentando el proceso creativo llevado a cabo.",
+      "requirements": [
+        "CD1100"
+      ],
+      "equivalences": [
+        "EI2001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48729",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 30,
+      "code": "MI6930",
+      "name": "Trabajo de Memoria de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": null,
+      "requirements": [
+        "CR300"
+      ],
+      "equivalences": [
+        "MI6910"
+      ],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2001",
+      "name": "Cálculo en Varias Variables",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 92,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos fundamentales del cálculo en varias variables reales.  Se espera que el estudiante asimile los conceptos de sucesiones, límites, continuidad, derivadas e integrales en varias variables. Además, se espera que el estudiante pueda usar estos conceptos para estudiar el comportamiento de funciones en varias variables y aplicarlos, por un lado, a problemas de modelamiento en los que se deba buscar máximos y mínimos, como una primera aproximación al posterior curso de Optimización, y por otro para el cálculo de volúmenes, masas y momentos de inercia que son fundamentales para la resolución de problemas en ingeniería. \r\nSe espera además que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2A1",
+        "MA22A",
+        "MA220"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3463",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2601",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 91,
+      "approval_rate": 0.88,
+      "purpose": "El propósito de este curso es proporcionar los conocimientos teóricos y prácticos necesarios para resolver familias específicas de ecuaciones diferenciales ordinarias (EDO) e interpretar las soluciones de estas en aplicaciones a las ciencias y a la ingeniería.\r\nSe espera que el estudiante actúe en las actividades que se le proponen de manera responsable y honesta, evitando por ejemplo el plagio, copia de sus pares u otras fuentes, así como cualquier comportamiento que vaya en contra de sus pares, equipo docente o código de ética y reglamentos de la Escuela de la Facultad de Ciencias Físicas y Matemáticas.",
+      "requirements": [
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "MA2G1",
+        "MA26A",
+        "MA261"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3531",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2001",
+      "name": "Mecánica",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.81,
+      "purpose": "Este curso tiene como propósito que el estudiante utilice las leyes de la mecánica de Newton para modelar sistemas dinámicos constituidos por una o varias partículas.\r\nUn aspecto central del curso es lograr que el estudiante pueda resolver problemas de mecánica, utilizando las herramientas del cálculo diferencial e integral.  \r\nAl termino del curso el estudiante demostrará que:\r\nRA1: Modela sistemas compuestos por partículas en movimiento, identificando las variables cinemáticas (posición, velocidad y aceleración).\r\nRA2: Utiliza las leyes de Newton para obtener sistemas de ecuaciones diferenciales que describen el movimiento de sistemas compuestos por partículas y agentes externos.\r\nRA3: Predice el movimiento de sistemas de una o varias partículas, utilizando los conceptos de trabajo, energía, momentum angular y principio de mínima acción.\r\nRA4: Determina modos de oscilación y frecuencias normales de sistemas de una o más partículas en configuraciones cercanas al equilibrio estable.\r\nRA5: Realiza sus actividades académicas, basándose en sus capacidades, demostrando con ello honestidad en su comportamiento sin incurrir en plagio o copia.",
+      "requirements": [
+        "FI1100",
+        "FI1002",
+        "MA1002",
+        "MA1102"
+      ],
+      "equivalences": [
+        "FI2A1",
+        "FI21A",
+        "FI215"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3454",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 3
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2003",
+      "name": "Métodos Experimentales",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 54,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito que el estudiante desarrolle habilidades de trabajo experimental, utilizando metodologías experimentales generales y protocolos de seguridad. Para lograrlo, el curso se organiza principalmente en base a un conjunto de experiencias de electrónica básica, las cuales se realizan semanalmente en un laboratorio de física. Una clase teórica semanal permite introducir los conceptos de electrónica necesarios para interpretar los resultados experimentales.\r\nLas sesiones de laboratorio de este curso se desarrollan en equipos de trabajo. Cada equipo demuestra habilidades de comunicación escrita a través de los informes de laboratorios. Asimismo, demuestra compromiso ético cumpliendo con responsabilidad y honestidad frente a cada a tarea.",
+      "requirements": [
+        "MA1002",
+        "FI1100"
+      ],
+      "equivalences": [
+        "FI2A3",
+        "FI25A",
+        "FI35A",
+        "FI2003E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3494",
+      "weekly_modules": {
+        "labs": 3,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IQ2211",
+      "name": "Química",
+      "department": {
+        "name": "Departamento de Ingeniería Química y Biotecnología",
+        "code": "DQBIM",
+        "id": 307
+      },
+      "students_per_course": 84,
+      "approval_rate": 0.83,
+      "purpose": "El curso tiene como propósito que el estudiante demuestre que experimenta, resuelve problemas, analiza, discute la composición y estructura de los materiales. Se busca, además, que el estudiante logre calcular e interpretar conceptos de equilibrio químico y reacciones tales como ácido-base, oxidación y reducción, entre otras.\r\n\r\nLo anterior permite que el estudiante relacione dichos contenidos con las propiedades de los materiales: estructura electrónica, tipos de enlazamientos, estados de la materia y de sus procesos de transformación química. Además, logra establecer la importancia de estos tópicos en la aplicación a casos de la ingeniería y las ciencias.",
+      "requirements": [
+        "FI1100",
+        "CC1002"
+      ],
+      "equivalences": [
+        "CM1001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=48737",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA2002",
+      "name": "Cálculo Avanzado y Aplicaciones",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 90,
+      "approval_rate": 0.86,
+      "purpose": "Al terminar este curso, el estudiante:\r\n Utiliza e interpreta las variaciones de una función vectorial de variable vectorial, y las aplica para modelar y resolver problemas físicos y geométricos en el sistema de referencia mas conveniente.\r\n Reconoce las ecuaciones en derivadas parciales clásicas y las relaciona con los modelos físicos que las motivan, para ello estará familiarizado con las técnicas clásicas que se utilizan para analizar y resolver esta clase de ecuaciones.",
+      "requirements": [
+        "MA2001",
+        "MA2601"
+      ],
+      "equivalences": [
+        "MA2A2",
+        "MA26B",
+        "MA221"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=13266",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN2201",
+      "name": "Economía",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 85,
+      "approval_rate": 0.91,
+      "purpose": "El curso IN 2201, Economía, tiene como propósito que el o la estudiante determine, por una parte, el propósito del estudio de las ciencias económicas y, por otra, su importancia, campo y método de acción. En este contexto, el o la estudiante logre reconocer y reflexionar por qué es relevante para el desempeño futuro de un ingeniero saber de economía.\r\n\r\nEl curso busca que los y las estudiantes desarrolle una comprensión de la estructuras y organizaciones que se encuentran presentes en la discusión pública sobre temas económicos. Adicionalmente, deben aprender a distinguir aquellos eventos que son predecibles de acuerdo a su entendimiento del funcionamiento de la economía y la interacción de los mercados, de aquellos que son novedades o paradojas que están en proceso de ser explicados y siendo parte del debate científico o público contemporáneo.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [
+        "IN2C1",
+        "IN41A",
+        "IN301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3882",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "FI2002",
+      "name": "Electromagnetismo",
+      "department": {
+        "name": "Departamento de Física",
+        "code": "DFI",
+        "id": 13
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.86,
+      "purpose": "Este curso se ubica en el 4to semestre del ciclo de formación intermedia (Plan Común). El curso permite que el estudiante caracterice y describa los fenómenos electromagnéticos, abarcando desde la electrostática y magnetostática hasta la propagación de energía electromagnética. El estudiante tendrá así las herramientas fundamentales para valorar y argumentar las múltiples aplicaciones del electromagnetismo en diversas áreas de las ingenierías y ciencias. \r\n\r\nLa metodología que se utilizará en el curso es activo - participativa con el uso de diversas estrategias.",
+      "requirements": [
+        "MA2001",
+        "MA2601",
+        "FI2001"
+      ],
+      "equivalences": [
+        "FI33A",
+        "FI2A2",
+        "FI302",
+        "FI2002E"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3493",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3115",
+      "name": "Mecánica de Rocas I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.82,
+      "purpose": "El curso tiene como propósito introducir los conceptos básicos de mecánica de rocas. Como parte de su aprendizaje, los y las estudiantes resuelven problemas básicos de mecánica de rocas. Para ello, aplican conceptos de la teoría de la elasticidad, con sus supuestos y limitaciones, en materiales sólidos, para analizar los esfuerzos y deformaciones de un material. \r\nAsimismo, los y las estudiantes determinan la relación existente entre la mecánica de rocas y disciplinas afines como la geología y la mecánica de materiales, con su respectivo objeto de estudio, considerando que la roca es un material geológico complejo de estudiar y que puede ser analizado desde múltiples perspectivas.",
+      "requirements": [
+        "FI2001"
+      ],
+      "equivalences": [
+        "ME3202",
+        "MI3060"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69181",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "CD2201",
+      "name": "Módulo Interdisciplinario",
+      "department": {
+        "name": "Escuela de Ingeniería y Ciencias",
+        "code": "ES",
+        "id": 12
+      },
+      "students_per_course": 28,
+      "approval_rate": 0.99,
+      "purpose": "El Módulo interdisciplinario corresponde al tercer curso de la línea de innovación en Ingeniería y Ciencias del ciclo formativo del Plan Común. El curso se ubica en el cuarto semestre.\r\nA lo largo del curso el estudiante se incorporará a un equipo de trabajo donde tendrá oportunidades para conocer demandas de un usuario real, indagar en profundidad una necesidad y su contexto, definir un problema a resolver, proponer y materializar soluciones innovadoras, recurriendo a los conocimientos adquiridos en su formación intermedia, tanto en ciencias, matemáticas, como de herramientas computacionales y de comunicación principalmente.\r\nDurante el curso los estudiantes desarrollan trabajo en equipo, planifican y monitorean cada etapa del proyecto de innovación en el que participan, para asegurar el cumplimiento de las metas, el uso eficiente de recursos y considerar los alcances o efectos que puede generar sobre el medio natural, cultural y social. Para dar cuenta del proceso los estudiantes elaboran reportes del estado de avance del proyecto de innovación y exponen a diversas audiencias sus resultados.",
+      "requirements": [
+        "CD1201",
+        "FI2003"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=60122",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3403",
+      "name": "Probabilidades y Estadística",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 80,
+      "approval_rate": 0.84,
+      "purpose": "El propósito de este curso es que el/la estudiante aplique los conceptos fundamentales de la\r\nteoría de probabilidades en la modelación y solución de problemas concretos que involucran\r\nfenómenos aleatorios. También que enuncie leyes clásicas de probabilidad discretas y continuas, que calcule con ellas y que las asocie a situaciones específicas de modelación. Además que aplique la Ley de Grandes Números y del Teorema Central del Límite.\r\nOtra parte del propósito de este curso es que el/la estudiante conozca los conceptos\r\nfundamentales de la Inferencia Estadística y de los modelos lineales, y los aplique junto a los\r\nconceptos de probabilidad. Junto a esto, que conozca lo que es un muestreo aleatorio y la\r\nimportancia de la distribución Normal y su rol en el Teorema Central del Límite, que estime\r\nparámetros de una distribución y reconozca sus propiedades, y que conozca el Lema de Neyman Pearson y su aplicación en la toma de decisiones con un test de hipótesis. Adicionalmente, que aplique un modelo de regresión lineal y evalúe sus resultados. Finalmente, que aplique la teoría de tests en casos clásicos como son: la comparación de dos poblaciones, la comprobación que un conjunto de valores muestrales siguen una determinada distribución, el test de independencia en una tabla de contingencia.",
+      "requirements": [
+        "MA2001"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3754",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3100",
+      "name": "Química Mineralógica",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 22,
+      "approval_rate": 0.8,
+      "purpose": "El curso tiene como propósito que los y las estudiantes trabajen con las propiedades físicoquímicas de los minerales y sus aplicaciones en el campo de la explotación minera, mineralogía aplicada y procesamiento de minerales, comprendiendo su relevancia en la industria minera. Para ello, analizan elementos químicos formadores de los principales grupos minerales; considerando principios cristaloquímicos básicos para la formación de estructuras cristalinas. Asimismo, el y la estudiante identifican y analizan técnicas para la identificación y cuantificación mineral.",
+      "requirements": [
+        "IQ2211"
+      ],
+      "equivalences": [
+        "CM3001"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=5331",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI4040",
+      "name": "Análisis Estadístico y Geoestadístico de Datos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 12,
+      "approval_rate": 0.91,
+      "purpose": "El curso tiene como propósito que los y las estudiantes utilicen diversas herramientas de análisis estadístico y modelamiento para interpretar datos procedentes de muestreos, experimentos o pruebas industriales y construir modelos predictivos que favorecen la toma de decisiones, en un contexto de incertidumbre. \r\n\r\nSe trabaja con una metodología activo  participativa donde los estudiantes resuelven problemas diseñados, que involucran el uso de diversas herramientas de análisis y modelamiento, a fin de inferir o determinar parámetros, probar hipótesis, interpretar resultados de experimentos, modelar datos multivariados y/o regionalizados.\r\n\r\nPor su parte, el docente actúa como un mediador que acompaña al estudiante, revisando y/o corrigiendo cada una de las acciones emprendidas a fin de potenciar el aprendizaje de este.",
+      "requirements": [
+        "MA3403"
+      ],
+      "equivalences": [
+        "MI68A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3543",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3301",
+      "name": "Evaluación de Proyectos",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 75,
+      "approval_rate": 0.9,
+      "purpose": "El curso se encuentra en el VI semestre de la carrera. Este curso de  tiene como propósito que los y las estudiantes puedan calcular el valor de un proyecto de inversión, a partir del análisis y uso de datos reales, de su estructuración en estados financieros contables (Balance, Estado de Resultados, Flujo de Caja), del diseño de estrategias financieras derivadas del diagnóstico y del uso de herramientas matemáticas financieras, desde una perspectiva tanto privada, de evaluación de negocios, como social en el caso de proyectos públicos de inversión. \r\n\r\nEl curso trabaja con una metodología activo - participativa, donde los y las estudiantes construyen su aprendizaje, en pro de desarrollar herramientas tanto de carácter económico- financiero como de trabajo en equipo. Lo anterior, incluye manejo de teoría, análisis de casos prácticos, con ejemplos de la vida cotidiana. El o la docente guía las discusiones, generando espacios de reflexión acerca del marco teórico y su aplicación, con una retroalimentación constante a los estudiantes.",
+      "requirements": [
+        "IN2201",
+        "IN3141",
+        "MA3403",
+        "MA3401"
+      ],
+      "equivalences": [
+        "IN4301"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3480",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3105",
+      "name": "Geología para Ingenieros",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 16,
+      "approval_rate": 0.97,
+      "purpose": "El curso, que se ubica en el V semestre de la malla, tiene como propósito que los y las estudiantes utilicen conocimientos básicos de las Ciencias de la Tierra para comprender en el contexto sistemas y procesos mineros, los principales procesos físicos y químicos que actúan en el sistema Tierra y que modifican el paisaje terrestre, generando recursos naturales.\r\n\r\nAsimismo, el/la estudiante evalúa los potenciales impactos ambientales y riesgos geológicos asociados al desarrollo de una faena minera, considerando condicionantes del ambiente geológico de una determinada zona. Para ello, utiliza mapas y modelos geológicos estructurales en 2 y 3 D, interpretando datos o aplicando información a exploración, diseño y operación minera y estudios de impacto ambiental asociados.",
+      "requirements": [
+        "MA1002",
+        "CD2201"
+      ],
+      "equivalences": [
+        "GL3101",
+        "GL4102"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69173",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI4135",
+      "name": "Metalurgia Extractiva",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 14,
+      "approval_rate": 0.8,
+      "purpose": "El curso tiene como propósito que los y las estudiantes en el contexto de la metalurgia extractiva, identifican la ruta afín de obtención de metales, a partir de minerales que los contienen y resuelven problemas donde evalúan y estiman la eficiencia de procesos extractivos reales, así como del funcionamiento y la práctica operacional de equipos principales y plantean propuestas de mejora a aplicaciones de metalurgia, considerando fundamentos de termodinámica y cinética aplicada. Para ello, aplican fundamentos físicos y químicos a procesos metalúrgicos, considerando balances de masa y energía para la obtención de valiosos, considerando la estimación de capacidades de operaciones unitarias relevantes.",
+      "requirements": [
+        "MI3100",
+        "MI3230",
+        "MI3235"
+      ],
+      "equivalences": [
+        "MI4100"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=88070",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3110",
+      "name": "Minería y Sustentabilidad",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 20,
+      "approval_rate": 0.82,
+      "purpose": "El curso tiene como propósito que los y las estudiantes puedan analizar las etapas de desarrollo de un proyecto minero y sus características, desde la prospección geológica hasta la obtención de los productos y subproductos minerales, con un enfoque ético y sustentable del negocio minero. Para ello, el curso se desarrolla integrando los conceptos de Geo-Minero-Metalurgia (GMM) y Sostenibilidad. De esta forma, los/las estudiantes tendrán una visión global de los desafíos técnicos y de los impactos socio económicos y socio ambientales de los procesos del negocio minero.\r\nAsimismo, elabora y plantea, a nivel conceptual, estrategias para el desarrollo de una minería responsable en torno al medio ambiente y comunidades, considerando la relación entre la normativa vigente, la legislación minera y aspectos técnicos y económicos de esta actividad.",
+      "requirements": [
+        "CD2201"
+      ],
+      "equivalences": [
+        "MI3130"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=69177",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "IN3171",
+      "name": "Modelamiento y Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Industrial",
+        "code": "DII",
+        "id": 19
+      },
+      "students_per_course": 93,
+      "approval_rate": 0.86,
+      "purpose": "El curso, que se ubica en el V semestre de la licenciatura, tiene como propósito que los y las estudiantes identifiquen y analicen problemas de optimización y que construyan modelos que permita mejorar la eficiencia en la toma de decisiones. Para ello, utilizan herramientas tecnológicas diseñadas para obtener soluciones frente a diversos problemas.\r\n\r\nLa importancia de este curso radica en el hecho de que aporta a la formación de los y las estudiantes al proveer herramientas conceptuales que permiten identificar situaciones a las que se debe dar solución o que pueden ser mejoradas. Estos aprendizajes son transeversales a la formación, puesto que el/la estudiante pueden determinar cuáles son las falencias en el proceso de toma de decisiones frente a un problema o qué procesos pueden ser mejorados.",
+      "requirements": [
+        "MA2002"
+      ],
+      "equivalences": [
+        "IN3701"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=70165",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MA3701",
+      "name": "Optimización",
+      "department": {
+        "name": "Departamento de Ingeniería Matemática",
+        "code": "DIM",
+        "id": 21
+      },
+      "students_per_course": 78,
+      "approval_rate": 0.87,
+      "purpose": "El propósito de este curso es que el/la estudiante resuelva problemáticas que aparecen en el\r\nmodelamiento de problemas de ingeniería con herramientas de optimización lineal y\r\nno-lineal tanto continua como entera, con o sin restricciones, usando los algoritmos y\r\npaquetes computacionales más adecuados.",
+      "requirements": [
+        "MA2002"
+      ],
+      "equivalences": [
+        "MA37A",
+        "MA3711"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3605",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI4260",
+      "name": "Economía de Minerales",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 0.93,
+      "purpose": "El curso tiene como propósito aplicar los conceptos de la teoría microeconómica a los mercados de minerales. Como parte de su aprendizaje, los y las estudiantes resuelven problemas de economía aplicada los recursos naturales no renovables. Para ello, utilizan las herramientas y conocimientos básicos de economía, optimización estática y dinámica y lo relacionan con los problemas que involucran al sector minero nacional e internacional. \r\n\r\n\r\nAsimismo, los y las estudiantes relacionan el entorno socioeconómico en el cual se desenvuelve la minería, dando cuenta de las limitantes y desafíos que poseen los recursos minerales en la sociedad humana.",
+      "requirements": [
+        "MA3701",
+        "IN3171",
+        "IN3301",
+        "MI3110"
+      ],
+      "equivalences": [
+        "MI5081"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116566",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3210",
+      "name": "Introducción a Yacimientos Minerales",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.97,
+      "purpose": "El curso tiene como propósito que los y las estudiantes identifiquen los procesos naturales que determinan la formación de los minerales, y reconozcan las características de los distintos tipos de yacimientos en Chile y el mundo, y el impacto que tienen en el negocio minero. Esto último, a partir de los distintos tipos de minerales de mena y de ganga característicos de cada tipo de yacimiento, y potenciales implicancias para efectos de explotación y procesamiento de minerales.\r\n\r\nAsimismo, utilizan herramientas analíticas tales como el uso de diagramas ternarios y de estabilidad, para analizar los procesos fisicoquímicos que gobiernan la formación de minerales de mena.\r\n\r\nComo parte del proceso de enseñanza  aprendizaje, transversalmente a las unidades, los y las estudiantes deben indagar sobre un yacimiento relevante a nivel nacional y mundial para exponer sobre este, utilizando los conceptos aprendidos durante el semestre.",
+      "requirements": [
+        "MI3105",
+        "MI3100"
+      ],
+      "equivalences": [
+        "GL4401"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89778",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI4265",
+      "name": "Legislación Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 18,
+      "approval_rate": 0.9,
+      "purpose": "El curso tiene como propósito que los y las estudiantes analicen el marco regulatorio de la actividad minera en Chile, desde una mirada reflexiva y ética de su profesión, considerando ejemplos prácticos relacionados con la aplicación de la legislación minera y el rol del Estado como ente garante y regulador de dicha actividad. \r\n\r\nEn especial, el curso pretende abarcar el análisis de la política minera de Chile, los instrumentos legales existentes para su desarrollo, incluyendo su fase inicial de constitución de las concesiones mineras y la relación de estas con la disposición y uso de terrenos superficiales, hasta la fase operativa de la actividad de exploración y explotación minera, incluyendo algunas nociones acerca de la contratación especial minera.",
+      "requirements": [
+        "MI3110"
+      ],
+      "equivalences": [
+        "MI6131"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116598",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI3215",
+      "name": "Mecánica de Rocas II",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 15,
+      "approval_rate": 0.95,
+      "purpose": null,
+      "requirements": [
+        "MI3115",
+        "MI3105"
+      ],
+      "equivalences": [
+        "MI4060"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=83533",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 7,
+      "code": "MI4901",
+      "name": "Práctica Profesional I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 17,
+      "approval_rate": 0.97,
+      "purpose": "En el contexto del rediseño curricular de la formación en Ingeniería y Ciencias, las prácticas\r\nprofesionales han sido definidas como hitos evaluativos del Perfil de egreso de la carrera de\r\nla FCFM, pues ellas corresponden a actividades curriculares que permiten evidenciar y\r\nmonitorear el logro de una serie de competencias relevantes comprometidas en dicho\r\nperfil. Además, permite darle la posibilidad a los/las estudiantes de demostrar de manera\r\nauténtica los logros desarrollados en su formación hasta el momento en donde se ubica la\r\npráctica según plan de estudio.\r\nPor tanto, en cada práctica profesional el/la estudiante cumple un rol central y protagónico,\r\npues tendrá la oportunidad para demostrar desempeños tanto de las competencias\r\nespecíficas de su formación como de las competencias genéricas tales como trabajo en\r\nequipo, comunicación académica y profesional, compromiso ético e innovación.\r\nPor otra parte, las prácticas profesionales constituyen una valiosa oportunidad para vincular\r\nla universidad con la empresa a través de los/as estudiantes.",
+      "requirements": [
+        "MI3105",
+        "GL3101",
+        "MI3110",
+        "MI3130"
+      ],
+      "equivalences": [
+        "MI49A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3549",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI4150",
+      "name": "Procesamiento de Minerales I",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen criterios y bases de diseño, en la selección de circuitos de los procesos de reducción de tamaños y clasificación de minerales, para dimensionar, evaluar y operar estos procesos; para ello, determinan las características de materiales particulados y pulpas mineralúrgicas, con el fin de definir condiciones de tratamiento para el procesamiento de minerales.",
+      "requirements": [
+        "MI3110",
+        "MI3100"
+      ],
+      "equivalences": [
+        "MI4020"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=89806",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI4240",
+      "name": "Evaluación de Yacimientos",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 8,
+      "approval_rate": 1.0,
+      "purpose": "El curso Evaluación de yacimientos, tiene como propósito que los y las estudiantes determinen la cantidad, calidad y ubicación espacial de recursos minerales de un yacimiento. Para ello, los y las estudiantes analiza técnicas y resultados de muestreo, pruebas industriales metalúrgicas e interpretación geológica, relacionando diferentes aspectos geo-minero-metalúrgicos a fin de determinar un procedimiento asociado a la estimación de recursos de un yacimiento minero.",
+      "requirements": [
+        "MI3210",
+        "MI4040"
+      ],
+      "equivalences": [
+        "MI5041",
+        "MI54A"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116570",
+      "weekly_modules": {
+        "labs": 1,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI4070",
+      "name": "Fundamentos de Tecnología Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 19,
+      "approval_rate": 0.88,
+      "purpose": "El curso tiene como propósito que los y las estudiantes determinen la arquitectura existente de los dos métodos de explotación más utilizados en el mundo: explotación subterránea y a cielo abierto, comparándolos y asociándolos a los procesos unitarios requeridos. En dicho marco, aplica los fundamentos de cada una de las operaciones unitarias relacionadas con la explotación de minerales, mediante cálculos de ciclo de transporte, requerimientos de ventilación, construcción de accesos y diseño minero general, a fin de dar respuesta a problemas reales en el ámbito de la tecnología minera.\r\n\r\nLas clases tendrán una estructura teórico-práctica que consideran el análisis de los temas con diversas metodologías entre las que se pueden mencionar: exposiciones, lectura de textos en inglés y español, análisis de casos, de forma individual o en equipo.",
+      "requirements": [
+        "MI3215",
+        "MI4060"
+      ],
+      "equivalences": [
+        "MI57G"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=3547",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 3,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI4250",
+      "name": "Procesamiento de Minerales II",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.89,
+      "purpose": "El curso tiene como propósito que los y las estudiantes comprendan los fundamentos y operación en los procesos de concentración de minerales, transportes de pulpas y relaves, y separación sólido-líquido, siendo capaces de seleccionar o dimensionar sus equipos principales.",
+      "requirements": [
+        "MI4150",
+        "MI3235"
+      ],
+      "equivalences": [
+        "MI5021"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116938",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI5170",
+      "name": "Agua y Relaves",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.96,
+      "purpose": "Este curso tiene como propósito el estudio de los depósitos de relaves en sus diversas dimensiones de impacto, excluyendo detalles de diseño estructural. En particular, se estudia el rol del agua en asociación con el manejo, la disposición, la seguridad y el potencial impacto ambiental de los relaves. El énfasis del curso es profesional.",
+      "requirements": [
+        "MI4250",
+        "MI4135"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124842",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5265",
+      "name": "Evaluación y Gestión de Proyectos Mineros",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 0.89,
+      "purpose": "Los recursos minerales corresponden a la base del desarrollo material de la sociedad. Como toda actividad económica, se requiere que estos logren generar valor, gestionar los riesgos e impactos que puedan generar. Además, como recursos agotables y no renovables, el proceso de evaluación de proyectos mineros en distintas etapas es un aspecto fundamental para la ingeniería de minas. El propósito de este curso corresponde a que los y las estudiantes logren analizar evaluar y tener una capacidad crítica sobre el potencial de generación de valor de los recursos minerales. \r\n\r\nPor ello, este curso plantea que el estudiantado logre de manera específica:\r\n\r\n-\tevaluar proyectos de inversión minera, identificando sus principales fuentes de variabilidad.\r\n-\tanalizar los principales elementos que implican la gestión financiera y comercial en la industria minera.\r\n-\tproponer miradas integrales e innovadoras sobre la gestión de riesgos que ocurran en la actividad minera y que impactan la valoración de un depósito mineral.",
+      "requirements": [
+        "MI4260",
+        "MI4250",
+        "MI4070"
+      ],
+      "equivalences": [
+        "MI5082"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=142714",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI5110",
+      "name": "Gestión de Operaciones Mineras",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.92,
+      "purpose": "El curso tiene como propósito que el estudiantado comprenda la importancia de la relación de la gestión de producción con los otros ámbitos que completan la gestión de una operación minera. Así también que sea capaz de conocer conceptos y herramientas clave que se emplean en la gestión de una operación minera para alcanzar los planes comprometidos.\r\n\r\nA través de un juego de roles, el estudiantado realiza un diagnóstico de situación actual de gestión de una operación minera, considerando ámbitos de gestión estratégicos, tácticos y operacionales, visualizando e implementando las mejoras a la situación actual que permitan el mejoramiento de la gestión.",
+      "requirements": [
+        "MI4250",
+        "MI4260",
+        "MI4070"
+      ],
+      "equivalences": [],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124822",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5160",
+      "name": "Medio Ambiente y Comunidades",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 11,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que los y las estudiantes analicen y evalúen la sustentabilidad de los proyectos mineros en su dimensión social y ambiental, con una mirada ética y responsable. Es importante que el estudiante reflexione sobre el proyecto minero desde su diseño hasta su cierre, reconociendo su carácter temporal sujeto a recursos finitos. Asimismo, es importante que el estudiante pueda comprender que, además de la licencia ambiental, la minería debe contar con aceptación social, como requisito fundamental para su construcción y operación. \r\n \r\nLa estrategia metodológica incluye clases teórico  prácticas, análisis de casos reales, debates e intercambio de opiniones con responsabilidad y respeto sobre la gestión de los impactos ambientales y sociales de los proyectos mineros. Se busca reconocer el carácter invasivo de la actividad minera y la obligación moral de todos los profesionales involucrados de prevenir, mitigar, compensar y reparar los impactos que puede generar. En este curso, se buscará orientar la innovación en pro de una mayor sustentabilidad de la actividad minera, invitando a los y las estudiantes a repensar los diferentes procesos a lo largo de todo el ciclo de vida de los proyectos mineros. En las actividades y análisis dentro de las clases, el o la docente es un mediador que favorece la reflexión y la discusión sobre la sustentabilidad y su importancia.",
+      "requirements": [
+        "MI4070"
+      ],
+      "equivalences": [
+        "MI5051"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=116578",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 14,
+      "code": "MI5902",
+      "name": "Práctica Profesional II",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": null,
+      "requirements": [
+        "MI4901",
+        "MI4135",
+        "MI4070"
+      ],
+      "equivalences": [
+        "MI5901"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160694",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5120",
+      "name": "Diseño y Planificación de Minas Subterráneas",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 0.96,
+      "purpose": "El curso tiene como propósito que los y las estudiantes determinen los métodos más apropiados para una explotación minera subterránea relacionando parámetros y características propias del macizo rocoso y su geología, además de factores técnicos y ambientales. Asimismo, se espera que los y las estudiantes diseñen y planifiquen las unidades básicas mineras e infraestructura necesaria, generando programas de producción que contemplen restricciones medioambientales, de diseño y producción y se ajusten a requisitos económicos y normativos, considerando la incertidumbre de mercado, operacional y geológica.",
+      "requirements": [
+        "IN3301",
+        "MI4070",
+        "MI4040"
+      ],
+      "equivalences": [
+        "MI5071"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125158",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5115",
+      "name": "Diseño y Planificación de Minas a Cielo Abierto",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 13,
+      "approval_rate": 0.93,
+      "purpose": "El curso tiene como propósito que el estudiantado aplique técnicas y modelos de optimización para definir la secuencia, el plan y las reservas mineras mediante el uso de softwares de planificación y diseño de minas a cielo abierto, considerando restricciones físicas y operacionales.",
+      "requirements": [
+        "IN3301",
+        "MI4070",
+        "MI4040"
+      ],
+      "equivalences": [
+        "MI5073"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=125154",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 2
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI6907",
+      "name": "Introducción al Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 7,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el/la estudiante desarrolle una propuesta de proyecto profesional o de trabajo de investigación propio de la ingeniería de minas, con el apoyo de un/a profesor/a guía. En particular, el/la estudiante deberá ejecutar una investigación bibliográfica sobre la naturaleza de un problema relevante de la disciplina, así como determinar y justificar las bases teóricas y metodológicas que serán utilizadas para su resolución.\r\n\r\nEl/la estudiante trabajará en forma autónoma y presentará en forma sintética y clara sus resultados finales en forma escrita y oral. La propuesta de proyecto profesional o de trabajo de investigación será desarrollada en el siguiente curso MI6919: Trabajo de Título.\r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\n-Busca, selecciona y analiza críticamente información proveniente de diversas fuentes bibliográficas (revistas especializadas, congresos, libros, estudios técnicos, etc.) en torno a una problemática específica de la ingeniería de minas, considerando el estado del arte relevante al problema en estudio, como base para su marco teórico. \r\n-Plantea una propuesta de objetivos de estudio, así como un marco teórico, una metodología, definiendo un plan de trabajo para conseguir los objetivos propuestos mediante una hoja de ruta que considere hitos de avance en el trabajo.\r\n-Toma decisiones sobre el uso de modelos, herramientas analítico-numéricas y datos, como base para su proyecto a fin de integrar conocimientos de distintas áreas de la ingeniería de minas.\r\n-Comunica, en presentaciones de avance e informes escritos, el problema a abordar, el estado del arte de la investigación, las bases teóricas y metodológicas a utilizar, demostrando dominio del tema y capacidad de síntesis para exponer con claridad y precisión lo central de su propuesta. \r\n-Lee, en español y/o inglés, textos académicos y profesionales, para construir el marco teórico de su propuesta de trabajo de titulación, considerando la validez de las fuentes bibliográficas seleccionadas y un análisis crítico de esta.",
+      "requirements": [
+        "MI5902"
+      ],
+      "equivalences": [
+        "MI6908"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160970",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 3,
+      "code": "MI5260",
+      "name": "Seguridad Minera",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 9,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el estudiantado conozca y relacione los aspectos fundamentales de la seguridad minera, con un enfoque preventivo, relacionado a la industria extractiva minera nacional.\r\n\r\nPara cumplir con el propósito indicado, los y las estudiantes serán capaces de relacionar sus aprendizajes de minería, adquiridos en cursos anteriores, con el concepto de seguridad industrial y sus implicancias, valorando que la seguridad es parte fundamental del trabajo profesional y de la vida cotidiana y que se sustenta en principios éticos y morales, en conjunto con razones legales, de responsabilidad social, económicas y de ventaja competitiva.\r\n\r\nOtro aspecto relevante es determinar la relación entre la normativa transversal y/o específica, en el ámbito de la administración y gestión de riesgos, con los sistemas de gestión en la minería.  Además, es relevante que pueda identificar peligros, evaluar riesgos y definir medidas de control, asociados con procesos y/u operaciones unitarias de la industria minera. Por último, evaluar la gestión de la seguridad, relacionándola con indicadores estadísticos actuales (nacionales e internacionales), con el propósito de plantear acciones tendientes a la disminución de la accidentalidad minera.\r\n\r\nConcretamente, los y las estudiantes deben ser capaces de reflexionar sobre la importancia de la seguridad industrial en las operaciones/instalaciones mineras;  para ello, se usan los aspectos generales más relevantes de la normativa legal vigente para nuestro país y su aplicabilidad a los procesos mineros, con el fin de que los y las estudiantes sean profesionales comprometidos con la seguridad, disciplina que tiene por objetivo evitar que se generen accidentes de trabajo, con sus consecuentes daños a las personas. Por último, conocer las responsabilidades a las que pudiesen estar afectas las partes involucradas.\r\nEn este proceso el/la docente es un facilitador del proceso de aprendizaje, quien trasmite conocimientos y experiencias, propone temas de investigación y de análisis de casos reales para el/la de manera de cumplir sinérgicamente con el propósito del curso, enmarcados en un amplio espectro de información disponible.",
+      "requirements": [
+        "MI4901",
+        "MI4070"
+      ],
+      "equivalences": [
+        "MI6133"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=124834",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 1,
+        "auxs": 1
+      }
+    },
+    {
+      "credits": 6,
+      "code": "MI5210",
+      "name": "Taller de Proyecto Minero",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 10,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que los y las estudiantes apliquen e integren conocimientos adquiridos de las distintas disciplinas relacionadas con la ingeniería de minas para desarrollar un proyecto minero en equipo de trabajo.\r\n\r\nModalidad de trabajo:\r\n\r\nEl proceso de trabajo es dinámico y se organiza en fases iterativas, donde se retroalimenta a los equipos de trabajo sobre el proyecto que están desarrollando.\r\n\r\nLa modalidad de trabajo y desarrollo deberá incluir al menos los siguientes puntos:\r\n\r\n\tcontexto del proyecto;\r\n\tdiseño de un método de explotación y/o una estrategia de procesamiento adecuados; \r\n\tdimensionamiento de instalaciones, equipamiento y/o procesos necesarios; \r\n\tevaluación económica;\r\n\tetapas clave del proyecto.",
+      "requirements": [
+        "MI4250",
+        "MI5160",
+        "MI5115",
+        "MI5120"
+      ],
+      "equivalences": [
+        "MI6121",
+        "MI6111"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=143066",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 2,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 30,
+      "code": "MI6919",
+      "name": "Trabajo de Título",
+      "department": {
+        "name": "Departamento de Ingeniería de Minas",
+        "code": "DIMI",
+        "id": 23
+      },
+      "students_per_course": 5,
+      "approval_rate": 1.0,
+      "purpose": "El curso tiene como propósito que el/la estudiante desarrolle su proyecto profesional o de trabajo de investigación, de acuerdo con el temario aprobado en la Introducción al Trabajo de Título (MI6907), con el apoyo de profesores que supervisan el trabajo. \r\n\r\nEl/la estudiante trabajará de manera autónoma y presentará, en forma sintética y clara, sus resultados finales en forma escrita y oral. \r\n\r\nEl proyecto profesional o trabajo de investigación será defendido en el examen de título, ante una comisión conformada por los y las profesores guía, co-guía y/o integrante, para la obtención del título profesional de Ingeniero/a Civil de Minas. En caso de reprobar el Trabajo de Título (MI6919) o el examen de título, el/la estudiante deberá volver a inscribir el curso de Introducción al Trabajo de Título (MI6907) en el semestre siguiente.\r\n\r\nSe espera que el/la estudiante demuestre los siguientes logros:\r\n\r\nq\tPropone, aplica y evalúa soluciones científico-tecnológicas para resolver un problema de la ingeniería de minas.\r\nq\tToma decisiones sobre el uso de modelos, herramientas analítico-numéricas y datos, como base para su proyecto, a fin de integrar conocimientos de distintas áreas de la ingeniería de minas.\r\nq\tGestiona su quehacer, tomando decisiones frente a situaciones no previstas en su propuesta inicial, y demuestra iniciativa para resolver dificultades, reorientar su trabajo o realizar cambios metodológicos, a fin de cumplir con los objetivos propuestos.\r\nq\tPresenta avances (en forma escrita y oral) sobre el problema abordado, las bases teóricas, propuestas metodológicas y soluciones desarrolladas, demostrando dominio del tema y capacidad de síntesis para exponer con claridad y precisión lo central de su trabajo acorde a la audiencia.\r\nq\tProduce, con calidad y precisión científica, un texto escrito, donde fundamenta técnicamente las conclusiones de su trabajo de título, evidencia un procesamiento y análisis de los resultados, y considera una estructura (introducción, metodologías y resultados).\r\nq\tSelecciona, de manera crítica, aquella información pertinente a su trabajo de título, a partir de la revisión y análisis de múltiples fuentes, a fin de analizar y contrastar los resultados obtenidos con aquellos encontrados en la literatura vigente.",
+      "requirements": [
+        "MI6907",
+        "MI5210"
+      ],
+      "equivalences": [
+        "MI6909"
+      ],
+      "program_url": "https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=160974",
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 21,
+      "code": "planf052fd2ba7a7a79d72f96c088b0af5b5",
+      "name": "Ingeniería Electivos Minas, V5",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 21 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plane6d168d5af03dfd21402c7b04eab2ebf",
+      "name": "Formación Integral Licenciatura (FG/EH)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan2128839706dc6a9ce2a7bf329f96b0ef",
+      "name": "FI2004/IQ2212",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    },
+    {
+      "credits": 6,
+      "code": "plan49accd70cb61bdce739951bcd1bea145",
+      "name": "Formación Integral (FG/EH/EI/DR/FT)",
+      "department": null,
+      "students_per_course": 0,
+      "approval_rate": 0.0,
+      "purpose": "Es necesario aprobar 6 créditos de una lista definida por la institución.",
+      "requirements": [],
+      "equivalences": [],
+      "program_url": null,
+      "weekly_modules": {
+        "labs": 0,
+        "lectures": 0,
+        "auxs": 0
+      }
+    }
+  ]
+}
